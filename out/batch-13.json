@@ -1,0 +1,21 @@
+{
+  "Select a connection for SQL execution": "选择用于 SQL 执行的连接",
+  "Settings related to a DB editor": "与数据库编辑器相关的设置",
+  "Settings related to a shell session": "与 Shell 会话相关的设置",
+  "Settings related to background workers": "与后台工作线程相关的设置",
+  "Short label for this database connection": "此数据库连接的简短标签",
+  "Site-to-Site VPN": "站点到站点 VPN",
+  "SQL Execution": "SQL 执行",
+  "SQL Preview": "SQL 预览",
+  "SQL Reformatter": "SQL 重新格式化",
+  "SQL State": "SQL 状态",
+  "SQLite": "SQLite",
+  "SQLite 3": "SQLite 3",
+  "SSH Public Key File": "SSH 公钥文件",
+  "SSH tunnel": "SSH 隧道",
+  "SSH Tunnel (automatic)": "SSH 隧道（自动）",
+  "SSH URI": "SSH URI",
+  "SSL Certificate": "SSL 证书",
+  "SSL Mode": "SSL 模式",
+  "Take a tour >": "开始导览 >"
+}

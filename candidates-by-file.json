@@ -1,0 +1,11050 @@
+{
+ "AnimatedProgressIndicator-KPLqZ83K.js": [
+  [
+   "left title shellBuildInfo",
+   4
+  ],
+  [
+   "right shellBuildInfo",
+   4
+  ],
+  [
+   "MySQL Workbench",
+   3
+  ],
+  [
+   "Cannot ",
+   1
+  ],
+  [
+   "read from private field",
+   1
+  ],
+  [
+   "Cannot add the same private member more than once",
+   1
+  ],
+  [
+   "write to private field",
+   1
+  ],
+  [
+   "access private method",
+   1
+  ],
+  [
+   "Build: ba08183",
+   1
+  ],
+  [
+   "Backend Error: ",
+   1
+  ],
+  [
+   "left title",
+   1
+  ],
+  [
+   "Version:",
+   1
+  ],
+  [
+   " (ba08183)",
+   1
+  ],
+  [
+   "heading shellBuildHeading",
+   1
+  ],
+  [
+   "Build Information",
+   1
+  ],
+  [
+   "Powered by MySQL Shell:",
+   1
+  ],
+  [
+   "Platform/Architecture:",
+   1
+  ],
+  [
+   "Distribution:",
+   1
+  ],
+  [
+   "Additional Product Information",
+   1
+  ],
+  [
+   "right title small",
+   1
+  ],
+  [
+   "right selectable small",
+   1
+  ],
+  [
+   "Close",
+   1
+  ],
+  [
+   "Copy",
+   1
+  ],
+  [
+   "Copied to Clipboard",
+   1
+  ],
+  [
+   "Copy to Clipboard",
+   1
+  ],
+  [
+   "Range",
+   1
+  ],
+  [
+   "Radiobutton",
+   1
+  ]
+ ],
+ "ApplicationHost-QGx949WF.js": [
+  [
+   "Cancel",
+   22
+  ],
+  [
+   "Confirmation",
+   11
+  ],
+  [
+   "No",
+   10
+  ],
+  [
+   "Table",
+   8
+  ],
+  [
+   "MySQL",
+   8
+  ],
+  [
+   "Column",
+   7
+  ],
+  [
+   "Event",
+   7
+  ],
+  [
+   "Index",
+   7
+  ],
+  [
+   "Loading...",
+   7
+  ],
+  [
+   "minmax(0, 1fr)",
+   7
+  ],
+  [
+   "Delete",
+   6
+  ],
+  [
+   "Schema",
+   6
+  ],
+  [
+   "View",
+   6
+  ],
+  [
+   "Dump REST Project canceled.",
+   6
+  ],
+  [
+   "Back",
+   5
+  ],
+  [
+   "User",
+   5
+  ],
+  [
+   "Sqlite",
+   5
+  ],
+  [
+   "Host",
+   4
+  ],
+  [
+   "Lock",
+   4
+  ],
+  [
+   "Keyword",
+   4
+  ],
+  [
+   "Library",
+   4
+  ],
+  [
+   "Trigger",
+   4
+  ],
+  [
+   "Error",
+   4
+  ],
+  [
+   "Close",
+   4
+  ],
+  [
+   "Default",
+   4
+  ],
+  [
+   "The CREATE statement was copied to the system clipboard",
+   4
+  ],
+  [
+   "Function",
+   3
+  ],
+  [
+   "Tablespace",
+   3
+  ],
+  [
+   "Charset",
+   3
+  ],
+  [
+   "Collation",
+   3
+  ],
+  [
+   "Shell GUI",
+   3
+  ],
+  [
+   "Save",
+   3
+  ],
+  [
+   "More Actions",
+   3
+  ],
+  [
+   "Start MySQL Cloud Migration Assistant",
+   3
+  ],
+  [
+   "Disabled",
+   3
+  ],
+  [
+   "Yes",
+   3
+  ],
+  [
+   "Published",
+   3
+  ],
+  [
+   "Unpublished",
+   3
+  ],
+  [
+   "Load REST Project",
+   3
+  ],
+  [
+   "The REST Project was loaded successfully.",
+   3
+  ],
+  [
+   "MySQL Shell for VS Code",
+   3
+  ],
+  [
+   "English",
+   3
+  ],
+  [
+   "German",
+   3
+  ],
+  [
+   "Spanish",
+   3
+  ],
+  [
+   "Portuguese",
+   3
+  ],
+  [
+   "Italian",
+   3
+  ],
+  [
+   "Japanese",
+   3
+  ],
+  [
+   "MySQL Shell",
+   3
+  ],
+  [
+   "State",
+   3
+  ],
+  [
+   "Memory",
+   3
+  ],
+  [
+   "detailValue connectionSqlValue",
+   3
+  ],
+  [
+   "Waiting Connection",
+   3
+  ],
+  [
+   "Object",
+   3
+  ],
+  [
+   "Duration",
+   3
+  ],
+  [
+   "===await ji.confirm(",
+   3
+  ],
+  [
+   "Auto",
+   2
+  ],
+  [
+   "Sash",
+   2
+  ],
+  [
+   "Unknown",
+   2
+  ],
+  [
+   "Select",
+   2
+  ],
+  [
+   "Commit",
+   2
+  ],
+  [
+   "Execute",
+   2
+  ],
+  [
+   "Kill",
+   2
+  ],
+  [
+   "Procedure",
+   2
+  ],
+  [
+   "Udf",
+   2
+  ],
+  [
+   "ForeignKey",
+   2
+  ],
+  [
+   "Engine",
+   2
+  ],
+  [
+   "LogfileGroup",
+   2
+  ],
+  [
+   "UserVariable",
+   2
+  ],
+  [
+   "Plugin",
+   2
+  ],
+  [
+   "SystemVariable",
+   2
+  ],
+  [
+   "SystemFunction",
+   2
+  ],
+  [
+   "Label",
+   2
+  ],
+  [
+   "User Variable",
+   2
+  ],
+  [
+   "Low to high estimated cost",
+   2
+  ],
+  [
+   "Visual explain plan",
+   2
+  ],
+  [
+   "Value",
+   2
+  ],
+  [
+   "Blob",
+   2
+  ],
+  [
+   "Discard",
+   2
+  ],
+  [
+   "Enter",
+   2
+  ],
+  [
+   "Data Grid",
+   2
+  ],
+  [
+   "Preview Changes as SQL",
+   2
+  ],
+  [
+   "Refresh",
+   2
+  ],
+  [
+   "Show Action Menu",
+   2
+  ],
+  [
+   "Close Result Set",
+   2
+  ],
+  [
+   "Next",
+   2
+  ],
+  [
+   "Enabled",
+   2
+  ],
+  [
+   "Client Connections",
+   2
+  ],
+  [
+   "MySQL Administration",
+   2
+  ],
+  [
+   "Drop and Recreate",
+   2
+  ],
+  [
+   "Jdv",
+   2
+  ],
+  [
+   "AdminPage",
+   2
+  ],
+  [
+   "Foreign Key",
+   2
+  ],
+  [
+   "Connection test succeeded.",
+   2
+  ],
+  [
+   "New Connection",
+   2
+  ],
+  [
+   "A new Database Connection",
+   2
+  ],
+  [
+   "Port",
+   2
+  ],
+  [
+   "Tags",
+   2
+  ],
+  [
+   "Basic",
+   2
+  ],
+  [
+   "Advanced",
+   2
+  ],
+  [
+   "SSH Private Key File",
+   2
+  ],
+  [
+   "Create New Bastion",
+   2
+  ],
+  [
+   "<error loading bastion name data>",
+   2
+  ],
+  [
+   "<error loading database OCI name data>",
+   2
+  ],
+  [
+   "<Add new folder>",
+   2
+  ],
+  [
+   "Create New Folder",
+   2
+  ],
+  [
+   "A connection folder is an organizational unit for connections.",
+   2
+  ],
+  [
+   "<failed to create default bastion>",
+   2
+  ],
+  [
+   "Not implemented.",
+   2
+  ],
+  [
+   "Accept",
+   2
+  ],
+  [
+   "The DB Object Path was copied to the system clipboard",
+   2
+  ],
+  [
+   "Delete Folder",
+   2
+  ],
+  [
+   "< Back",
+   2
+  ],
+  [
+   "MySQL Workbench 8",
+   2
+  ],
+  [
+   "Delete original Migration Assistant project files",
+   2
+  ],
+  [
+   "Delete original SSH keys after copying",
+   2
+  ],
+  [
+   "MySQL Workbench",
+   2
+  ],
+  [
+   "Migration Assistant",
+   2
+  ],
+  [
+   "Files",
+   2
+  ],
+  [
+   "Invalid connection export file.",
+   2
+  ],
+  [
+   "History",
+   2
+  ],
+  [
+   "Command",
+   2
+  ],
+  [
+   "Time",
+   2
+  ],
+  [
+   "Info",
+   2
+  ],
+  [
+   "Type",
+   2
+  ],
+  [
+   "Name",
+   2
+  ],
+  [
+   "Role",
+   2
+  ],
+  [
+   "Instrumented",
+   2
+  ],
+  [
+   "Aborted_clients",
+   2
+  ],
+  [
+   "Aborted_connects",
+   2
+  ],
+  [
+   "Connection_errors_accept",
+   2
+  ],
+  [
+   "Connection_errors_internal",
+   2
+  ],
+  [
+   "Connection_errors_max_connections",
+   2
+  ],
+  [
+   "Connection_errors_peer_address",
+   2
+  ],
+  [
+   "Connection_errors_select",
+   2
+  ],
+  [
+   "Connection_errors_tcpwrap",
+   2
+  ],
+  [
+   "Max_used_connections",
+   2
+  ],
+  [
+   "Threads_connected",
+   2
+  ],
+  [
+   "Threads_running",
+   2
+  ],
+  [
+   "Total Latency",
+   2
+  ],
+  [
+   "Connection Info",
+   2
+  ],
+  [
+   "detailLabel stacked connectionSqlLabel",
+   2
+  ],
+  [
+   "Waiting Query",
+   2
+  ],
+  [
+   "Held By",
+   2
+  ],
+  [
+   "Holder User",
+   2
+  ],
+  [
+   "Holding Time",
+   2
+  ],
+  [
+   "Holder State",
+   2
+  ],
+  [
+   "No events.",
+   2
+  ],
+  [
+   "Current Statement",
+   2
+  ],
+  [
+   "Start Time",
+   2
+  ],
+  [
+   "Time Elapsed",
+   2
+  ],
+  [
+   "SQL Text",
+   2
+  ],
+  [
+   ");let o,r,l,c,d=",
+   2
+  ],
+  [
+   "Cannot ",
+   1
+  ],
+  [
+   "read from private field",
+   1
+  ],
+  [
+   "Cannot add the same private member more than once",
+   1
+  ],
+  [
+   "write to private field",
+   1
+  ],
+  [
+   "access private method",
+   1
+  ],
+  [
+   "Built-in Theme",
+   1
+  ],
+  [
+   "Pseudo theme to match the current system theme",
+   1
+  ],
+  [
+   "Modified",
+   1
+  ],
+  [
+   "Search settings",
+   1
+  ],
+  [
+   "Show Advanced Settings",
+   1
+  ],
+  [
+   " stretch",
+   1
+  ],
+  [
+   "Standard",
+   1
+  ],
+  [
+   "Terminal",
+   1
+  ],
+  [
+   "Ambiguous",
+   1
+  ],
+  [
+   "AlterDatabase",
+   1
+  ],
+  [
+   "AlterLogFileGroup",
+   1
+  ],
+  [
+   "AlterFunction",
+   1
+  ],
+  [
+   "AlterProcedure",
+   1
+  ],
+  [
+   "AlterLibrary",
+   1
+  ],
+  [
+   "AlterServer",
+   1
+  ],
+  [
+   "AlterTable",
+   1
+  ],
+  [
+   "AlterTableSpace",
+   1
+  ],
+  [
+   "AlterEvent",
+   1
+  ],
+  [
+   "AlterView",
+   1
+  ],
+  [
+   "CreateTable",
+   1
+  ],
+  [
+   "CreateVirtualTable",
+   1
+  ],
+  [
+   "CreateIndex",
+   1
+  ],
+  [
+   "CreateDatabase",
+   1
+  ],
+  [
+   "CreateEvent",
+   1
+  ],
+  [
+   "CreateView",
+   1
+  ],
+  [
+   "CreateRoutine",
+   1
+  ],
+  [
+   "CreateProcedure",
+   1
+  ],
+  [
+   "CreateFunction",
+   1
+  ],
+  [
+   "CreateLibrary",
+   1
+  ],
+  [
+   "CreateUdf",
+   1
+  ],
+  [
+   "CreateTrigger",
+   1
+  ],
+  [
+   "CreateLogFileGroup",
+   1
+  ],
+  [
+   "CreateServer",
+   1
+  ],
+  [
+   "CreateTableSpace",
+   1
+  ],
+  [
+   "DropDatabase",
+   1
+  ],
+  [
+   "DropEvent",
+   1
+  ],
+  [
+   "DropFunction",
+   1
+  ],
+  [
+   "DropProcedure",
+   1
+  ],
+  [
+   "DropLibrary",
+   1
+  ],
+  [
+   "DropIndex",
+   1
+  ],
+  [
+   "DropLogfileGroup",
+   1
+  ],
+  [
+   "DropServer",
+   1
+  ],
+  [
+   "DropTable",
+   1
+  ],
+  [
+   "DropTablespace",
+   1
+  ],
+  [
+   "DropTrigger",
+   1
+  ],
+  [
+   "DropView",
+   1
+  ],
+  [
+   "RenameTable",
+   1
+  ],
+  [
+   "TruncateTable",
+   1
+  ],
+  [
+   "Call",
+   1
+  ],
+  [
+   "Do",
+   1
+  ],
+  [
+   "Handler",
+   1
+  ],
+  [
+   "Insert",
+   1
+  ],
+  [
+   "LoadData",
+   1
+  ],
+  [
+   "LoadXML",
+   1
+  ],
+  [
+   "Replace",
+   1
+  ],
+  [
+   "Values",
+   1
+  ],
+  [
+   "Update",
+   1
+  ],
+  [
+   "StartTransaction",
+   1
+  ],
+  [
+   "BeginWork",
+   1
+  ],
+  [
+   "RollbackWork",
+   1
+  ],
+  [
+   "SetAutoCommit",
+   1
+  ],
+  [
+   "SetTransaction",
+   1
+  ],
+  [
+   "SavePoint",
+   1
+  ],
+  [
+   "ReleaseSavePoint",
+   1
+  ],
+  [
+   "RollbackSavePoint",
+   1
+  ],
+  [
+   "Unlock",
+   1
+  ],
+  [
+   "Purge",
+   1
+  ],
+  [
+   "ChangeMaster",
+   1
+  ],
+  [
+   "Reset",
+   1
+  ],
+  [
+   "ResetMaster",
+   1
+  ],
+  [
+   "ResetSlave",
+   1
+  ],
+  [
+   "StartSlave",
+   1
+  ],
+  [
+   "StopSlave",
+   1
+  ],
+  [
+   "LoadDataMaster",
+   1
+  ],
+  [
+   "LoadTableMaster",
+   1
+  ],
+  [
+   "Prepare",
+   1
+  ],
+  [
+   "Deallocate",
+   1
+  ],
+  [
+   "AlterUser",
+   1
+  ],
+  [
+   "CreateUser",
+   1
+  ],
+  [
+   "DropUser",
+   1
+  ],
+  [
+   "GrantProxy",
+   1
+  ],
+  [
+   "Grant",
+   1
+  ],
+  [
+   "RenameUser",
+   1
+  ],
+  [
+   "RevokeProxy",
+   1
+  ],
+  [
+   "Revoke",
+   1
+  ],
+  [
+   "AnalyzeTable",
+   1
+  ],
+  [
+   "CheckTable",
+   1
+  ],
+  [
+   "ChecksumTable",
+   1
+  ],
+  [
+   "OptimizeTable",
+   1
+  ],
+  [
+   "RepairTable",
+   1
+  ],
+  [
+   "BackUpTable",
+   1
+  ],
+  [
+   "RestoreTable",
+   1
+  ],
+  [
+   "InstallPlugin",
+   1
+  ],
+  [
+   "UninstallPlugin",
+   1
+  ],
+  [
+   "Set",
+   1
+  ],
+  [
+   "SetPassword",
+   1
+  ],
+  [
+   "Show",
+   1
+  ],
+  [
+   "ShowBinaryLogs",
+   1
+  ],
+  [
+   "ShowBinLogEvents",
+   1
+  ],
+  [
+   "ShowRelayLogEvents",
+   1
+  ],
+  [
+   "ShowCharset",
+   1
+  ],
+  [
+   "ShowCollation",
+   1
+  ],
+  [
+   "ShowColumns",
+   1
+  ],
+  [
+   "ShowCreateDatabase",
+   1
+  ],
+  [
+   "ShowCreateEvent",
+   1
+  ],
+  [
+   "ShowCreateFunction",
+   1
+  ],
+  [
+   "ShowCreateProcedure",
+   1
+  ],
+  [
+   "ShowCreateTable",
+   1
+  ],
+  [
+   "ShowCreateTrigger",
+   1
+  ],
+  [
+   "ShowCreateView",
+   1
+  ],
+  [
+   "ShowDatabases",
+   1
+  ],
+  [
+   "ShowEngineStatus",
+   1
+  ],
+  [
+   "ShowStorageEngines",
+   1
+  ],
+  [
+   "ShowErrors",
+   1
+  ],
+  [
+   "ShowEvents",
+   1
+  ],
+  [
+   "ShowFunctionCode",
+   1
+  ],
+  [
+   "ShowFunctionStatus",
+   1
+  ],
+  [
+   "ShowGrants",
+   1
+  ],
+  [
+   "ShowIndexes",
+   1
+  ],
+  [
+   "ShowMasterStatus",
+   1
+  ],
+  [
+   "ShowOpenTables",
+   1
+  ],
+  [
+   "ShowPlugins",
+   1
+  ],
+  [
+   "ShowProcedureStatus",
+   1
+  ],
+  [
+   "ShowProcedureCode",
+   1
+  ],
+  [
+   "ShowPrivileges",
+   1
+  ],
+  [
+   "ShowProcessList",
+   1
+  ],
+  [
+   "ShowProfile",
+   1
+  ],
+  [
+   "ShowProfiles",
+   1
+  ],
+  [
+   "ShowSlaveHosts",
+   1
+  ],
+  [
+   "ShowSlaveStatus",
+   1
+  ],
+  [
+   "ShowStatus",
+   1
+  ],
+  [
+   "ShowVariables",
+   1
+  ],
+  [
+   "ShowTableStatus",
+   1
+  ],
+  [
+   "ShowTables",
+   1
+  ],
+  [
+   "ShowTriggers",
+   1
+  ],
+  [
+   "ShowWarnings",
+   1
+  ],
+  [
+   "CacheIndex",
+   1
+  ],
+  [
+   "Flush",
+   1
+  ],
+  [
+   "LoadIndex",
+   1
+  ],
+  [
+   "Attach",
+   1
+  ],
+  [
+   "Detach",
+   1
+  ],
+  [
+   "Pragma",
+   1
+  ],
+  [
+   "ReIndex",
+   1
+  ],
+  [
+   "Vacuum",
+   1
+  ],
+  [
+   "ExplainTable",
+   1
+  ],
+  [
+   "ExplainStatement",
+   1
+  ],
+  [
+   "Help",
+   1
+  ],
+  [
+   "Use",
+   1
+  ],
+  [
+   "Sentinel",
+   1
+  ],
+  [
+   "Rest",
+   1
+  ],
+  [
+   "RestUse",
+   1
+  ],
+  [
+   "RestShow",
+   1
+  ],
+  [
+   "Complete",
+   1
+  ],
+  [
+   "OpenComment",
+   1
+  ],
+  [
+   "OpenString",
+   1
+  ],
+  [
+   "NoDelimiter",
+   1
+  ],
+  [
+   "DelimiterChange",
+   1
+  ],
+  [
+   "Catalog",
+   1
+  ],
+  [
+   "PrimaryKey",
+   1
+  ],
+  [
+   "Operator",
+   1
+  ],
+  [
+   "Warning",
+   1
+  ],
+  [
+   "Suggestion",
+   1
+  ],
+  [
+   "Message",
+   1
+  ],
+  [
+   "ColumnSymbol",
+   1
+  ],
+  [
+   "Embedded",
+   1
+  ],
+  [
+   "Stored Function",
+   1
+  ],
+  [
+   "Stored Procedure",
+   1
+  ],
+  [
+   "User Defined Function",
+   1
+  ],
+  [
+   "Uer",
+   1
+  ],
+  [
+   "Table Engine",
+   1
+  ],
+  [
+   "Server Plugin",
+   1
+  ],
+  [
+   "Logfile Group",
+   1
+  ],
+  [
+   "System Function",
+   1
+  ],
+  [
+   "System Variable",
+   1
+  ],
+  [
+   "<no description available>",
+   1
+  ],
+  [
+   "No Suggestions",
+   1
+  ],
+  [
+   "Reached maximum number of pending tasks in worker pool",
+   1
+  ],
+  [
+   "primitive type",
+   1
+  ],
+  [
+   "local var",
+   1
+  ],
+  [
+   "SQL Preview",
+   1
+  ],
+  [
+   "<No Changes>",
+   1
+  ],
+  [
+   " clickable",
+   1
+  ],
+  [
+   "Drag to move. Click to select viewport.",
+   1
+  ],
+  [
+   "Total est. cost",
+   1
+  ],
+  [
+   "Visual explain minimap",
+   1
+  ],
+  [
+   "imageResultViewImage imageResultViewSvg",
+   1
+  ],
+  [
+   "No visual explain image generated.",
+   1
+  ],
+  [
+   "INSERT INTO",
+   1
+  ],
+  [
+   "insert into",
+   1
+  ],
+  [
+   "delete from",
+   1
+  ],
+  [
+   " AND ",
+   1
+  ],
+  [
+   " and ",
+   1
+  ],
+  [
+   "Database Field Editor",
+   1
+  ],
+  [
+   "Text",
+   1
+  ],
+  [
+   "Binary",
+   1
+  ],
+  [
+   "Image",
+   1
+  ],
+  [
+   "iconHost data",
+   1
+  ],
+  [
+   "input, textarea",
+   1
+  ],
+  [
+   "Geometry",
+   1
+  ],
+  [
+   "String",
+   1
+  ],
+  [
+   "Add New Row",
+   1
+  ],
+  [
+   "Open Value in Editor",
+   1
+  ],
+  [
+   "Set Field to Null",
+   1
+  ],
+  [
+   "Set Field to Default",
+   1
+  ],
+  [
+   "Save Value to File...",
+   1
+  ],
+  [
+   "Load Value from File...",
+   1
+  ],
+  [
+   "Copy Single Row",
+   1
+  ],
+  [
+   "Copy Row",
+   1
+  ],
+  [
+   "Copy Row With Names",
+   1
+  ],
+  [
+   "Copy Row Unquoted",
+   1
+  ],
+  [
+   "Copy Row With Names, Unquoted",
+   1
+  ],
+  [
+   "Copy Row With Names, Tab Separated",
+   1
+  ],
+  [
+   "Copy Row Tab Separated",
+   1
+  ],
+  [
+   "Copy Multiple Rows",
+   1
+  ],
+  [
+   "Copy All Rows",
+   1
+  ],
+  [
+   "Copy All Rows With Names",
+   1
+  ],
+  [
+   "Copy All Rows Unquoted",
+   1
+  ],
+  [
+   "Copy All Rows With Names, Unquoted",
+   1
+  ],
+  [
+   "Copy All Rows With Names, Tab Separated",
+   1
+  ],
+  [
+   "Copy All Rows Tab, Separated",
+   1
+  ],
+  [
+   "Copy Selected Rows",
+   1
+  ],
+  [
+   "Copy Selected Rows, Tab Separated",
+   1
+  ],
+  [
+   "Copy Field",
+   1
+  ],
+  [
+   "Copy Field Unquoted",
+   1
+  ],
+  [
+   "Paste Row",
+   1
+  ],
+  [
+   "Delete Row (Mark/Unmark)",
+   1
+  ],
+  [
+   "Capitalize Text",
+   1
+  ],
+  [
+   "Convert Text to Lower Case",
+   1
+  ],
+  [
+   "Convert Text to Upper Case",
+   1
+  ],
+  [
+   "Save Rendered Image",
+   1
+  ],
+  [
+   "Do you really want to discard all changes?",
+   1
+  ],
+  [
+   "ArrowLeft",
+   1
+  ],
+  [
+   "ArrowUp",
+   1
+  ],
+  [
+   "ArrowRight",
+   1
+  ],
+  [
+   "ArrowDown",
+   1
+  ],
+  [
+   "Spacebar",
+   1
+  ],
+  [
+   "Output",
+   1
+  ],
+  [
+   "Editing",
+   1
+  ],
+  [
+   "Start Editing",
+   1
+  ],
+  [
+   "Data not editable",
+   1
+  ],
+  [
+   "View:",
+   1
+  ],
+  [
+   "viewSelector segmentedButton",
+   1
+  ],
+  [
+   "Pages:",
+   1
+  ],
+  [
+   "Previous Page",
+   1
+  ],
+  [
+   "Next Page",
+   1
+  ],
+  [
+   "Edit:",
+   1
+  ],
+  [
+   "Apply Changes",
+   1
+  ],
+  [
+   "Discard Changes",
+   1
+  ],
+  [
+   "Layout:",
+   1
+  ],
+  [
+   "visualExplainLayoutSelector visualExplainSegmentedSelector",
+   1
+  ],
+  [
+   "Visual Explain Layout",
+   1
+  ],
+  [
+   "Top-Down Layout",
+   1
+  ],
+  [
+   "Bottom-Up Layout",
+   1
+  ],
+  [
+   "Details:",
+   1
+  ],
+  [
+   "visualExplainDetailsSelector visualExplainSegmentedSelector",
+   1
+  ],
+  [
+   "Visual Explain Details",
+   1
+  ],
+  [
+   "Minimal Details",
+   1
+  ],
+  [
+   "Minimal",
+   1
+  ],
+  [
+   "Medium Details",
+   1
+  ],
+  [
+   "Medium",
+   1
+  ],
+  [
+   "Full Details",
+   1
+  ],
+  [
+   "Full",
+   1
+  ],
+  [
+   "Zoom Out",
+   1
+  ],
+  [
+   "Reset Zoom",
+   1
+  ],
+  [
+   "Zoom In",
+   1
+  ],
+  [
+   "Show Minimap",
+   1
+  ],
+  [
+   "Save Image...",
+   1
+  ],
+  [
+   "Fixed width text",
+   1
+  ],
+  [
+   "Export Result Set",
+   1
+  ],
+  [
+   "Import Result Set",
+   1
+  ],
+  [
+   "visualExplainDetailsButton active",
+   1
+  ],
+  [
+   "visualExplainLayoutButton active",
+   1
+  ],
+  [
+   "Image Files",
+   1
+  ],
+  [
+   "All Files",
+   1
+  ],
+  [
+   "Querying your HeatWave Data using SQL, natural language or TypeScript/JavaScript.",
+   1
+  ],
+  [
+   "UpdateOptions",
+   1
+  ],
+  [
+   "ChatOptionsIcon",
+   1
+  ],
+  [
+   "Basis",
+   1
+  ],
+  [
+   "Bundle",
+   1
+  ],
+  [
+   "Linear",
+   1
+  ],
+  [
+   "Natural",
+   1
+  ],
+  [
+   "Step",
+   1
+  ],
+  [
+   "StepBefore",
+   1
+  ],
+  [
+   "StepAfter",
+   1
+  ],
+  [
+   "%b %-d, %Y",
+   1
+  ],
+  [
+   "delimiter ",
+   1
+  ],
+  [
+   "button, [href], input, select, textarea, [tabindex]:not([tabindex='-1'])",
+   1
+  ],
+  [
+   "User interface explanation",
+   1
+  ],
+  [
+   " of ",
+   1
+  ],
+  [
+   "Finish",
+   1
+  ],
+  [
+   "Open",
+   1
+  ],
+  [
+   "CreateNew",
+   1
+  ],
+  [
+   "Group",
+   1
+  ],
+  [
+   "Create New Notebook",
+   1
+  ],
+  [
+   "PrivateOnly",
+   1
+  ],
+  [
+   "Access ENABLED",
+   1
+  ],
+  [
+   "PRIVATE Access Only",
+   1
+  ],
+  [
+   "select @@performance_schema",
+   1
+  ],
+  [
+   "SELECT @@GLOBAL.partial_revokes",
+   1
+  ],
+  [
+   "Server Status",
+   1
+  ],
+  [
+   "Show Server Status",
+   1
+  ],
+  [
+   "Show Client Connections",
+   1
+  ],
+  [
+   "User Accounts",
+   1
+  ],
+  [
+   "Show User Accounts",
+   1
+  ],
+  [
+   "Performance Reports",
+   1
+  ],
+  [
+   "Show Performance Reports",
+   1
+  ],
+  [
+   "Lakehouse Navigator",
+   1
+  ],
+  [
+   "Show Lakehouse Navigator",
+   1
+  ],
+  [
+   "Enterprise Backup",
+   1
+  ],
+  [
+   "Show Enterprise Backup",
+   1
+  ],
+  [
+   "Starting editor session...",
+   1
+  ],
+  [
+   "Session created, opening new connection...",
+   1
+  ],
+  [
+   "DB Creation Error",
+   1
+  ],
+  [
+   "Starting DB service session...",
+   1
+  ],
+  [
+   "Determining MRS support...",
+   1
+  ],
+  [
+   "Disable MRS features",
+   1
+  ],
+  [
+   "Are you really sure you want to drop and recreate the MRS metadata schema? WARNING: All existing MRS data will be lost.",
+   1
+  ],
+  [
+   "$(loading~spin) Updating the MySQL REST Service Metadata Schema ...",
+   1
+  ],
+  [
+   "The MySQL REST Service Metadata Schema has been updated.",
+   1
+  ],
+  [
+   "MySQL REST Service",
+   1
+  ],
+  [
+   "MySQL Routers",
+   1
+  ],
+  [
+   "REST Authentication Apps",
+   1
+  ],
+  [
+   "MySQL Router controls are unavailable while MRS support is deferred.",
+   1
+  ],
+  [
+   "ConnectionGroup",
+   1
+  ],
+  [
+   "Connection",
+   1
+  ],
+  [
+   "StoredFunction",
+   1
+  ],
+  [
+   "StoredProcedure",
+   1
+  ],
+  [
+   "TableGroup",
+   1
+  ],
+  [
+   "ViewGroup",
+   1
+  ],
+  [
+   "EventGroup",
+   1
+  ],
+  [
+   "ProcedureGroup",
+   1
+  ],
+  [
+   "FunctionGroup",
+   1
+  ],
+  [
+   "SchemaGroup",
+   1
+  ],
+  [
+   "Admin",
+   1
+  ],
+  [
+   "MrsRoot",
+   1
+  ],
+  [
+   "MrsService",
+   1
+  ],
+  [
+   "MrsSchema",
+   1
+  ],
+  [
+   "MrsContentSet",
+   1
+  ],
+  [
+   "MrsUser",
+   1
+  ],
+  [
+   "MrsAuthAppGroup",
+   1
+  ],
+  [
+   "MrsAuthApp",
+   1
+  ],
+  [
+   "MrsAuthAppServiceGroup",
+   1
+  ],
+  [
+   "MrsAuthAppService",
+   1
+  ],
+  [
+   "MrsServiceAuthApp",
+   1
+  ],
+  [
+   "MrsContentFile",
+   1
+  ],
+  [
+   "MrsDbObject",
+   1
+  ],
+  [
+   "MrsDbObjectFunction",
+   1
+  ],
+  [
+   "MrsDbObjectProcedure",
+   1
+  ],
+  [
+   "MrsRouterGroup",
+   1
+  ],
+  [
+   "MrsRouter",
+   1
+  ],
+  [
+   "MrsRouterService",
+   1
+  ],
+  [
+   "Cannot drop a connection group, which is not empty.",
+   1
+  ],
+  [
+   "Tables",
+   1
+  ],
+  [
+   "Views",
+   1
+  ],
+  [
+   "Events",
+   1
+  ],
+  [
+   "Procedures",
+   1
+  ],
+  [
+   "Functions",
+   1
+  ],
+  [
+   "Libraries",
+   1
+  ],
+  [
+   "Columns",
+   1
+  ],
+  [
+   "Indexes",
+   1
+  ],
+  [
+   "Foreign Keys",
+   1
+  ],
+  [
+   "Triggers",
+   1
+  ],
+  [
+   "Loading MRS services and routers ...",
+   1
+  ],
+  [
+   "Loading MRS auth apps ...",
+   1
+  ],
+  [
+   "In Development",
+   1
+  ],
+  [
+   "Failed to get CREATE statement.",
+   1
+  ],
+  [
+   "Cannot add DB connection: ",
+   1
+  ],
+  [
+   "Delete badge",
+   1
+  ],
+  [
+   "Badge text",
+   1
+  ],
+  [
+   "Add badge",
+   1
+  ],
+  [
+   "Database Connection Configuration",
+   1
+  ],
+  [
+   "mysql (socket/pipe)",
+   1
+  ],
+  [
+   "mysql + SSH tunnel",
+   1
+  ],
+  [
+   "mysql + OCI Bastion",
+   1
+  ],
+  [
+   "Workbench  ── socket ──▻  MySQL",
+   1
+  ],
+  [
+   "Workbench  ───▻  SSH Host  ───▻  MySQL",
+   1
+  ],
+  [
+   "Workbench  ───▻  Bastion  ───▻  MySQL",
+   1
+  ],
+  [
+   "Workbench  ── tcp/X protocol ──▻  MySQL",
+   1
+  ],
+  [
+   "Workbench  ── tcp ──▻  MySQL",
+   1
+  ],
+  [
+   "Select one of the database types for your connection",
+   1
+  ],
+  [
+   "A connection with that caption exists already",
+   1
+  ],
+  [
+   "The caption cannot be empty",
+   1
+  ],
+  [
+   "Specify the path to an existing Sqlite DB file",
+   1
+  ],
+  [
+   "Invalid file path",
+   1
+  ],
+  [
+   "Specify a valid host name or IP address",
+   1
+  ],
+  [
+   "The user name must not be empty",
+   1
+  ],
+  [
+   "The port must be a valid integer >= 0",
+   1
+  ],
+  [
+   "The timeout must be a valid integer >= 0",
+   1
+  ],
+  [
+   "User and connection endpoint are required.",
+   1
+  ],
+  [
+   "SSH URI is required.",
+   1
+  ],
+  [
+   "Socket Path",
+   1
+  ],
+  [
+   "Caption",
+   1
+  ],
+  [
+   "<enter a unique caption>",
+   1
+  ],
+  [
+   "Short label for this database connection",
+   1
+  ],
+  [
+   "Description",
+   1
+  ],
+  [
+   "<describe the connection>",
+   1
+  ],
+  [
+   "More detailed description of the connection",
+   1
+  ],
+  [
+   "Edit tags",
+   1
+  ],
+  [
+   "Default Editor",
+   1
+  ],
+  [
+   "Choose the global default or override it for this connection",
+   1
+  ],
+  [
+   "Folder Path",
+   1
+  ],
+  [
+   "Path of the folder holding the connection",
+   1
+  ],
+  [
+   "Database Type",
+   1
+  ],
+  [
+   "Database connection type",
+   1
+  ],
+  [
+   "Database Path",
+   1
+  ],
+  [
+   "SQLite 3",
+   1
+  ],
+  [
+   "<Enter the DB file location>",
+   1
+  ],
+  [
+   "Database Name",
+   1
+  ],
+  [
+   "<enter a database name>",
+   1
+  ],
+  [
+   "Other Parameters",
+   1
+  ],
+  [
+   "Connection Method",
+   1
+  ],
+  [
+   "Path",
+   1
+  ],
+  [
+   "Error while loading OCI profiles: ",
+   1
+  ],
+  [
+   "Host Name or IP Address",
+   1
+  ],
+  [
+   "User Name",
+   1
+  ],
+  [
+   "Store Password",
+   1
+  ],
+  [
+   "Clear Password",
+   1
+  ],
+  [
+   "Default Schema",
+   1
+  ],
+  [
+   "SSL Mode",
+   1
+  ],
+  [
+   "Permitted ciphers (optional, comma separated list)",
+   1
+  ],
+  [
+   "Path to Certificate Authority file for SSL",
+   1
+  ],
+  [
+   "Path to Client Certificate file for SSL",
+   1
+  ],
+  [
+   "Path to Client Key file for SSL",
+   1
+  ],
+  [
+   "SSH Tunnel",
+   1
+  ],
+  [
+   "SSH URI",
+   1
+  ],
+  [
+   "Custom Path for the SSH Configuration File",
+   1
+  ],
+  [
+   "SQL Mode",
+   1
+  ],
+  [
+   "Connection Timeout",
+   1
+  ],
+  [
+   "Compression",
+   1
+  ],
+  [
+   "Compression Level",
+   1
+  ],
+  [
+   "Compression Algorithms",
+   1
+  ],
+  [
+   "Connection Startup Checks",
+   1
+  ],
+  [
+   "Disable HeatWave Check",
+   1
+  ],
+  [
+   "Other Connection Options",
+   1
+  ],
+  [
+   "OCI Bastion Service",
+   1
+  ],
+  [
+   "OCI Profile Name",
+   1
+  ],
+  [
+   "SSH Public Key File",
+   1
+  ],
+  [
+   "MySQL DB System OCID",
+   1
+  ],
+  [
+   "Bastion OCID",
+   1
+  ],
+  [
+   "MySQL DB System Name",
+   1
+  ],
+  [
+   "Bastion Name",
+   1
+  ],
+  [
+   "Connection Tags",
+   1
+  ],
+  [
+   "Badge text must be between 1 and 16 characters.",
+   1
+  ],
+  [
+   "Badge text must be unique.",
+   1
+  ],
+  [
+   "Badge color must not be empty.",
+   1
+  ],
+  [
+   "Open MySQL Connection",
+   1
+  ],
+  [
+   "User, Host and port cannot be empty.",
+   1
+  ],
+  [
+   "Password was cleared.",
+   1
+  ],
+  [
+   "Password Cleared",
+   1
+  ],
+  [
+   "Password cleared successfully.",
+   1
+  ],
+  [
+   "<error loading mds database info>",
+   1
+  ],
+  [
+   "MDS/Bastion Service",
+   1
+  ],
+  [
+   "There is no Bastion in the compartment of this MySQL DB System that can be used.",
+   1
+  ],
+  [
+   "Do you want to create a new Bastion in the compartment of the MySQL DB System?",
+   1
+  ],
+  [
+   "Waiting up to 5 minutes for the bastion to be created.",
+   1
+  ],
+  [
+   "Enter the name of the new folder to create:",
+   1
+  ],
+  [
+   "Test Connection",
+   1
+  ],
+  [
+   "Disable",
+   1
+  ],
+  [
+   "Preferred",
+   1
+  ],
+  [
+   "Require",
+   1
+  ],
+  [
+   "Require and Verify CA",
+   1
+  ],
+  [
+   "Require and Verify Identity",
+   1
+  ],
+  [
+   "TypeScript",
+   1
+  ],
+  [
+   "Migration Assistant cannot be started.",
+   1
+  ],
+  [
+   "An error occurred when trying to build the DB Object Path. ",
+   1
+  ],
+  [
+   "Load a REST Project from a ZIP file or folder",
+   1
+  ],
+  [
+   "Enter the path for the MRS Project ZIP file or folder.",
+   1
+  ],
+  [
+   "Load a REST Project ZIP from a URL",
+   1
+  ],
+  [
+   "Enter the URL for the MRS Project ZIP file.",
+   1
+  ],
+  [
+   "Load a REST Project from Github",
+   1
+  ],
+  [
+   "Enter the Github shortcut for the REST Project",
+   1
+  ],
+  [
+   "Dump REST Project",
+   1
+  ],
+  [
+   "Dump REST Project either to a folder or a ZIP file.",
+   1
+  ],
+  [
+   "Enter the folder or ZIP path",
+   1
+  ],
+  [
+   "Enter the name of the project",
+   1
+  ],
+  [
+   "Enter the project description",
+   1
+  ],
+  [
+   "Enter the project publisher",
+   1
+  ],
+  [
+   "Enter the project version",
+   1
+  ],
+  [
+   "Enter the project icon path",
+   1
+  ],
+  [
+   "The REST Project was dumped successfully.",
+   1
+  ],
+  [
+   "$(loading~spin) Opening Database Connection ...",
+   1
+  ],
+  [
+   "The MRS service has been set as the new default service.",
+   1
+  ],
+  [
+   "Select REST Authentication App",
+   1
+  ],
+  [
+   "Select a REST Authentication app to link it to this service.",
+   1
+  ],
+  [
+   "Select REST Service",
+   1
+  ],
+  [
+   "Select a REST service to link this authentication app to.",
+   1
+  ],
+  [
+   "Unlink",
+   1
+  ],
+  [
+   "The MRS service has been deleted successfully.",
+   1
+  ],
+  [
+   "The MRS schema has been deleted successfully.",
+   1
+  ],
+  [
+   "The MRS DB object has been deleted successfully.",
+   1
+  ],
+  [
+   "The name was copied to the system clipboard",
+   1
+  ],
+  [
+   "$(loading~spin) Creating Library...",
+   1
+  ],
+  [
+   "Library could NOT be created!",
+   1
+  ],
+  [
+   "$(loading~spin) Configuring the MySQL REST Service Metadata Schema ...",
+   1
+  ],
+  [
+   "MySQL REST Service configured successfully.",
+   1
+  ],
+  [
+   "Error while configuring MRS: ",
+   1
+  ],
+  [
+   "Select a connection for SQL execution",
+   1
+  ],
+  [
+   "Please create a REST Service before adding DB Objects.",
+   1
+  ],
+  [
+   "No REST Service selected.",
+   1
+  ],
+  [
+   "Operation canceled.",
+   1
+  ],
+  [
+   "Please create a REST Service first.",
+   1
+  ],
+  [
+   "The REST Service support is not configured yet for this connection.",
+   1
+  ],
+  [
+   "Add Subfolder",
+   1
+  ],
+  [
+   "Edit Folder",
+   1
+  ],
+  [
+   "Enter the name of the new folder:",
+   1
+  ],
+  [
+   "Enter the new name of the folder:",
+   1
+  ],
+  [
+   "Library cannot be created on the server! SidebarCommandHandler",
+   1
+  ],
+  [
+   "The routine invocation statement was copied to the system clipboard",
+   1
+  ],
+  [
+   "Failed to load routine parameter metadata.",
+   1
+  ],
+  [
+   "Import",
+   1
+  ],
+  [
+   "Next >",
+   1
+  ],
+  [
+   "Nothing to import",
+   1
+  ],
+  [
+   "No configuration import actions were selected.",
+   1
+  ],
+  [
+   "Import MySQL Workbench 8 Connections",
+   1
+  ],
+  [
+   "Import MySQL Workbench 8 connections",
+   1
+  ],
+  [
+   "Note: passwords will not be imported.",
+   1
+  ],
+  [
+   "Import MySQL Shell for VS Code Connections",
+   1
+  ],
+  [
+   "Import MySQL Shell for VS Code data",
+   1
+  ],
+  [
+   "Old VS Code extension logs will be deleted after import.",
+   1
+  ],
+  [
+   "Saved passwords remain available to both applications.",
+   1
+  ],
+  [
+   "Import Migration Assistant Projects",
+   1
+  ],
+  [
+   "Import Migration Assistant projects and SSH keys",
+   1
+  ],
+  [
+   "Copy SSH keys for jump host instances",
+   1
+  ],
+  [
+   "Import Summary",
+   1
+  ],
+  [
+   "The following actions will be performed when Import is clicked:",
+   1
+  ],
+  [
+   "Import results",
+   1
+  ],
+  [
+   "No import actions were completed.",
+   1
+  ],
+  [
+   "log file",
+   1
+  ],
+  [
+   "source item",
+   1
+  ],
+  [
+   "Retry the MySQL Workbench 8 configuration import",
+   1
+  ],
+  [
+   "Retry the MySQL Shell for VS Code configuration import",
+   1
+  ],
+  [
+   "Retry the Migration Assistant project import",
+   1
+  ],
+  [
+   "MySQL Shell for VS Code logs",
+   1
+  ],
+  [
+   "Configuration Import",
+   1
+  ],
+  [
+   "Configuration data from previous MySQL applications is ready to be imported.",
+   1
+  ],
+  [
+   "Could not check for data from previous applications: ",
+   1
+  ],
+  [
+   "The New MySQL Workbench obsoletes MySQL Workbench 8 and the MySQL Shell for Visual Studio Code extension. You may import MySQL connections and some other configuration data from these applications.",
+   1
+  ],
+  [
+   "Retry",
+   1
+  ],
+  [
+   "Review and Import…",
+   1
+  ],
+  [
+   "Add a database connection",
+   1
+  ],
+  [
+   "Start here to add a new MySQL connection to your home screen.",
+   1
+  ],
+  [
+   "Open a connection",
+   1
+  ],
+  [
+   "Select a connection tile to manage that database or execute SQL.",
+   1
+  ],
+  [
+   "Switch workspaces",
+   1
+  ],
+  [
+   "Use the titlebar switcher to change connections or return to the home workspace.",
+   1
+  ],
+  [
+   "Organize connections",
+   1
+  ],
+  [
+   "Use the new folder button to organize connections into groups.",
+   1
+  ],
+  [
+   "#homeTourLocalhost, .connectionTile:not(.group):not(.back)",
+   1
+  ],
+  [
+   "Cannot create folder: ",
+   1
+  ],
+  [
+   "Confirm",
+   1
+  ],
+  [
+   "Cannot import DB connections: ",
+   1
+  ],
+  [
+   "Cannot move DB connection",
+   1
+  ],
+  [
+   "Cannot move folder",
+   1
+  ],
+  [
+   "Folder name",
+   1
+  ],
+  [
+   "Enter the name of the new folder.",
+   1
+  ],
+  [
+   "Move to Folder",
+   1
+  ],
+  [
+   "New Folder…",
+   1
+  ],
+  [
+   "Go up one folder level",
+   1
+  ],
+  [
+   "Connection Group",
+   1
+  ],
+  [
+   "Home",
+   1
+  ],
+  [
+   "Connect with New SQL Script",
+   1
+  ],
+  [
+   "Connect with New Notebook",
+   1
+  ],
+  [
+   "Edit Connection…",
+   1
+  ],
+  [
+   "Duplicate Connection…",
+   1
+  ],
+  [
+   "Open New MySQL Shell Console for this Connection",
+   1
+  ],
+  [
+   "Delete Connection…",
+   1
+  ],
+  [
+   "Delete Folder…",
+   1
+  ],
+  [
+   "Export Connections...",
+   1
+  ],
+  [
+   "Import Connections...",
+   1
+  ],
+  [
+   "Import MySQL Workbench 8 connections file...",
+   1
+  ],
+  [
+   "Welcome to MySQL Workbench",
+   1
+  ],
+  [
+   "This is the all new MySQL Workbench 26.7.0. It supersedes MySQL Workbench 8.0 and the MySQL Shell for VS Code Extension.",
+   1
+  ],
+  [
+   "The new MySQL Workbench fully supports MySQL Server versions 8.4 and newer. Note: some functionality may not be available or be fully compatible with the legacy MySQL Server 8.0.",
+   1
+  ],
+  [
+   "Take a tour >",
+   1
+  ],
+  [
+   "Database Connections",
+   1
+  ],
+  [
+   "New Folder",
+   1
+  ],
+  [
+   "Local MySQL server",
+   1
+  ],
+  [
+   "Item",
+   1
+  ],
+  [
+   "codicon codicon-close",
+   1
+  ],
+  [
+   "Close Editor",
+   1
+  ],
+  [
+   "SaveChatOptions",
+   1
+  ],
+  [
+   "LoadChatOptions",
+   1
+  ],
+  [
+   "StartNewChat",
+   1
+  ],
+  [
+   "cohere.command-r-08-2024 (added cost)",
+   1
+  ],
+  [
+   "cohere.command-r-plus-08-2024 (added cost)",
+   1
+  ],
+  [
+   "meta.llama-3.1-405b-instruct (added cost)",
+   1
+  ],
+  [
+   "meta.llama-3.2-90b-vision-instruct (added cost)",
+   1
+  ],
+  [
+   "meta.llama-3.3-70b-instruct (added cost)",
+   1
+  ],
+  [
+   "HeatWave Chat",
+   1
+  ],
+  [
+   "AI Profile Editor",
+   1
+  ],
+  [
+   "Schema Scope",
+   1
+  ],
+  [
+   "All Database Schemas",
+   1
+  ],
+  [
+   "Chatbot",
+   1
+  ],
+  [
+   "ChatQueryId",
+   1
+  ],
+  [
+   "Edit chat history",
+   1
+  ],
+  [
+   "Database Tables",
+   1
+  ],
+  [
+   "Lock table list",
+   1
+  ],
+  [
+   "Matched Documents",
+   1
+  ],
+  [
+   "Title",
+   1
+  ],
+  [
+   "Segment",
+   1
+  ],
+  [
+   "Model Options",
+   1
+  ],
+  [
+   "Model:",
+   1
+  ],
+  [
+   "Language:",
+   1
+  ],
+  [
+   "French",
+   1
+  ],
+  [
+   "Dutch",
+   1
+  ],
+  [
+   "Czech",
+   1
+  ],
+  [
+   "Polish",
+   1
+  ],
+  [
+   "Persian",
+   1
+  ],
+  [
+   "Hindi",
+   1
+  ],
+  [
+   "Bengali",
+   1
+  ],
+  [
+   "Urdu",
+   1
+  ],
+  [
+   "Brazilian Portuguese",
+   1
+  ],
+  [
+   "Chinese",
+   1
+  ],
+  [
+   "Arabic",
+   1
+  ],
+  [
+   "Hebrew",
+   1
+  ],
+  [
+   "Tibetan",
+   1
+  ],
+  [
+   "Turkish",
+   1
+  ],
+  [
+   "Korean",
+   1
+  ],
+  [
+   "Vietnamese",
+   1
+  ],
+  [
+   "Khmer",
+   1
+  ],
+  [
+   "Thai",
+   1
+  ],
+  [
+   "Lao",
+   1
+  ],
+  [
+   "Indonesian",
+   1
+  ],
+  [
+   "Malay",
+   1
+  ],
+  [
+   "Tagalog",
+   1
+  ],
+  [
+   "Advanced Model Options",
+   1
+  ],
+  [
+   "Temperature:",
+   1
+  ],
+  [
+   "Max Tokens:",
+   1
+  ],
+  [
+   "Top k:",
+   1
+  ],
+  [
+   "Top p:",
+   1
+  ],
+  [
+   "Repeat Penalty:",
+   1
+  ],
+  [
+   "Stop Sequences:",
+   1
+  ],
+  [
+   "Review Generated Prompt",
+   1
+  ],
+  [
+   "Capture generated prompt",
+   1
+  ],
+  [
+   "Language Settings",
+   1
+  ],
+  [
+   "Translation:",
+   1
+  ],
+  [
+   "No translation",
+   1
+  ],
+  [
+   "Translation Model:",
+   1
+  ],
+  [
+   "Mistral",
+   1
+  ],
+  [
+   "Only translate answers",
+   1
+  ],
+  [
+   "Load",
+   1
+  ],
+  [
+   "Start New Chat",
+   1
+  ],
+  [
+   "AppProvider",
+   1
+  ],
+  [
+   "ShellSessionRoot",
+   1
+  ],
+  [
+   "ConnectionPage",
+   1
+  ],
+  [
+   "Overview",
+   1
+  ],
+  [
+   "Notebook",
+   1
+  ],
+  [
+   "Script",
+   1
+  ],
+  [
+   "ShellSession",
+   1
+  ],
+  [
+   "StandaloneDocument",
+   1
+  ],
+  [
+   "SchemaDiagram",
+   1
+  ],
+  [
+   "CloudMigration",
+   1
+  ],
+  [
+   "MySQL Shell Consoles",
+   1
+  ],
+  [
+   "DB Connection Overview",
+   1
+  ],
+  [
+   "First argument is not a function",
+   1
+  ],
+  [
+   "Second argument is not a number",
+   1
+  ],
+  [
+   "First argument is not an instance of SetIntervalAsyncTimer",
+   1
+  ],
+  [
+   "Id",
+   1
+  ],
+  [
+   "Database",
+   1
+  ],
+  [
+   "Thread ID",
+   1
+  ],
+  [
+   "Parent Thread ID",
+   1
+  ],
+  [
+   "show global status where VARIABLE_NAME in (",
+   1
+  ],
+  [
+   "Created Tmp Disk Tables",
+   1
+  ],
+  [
+   "Created Tmp Tables",
+   1
+  ],
+  [
+   "Select Full Join",
+   1
+  ],
+  [
+   "Select Full Range Join",
+   1
+  ],
+  [
+   "Select Range",
+   1
+  ],
+  [
+   "Select Range Check",
+   1
+  ],
+  [
+   "Select Scan",
+   1
+  ],
+  [
+   "Sort Merge Passes",
+   1
+  ],
+  [
+   "Sort Range",
+   1
+  ],
+  [
+   "Sort Rows",
+   1
+  ],
+  [
+   "Sort Scan",
+   1
+  ],
+  [
+   "No Index Used",
+   1
+  ],
+  [
+   "No Good Index Used",
+   1
+  ],
+  [
+   "Identity",
+   1
+  ],
+  [
+   "Thread Id",
+   1
+  ],
+  [
+   "Session",
+   1
+  ],
+  [
+   "Thread",
+   1
+  ],
+  [
+   "Parent Thread Id",
+   1
+  ],
+  [
+   "Transaction",
+   1
+  ],
+  [
+   "Unknown user",
+   1
+  ],
+  [
+   "No connection selected",
+   1
+  ],
+  [
+   "Connection ID",
+   1
+  ],
+  [
+   "Show More Details",
+   1
+  ],
+  [
+   "Current Allocated",
+   1
+  ],
+  [
+   "Current Used Count",
+   1
+  ],
+  [
+   "Average Allocation",
+   1
+  ],
+  [
+   "Maximum Allocation",
+   1
+  ],
+  [
+   "Total Allocated",
+   1
+  ],
+  [
+   "Total Events",
+   1
+  ],
+  [
+   "Minimum Latency",
+   1
+  ],
+  [
+   "Average Latency",
+   1
+  ],
+  [
+   "Maximum Latency",
+   1
+  ],
+  [
+   "Elapsed Time",
+   1
+  ],
+  [
+   "Access Mode",
+   1
+  ],
+  [
+   "Isolation Level",
+   1
+  ],
+  [
+   "detailSection connectionSqlLabel",
+   1
+  ],
+  [
+   "Open in SQL Editor",
+   1
+  ],
+  [
+   "Waiting: InnoDB Row Lock",
+   1
+  ],
+  [
+   "Waiting For",
+   1
+  ],
+  [
+   "Blocking Connection",
+   1
+  ],
+  [
+   "Blocking Transaction Age",
+   1
+  ],
+  [
+   "Blocking Query",
+   1
+  ],
+  [
+   "Waiting: Metadata Lock",
+   1
+  ],
+  [
+   "Holder Host",
+   1
+  ],
+  [
+   "No metadata lock wait was found. InnoDB row lock details are unavailable: ",
+   1
+  ],
+  [
+   "This connection is not waiting for a metadata or InnoDB row lock.",
+   1
+  ],
+  [
+   "Held Metadata Locks",
+   1
+  ],
+  [
+   "Held InnoDB Row Locks",
+   1
+  ],
+  [
+   "No locks.",
+   1
+  ],
+  [
+   "Waiting User",
+   1
+  ],
+  [
+   "Waiting Time",
+   1
+  ],
+  [
+   "Wait Age",
+   1
+  ],
+  [
+   "Query",
+   1
+  ],
+  [
+   "Show Connection",
+   1
+  ],
+  [
+   "Connection Attributes",
+   1
+  ],
+  [
+   "No attributes.",
+   1
+  ],
+  [
+   "Top 5 Errors",
+   1
+  ],
+  [
+   "Raised",
+   1
+  ],
+  [
+   "Handled",
+   1
+  ],
+  [
+   "SQL State",
+   1
+  ],
+  [
+   "Top 5 Stages",
+   1
+  ],
+  [
+   "Top 5 Statements",
+   1
+  ],
+  [
+   "Top 5 Transactions",
+   1
+  ],
+  [
+   "Top 5 Waits",
+   1
+  ],
+  [
+   "Count",
+   1
+  ],
+  [
+   "Avg Latency",
+   1
+  ],
+  [
+   "Max Latency",
+   1
+  ],
+  [
+   "Lock Time",
+   1
+  ],
+  [
+   "Warnings",
+   1
+  ],
+  [
+   "Max Controlled Memory",
+   1
+  ],
+  [
+   "Max Total Memory",
+   1
+  ],
+  [
+   "Execution Engine",
+   1
+  ],
+  [
+   "Idle",
+   1
+  ],
+  [
+   "Statement History",
+   1
+  ],
+  [
+   "No statement history.",
+   1
+  ],
+  [
+   "Select a connection to show details.",
+   1
+  ],
+  [
+   "no refresh",
+   1
+  ],
+  [
+   "Refresh Rate:",
+   1
+  ],
+  [
+   "Kill Query",
+   1
+  ],
+  [
+   "Kill Connection",
+   1
+  ],
+  [
+   "Hide Details",
+   1
+  ],
+  [
+   "Show Details",
+   1
+  ],
+  [
+   "Hide Sleeping Connections",
+   1
+  ],
+  [
+   "Show Background Threads",
+   1
+  ],
+  [
+   "Show Full Info Column",
+   1
+  ],
+  [
+   "Display Options",
+   1
+  ],
+  [
+   "HH:mm:ss",
+   1
+  ],
+  [
+   "('max_connections', 'thread_handling', 'thread_pool_size')",
+   1
+  ],
+  [
+   "('version_comment', 'max_connections', 'thread_handling', 'thread_pool_size')",
+   1
+  ],
+  [
+   "IF (NAME = 'thread/sql/event_scheduler','event_scheduler',t.PROCESSLIST_USER) PROCESSLIST_USER",
+   1
+  ],
+  [
+   "LEFT(t.PROCESSLIST_INFO, 255) PROCESSLIST_INFO",
+   1
+  ],
+  [
+   "sys.format_time(t.PROCESSLIST_TIME * 1000000000000) PROCESSLIST_TIME_FORMATTED",
+   1
+  ],
+  [
+   "WHERE 1 = 1",
+   1
+  ],
+  [
+   " AND t.TYPE <> 'BACKGROUND'",
+   1
+  ],
+  [
+   " AND t.PROCESSLIST_COMMAND NOT LIKE 'Sleep%'",
+   1
+  ],
+  [
+   "Do you want to kill selected connection?",
+   1
+  ],
+  [
+   "Do you want to kill selected query?",
+   1
+  ],
+  [
+   "MySQL Client Connections",
+   1
+  ],
+  [
+   "sys.format_time(t.PROCESSLIST_TIME * 1000000000000)",
+   1
+  ],
+  [
+   "COALESCE(esc.SQL_TEXT, t.PROCESSLIST_INFO)",
+   1
+  ],
+  [
+   "CASE WHEN esh.MYSQL_ERRNO = 0 THEN NULL ELSE CONCAT(esh.MYSQL_ERRNO, ': ', esh.MESSAGE_TEXT) END",
+   1
+  ],
+  [
+   "CASE WHEN ml.OBJECT_TYPE = 'GLOBAL' THEN '<global>' ELSE CONCAT_WS('.', ml.OBJECT_SCHEMA, ml.OBJECT_NAME) END",
+   1
+  ],
+  [
+   "Cannot load performance schema: ",
+   1
+  ],
+  [
+   "Details",
+   1
+  ],
+  [
+   "Summary",
+   1
+  ],
+  [
+   "Locks",
+   1
+  ],
+  [
+   "Statement",
+   1
+  ],
+  [
+   "Connection status overview",
+   1
+  ],
+  [
+   "Connections",
+   1
+  ],
+  [
+   "Connected",
+   1
+  ],
+  [
+   "Limit",
+   1
+  ],
+  [
+   "Max. Seen",
+   1
+  ],
+  [
+   "Failures",
+   1
+  ],
+  [
+   "Errors",
+   1
+  ],
+  [
+   "Connection errors reported by the server, excluding limit rejections.",
+   1
+  ],
+  [
+   "Aborted Clients",
+   1
+  ],
+  [
+   "Established clients that disconnected without closing cleanly.",
+   1
+  ],
+  [
+   "Aborted Connects",
+   1
+  ],
+  [
+   "Connection attempts that failed before they were established.",
+   1
+  ],
+  [
+   "Rejected",
+   1
+  ],
+  [
+   "Connections refused because the server connection limit was reached.",
+   1
+  ],
+  [
+   "Thread Pool",
+   1
+  ],
+  [
+   "Status",
+   1
+  ],
+  [
+   "Groups",
+   1
+  ],
+  [
+   "Running",
+   1
+  ],
+  [
+   "msg embeddedLogViewer",
+   1
+  ],
+  [
+   "No log content.",
+   1
+  ],
+  [
+   ");return n?{message:n,tab:",
+   1
+  ],
+  [
+   ");if(void 0===e)return We(",
+   1
+  ],
+  [
+   "});const n=e.binlogFile&&e.binlogPosition?`${e.binlogFile}:${e.binlogPosition}`:e.binlogFile??e.binlogPosition??",
+   1
+  ],
+  [
+   "})]})]})},Xo=({children:e,status:t})=>{const i=",
+   1
+  ],
+  [
+   "===t.tone?Mi.Warning:Mi.Info;return We(",
+   1
+  ],
+  [
+   ",validation:i.validation,status:t}:void 0!==i.validation?{...e,phase:",
+   1
+  ],
+  [
+   "===(null==e?void 0:e.phase)&&er(e,t.moduleSessionId,t.backupHomePath,t.username)?",
+   1
+  ],
+  [
+   ",status:e.status}:void 0!==e.validation?{...t,phase:",
+   1
+  ],
+  [
+   "===(null==E?void 0:E.phase)?E.operation:void 0,P=",
+   1
+  ],
+  [
+   ",description:[`Enter the existing password for ${e.username}.`],user:e.username,passwordLabel:",
+   1
+  ],
+  [
+   ",t,async()=>xn.meb.validateBackupMysqlUser(t.moduleSessionId,t.backupHomePath,t.username,e));return(null==i?void 0:i.passwordStored)&&ji.showInformationMessage(",
+   1
+  ],
+  [
+   ",t,async()=>xn.meb.resetBackupMysqlUserPassword(t.moduleSessionId,t.backupHomePath,t.username,e));return(null==i?void 0:i.passwordStored)&&ji.showInformationMessage(",
+   1
+  ],
+  [
+   "!==R&&!x&&!_,j=(null==D?void 0:D.missingGrants)??[],V=void 0!==D&&(!D.exists||j.length>0||!D.passwordStored),q=t&&x&&!M&&(P||void 0!==D&&!D.valid&&!V),U=!t||n||",
+   1
+  ],
+  [
+   "===(null==S?void 0:S.phase);let H=A;t&&i?s?",
+   1
+  ],
+  [
+   "}:H??(H=(null==D?void 0:D.status)??Zo):H={message:",
+   1
+  ],
+  [
+   ",e,async()=>xn.meb.fixBackupMysqlUser(e.moduleSessionId,e.backupHomePath,e.username));0===(null==t?void 0:t.missingGrants.length)&&ji.showInformationMessage(",
+   1
+  ],
+  [
+   "<>|]/.test(t.label))return void ji.showErrorMessage(",
+   1
+  ],
+  [
+   ");const i=await xn.meb.saveProfile(u,Ae,t);pe(i),null==(e=n.current)||e.close(!1),ji.showInformationMessage(l?",
+   1
+  ],
+  [
+   "!==await ji.confirm(",
+   1
+  ],
+  [
+   "===e?(pe(await xn.meb.deleteBackup(Ae,t)),ji.showInformationMessage(",
+   1
+  ],
+  [
+   ",value:(null==e?void 0:e.time)??",
+   1
+  ],
+  [
+   ",value:`${(null==p?void 0:p.spaceUsed)??",
+   1
+  ],
+  [
+   "} used for backups – ${(null==p?void 0:p.spaceAvailable)??",
+   1
+  ],
+  [
+   ",{className:`enterpriseBackupHeaderMetricStatus ${e.tone??",
+   1
+  ],
+  [
+   ",n=null==p?void 0:p.profiles[t];return We(",
+   1
+  ],
+  [
+   "===(null==we?void 0:we.schedulerLoginRequirement)&&We(",
+   1
+  ],
+  [
+   ")},disabled:Oe||void 0!==E||De||!we,children:",
+   1
+  ],
+  [
+   ")},disabled:Oe||void 0!==E||De||!(null==we?void 0:we.destination)||",
+   1
+  ],
+  [
+   ";const n=Math.max(0,Math.floor((Date.now()-i)/6e4));if(n<1)return",
+   1
+  ],
+  [
+   "===e.command.command?!(void 0===E&&!De&&void 0!==n)||",
+   1
+  ],
+  [
+   "===e.command.command&&(void 0!==P||void 0!==E||De)},onItemClick:(e,t,i)=>{const n=null==i?void 0:i.profileUuid;return!n||(",
+   1
+  ],
+  [
+   ",null==p?void 0:p.profiles.find(e=>e.uuid===n)):",
+   1
+  ],
+  [
+   "===e.command.command?Fe||!0!==(null==t?void 0:t.canRestore):",
+   1
+  ],
+  [
+   "===e.command.command&&(_e||!0!==(null==t?void 0:t.canApplyLogs))),onItemClick:(e,t,i)=>{const n=null==i?void 0:i.activityId;return!n||(",
+   1
+  ],
+  [
+   "===e.command.command&&void 0===we,onItemClick:e=>{return",
+   1
+  ],
+  [
+   ",()=>{const{filesForUpload:e,lastFileUploadError:t,uploadTarget:i,uploadRunning:n,uploadComplete:s,filesForUploadPanelWidth:a,fileUploadTargetPath:o}=this.state;let r=",
+   1
+  ],
+  [
+   ";break;case 3:r=i.data.bucketName+",
+   1
+  ],
+  [
+   "),disabled:void 0===i,onBlur:(e,t)=>{o&&",
+   1
+  ],
+  [
+   ",selection:(null==t?void 0:t.activeFormat)??",
+   1
+  ],
+  [
+   ",selection:(null==t?void 0:t.languageId)??",
+   1
+  ],
+  [
+   ");let c;l.classList.add(",
+   1
+  ],
+  [
+   ");let d=",
+   1
+  ],
+  [
+   ").pop()??u;break;case 0:c=Mi.Loading,d=",
+   1
+  ],
+  [
+   ";break;case 5:c=Mi.Error,h+=",
+   1
+  ],
+  [
+   ",l=null==(t=n.status)?void 0:t.toLowerCase(),r=n.description;break;case",
+   1
+  ],
+  [
+   "),d=void 0!==n.startingTime?n.startingTime.slice(void 0,-3):",
+   1
+  ],
+  [
+   ":void 0===n.estimatedCompletionTime?(null==(i=n.logTime)?void 0:i.slice(void 0,-3))??",
+   1
+  ],
+  [
+   ":n.estimatedCompletionTime.slice(void 0,-3);break;case",
+   1
+  ],
+  [
+   "!=typeof t&&(i=(t.getData.schemaName??",
+   1
+  ]
+ ],
+ "builtin-functions-B9_Ax8vG.js": [
+  [
+   "_**Built-In Scalar Function**_",
+   42
+  ],
+  [
+   "_**Built-In Arithmetic Function**_",
+   26
+  ],
+  [
+   "_**Built-In Window Function**_",
+   11
+  ],
+  [
+   "_**Built-In Aggregate Function**_",
+   5
+  ],
+  [
+   "_**Built-In Date/Time Function**_",
+   5
+  ],
+  [
+   "_**Built-In Arithmetic Function**_ ",
+   2
+  ]
+ ],
+ "builtin-functions-C7i4vqSU.js": [
+  [
+   "_**Built-In Scalar Function**_",
+   42
+  ],
+  [
+   "_**Built-In Arithmetic Function**_",
+   26
+  ],
+  [
+   "_**Built-In Window Function**_",
+   11
+  ],
+  [
+   "_**Built-In Aggregate Function**_",
+   5
+  ],
+  [
+   "_**Built-In Date/Time Function**_",
+   5
+  ],
+  [
+   "_**Built-In Arithmetic Function**_ ",
+   2
+  ]
+ ],
+ "CommunicationDebugger-DDxSmU9R.js": [
+  [
+   "Reload the scripts",
+   2
+  ],
+  [
+   " not found. */",
+   1
+  ],
+  [
+   "Execute Script",
+   1
+  ],
+  [
+   "Clear Script",
+   1
+  ],
+  [
+   "Connect",
+   1
+  ],
+  [
+   "Disconnect",
+   1
+  ],
+  [
+   "Clear Context",
+   1
+  ],
+  [
+   "(async () => {",
+   1
+  ],
+  [
+   "Messages from shell backend and validation",
+   1
+  ],
+  [
+   "Message",
+   1
+  ],
+  [
+   "Tools:",
+   1
+  ],
+  [
+   "Enable Trace",
+   1
+  ],
+  [
+   "Enables logging all traffic",
+   1
+  ],
+  [
+   "Clear Output",
+   1
+  ],
+  [
+   "Toggle maximized/embedded mode",
+   1
+  ],
+  [
+   "INPUT CONSOLE",
+   1
+  ],
+  [
+   "REPL tab",
+   1
+  ]
+ ],
+ "console.worker-CO8W1vBC.js": [
+  [
+   "Unknown encoding: ",
+   3
+  ],
+  [
+   "Index out of range",
+   3
+  ],
+  [
+   "Buffer",
+   2
+  ],
+  [
+   "\"list\" argument must be an Array of Buffers",
+   2
+  ],
+  [
+   "Argument must be a Buffer",
+   2
+  ],
+  [
+   "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/",
+   1
+  ],
+  [
+   "Invalid string. Length must be a multiple of 4",
+   1
+  ],
+  [
+   "[object Array]",
+   1
+  ],
+  [
+   "Invalid typed array length",
+   1
+  ],
+  [
+   "If encoding is specified then the first argument must be a string",
+   1
+  ],
+  [
+   "\"value\" argument must not be a number",
+   1
+  ],
+  [
+   "\"size\" argument must be a number",
+   1
+  ],
+  [
+   "\"size\" argument must not be negative",
+   1
+  ],
+  [
+   "\"encoding\" must be a valid string encoding",
+   1
+  ],
+  [
+   "'offset' is out of bounds",
+   1
+  ],
+  [
+   "'length' is out of bounds",
+   1
+  ],
+  [
+   "First argument must be a string, Buffer, ArrayBuffer, Array, or array-like object.",
+   1
+  ],
+  [
+   "Attempt to allocate Buffer larger than maximum size: 0x",
+   1
+  ],
+  [
+   " bytes",
+   1
+  ],
+  [
+   "val must be string, number or Buffer",
+   1
+  ],
+  [
+   "Invalid hex string",
+   1
+  ],
+  [
+   "Arguments must be Buffers",
+   1
+  ],
+  [
+   "Buffer size must be a multiple of 16-bits",
+   1
+  ],
+  [
+   "Buffer size must be a multiple of 32-bits",
+   1
+  ],
+  [
+   "Buffer size must be a multiple of 64-bits",
+   1
+  ],
+  [
+   "<Buffer ",
+   1
+  ],
+  [
+   "out of range index",
+   1
+  ],
+  [
+   "Buffer.write(string, encoding, offset[, length]) is no longer supported",
+   1
+  ],
+  [
+   "Attempt to write outside buffer bounds",
+   1
+  ],
+  [
+   "offset is not uint",
+   1
+  ],
+  [
+   "Trying to access beyond buffer length",
+   1
+  ],
+  [
+   "\"buffer\" argument must be a Buffer instance",
+   1
+  ],
+  [
+   "\"value\" argument is out of bounds",
+   1
+  ],
+  [
+   "targetStart out of bounds",
+   1
+  ],
+  [
+   "sourceStart out of bounds",
+   1
+  ],
+  [
+   "sourceEnd out of bounds",
+   1
+  ],
+  [
+   "encoding must be a string",
+   1
+  ],
+  [
+   "Out of range index",
+   1
+  ],
+  [
+   "Invalid code point",
+   1
+  ],
+  [
+   "Request",
+   1
+  ],
+  [
+   "QueryStatus",
+   1
+  ],
+  [
+   "Print",
+   1
+  ],
+  [
+   "SetGlobalObjectProperty",
+   1
+  ],
+  [
+   "QueryType",
+   1
+  ],
+  [
+   "Result",
+   1
+  ],
+  [
+   "RunSqlIterative",
+   1
+  ],
+  [
+   "RunSql",
+   1
+  ],
+  [
+   "Graph",
+   1
+  ],
+  [
+   "MrsPrintSdkCode",
+   1
+  ],
+  [
+   "MrsSetCurrentService",
+   1
+  ],
+  [
+   "MrsEditService",
+   1
+  ],
+  [
+   "MrsSetServiceUrl",
+   1
+  ],
+  [
+   "MrsAuthenticate",
+   1
+  ],
+  [
+   "MrsEditSchema",
+   1
+  ],
+  [
+   "MrsEditDbObject",
+   1
+  ],
+  [
+   "MrsExportServiceSdk",
+   1
+  ],
+  [
+   "MrsAddContentSet",
+   1
+  ],
+  [
+   "MrsRefreshSdkCode",
+   1
+  ],
+  [
+   "Done",
+   1
+  ],
+  [
+   "Donut",
+   1
+  ],
+  [
+   "ThickDonut",
+   1
+  ],
+  [
+   "ThinDonut",
+   1
+  ],
+  [
+   "Pie",
+   1
+  ],
+  [
+   "Invalid character (",
+   1
+  ]
+ ],
+ "FileViewer-L0lIXlTj.js": [
+  [
+   "Loading...",
+   2
+  ],
+  [
+   "Unable to read file.",
+   2
+  ],
+  [
+   "Search",
+   2
+  ],
+  [
+   "File Viewer",
+   1
+  ],
+  [
+   "msg fileViewer",
+   1
+  ],
+  [
+   "Load Earlier",
+   1
+  ],
+  [
+   "Refresh",
+   1
+  ],
+  [
+   "fileViewerIconButton fileViewerIconToggle active",
+   1
+  ],
+  [
+   "fileViewerIconButton fileViewerIconToggle",
+   1
+  ],
+  [
+   "Toggle Line Wrap",
+   1
+  ],
+  [
+   "Show in Folder",
+   1
+  ],
+  [
+   "fileViewerContent fixedScrollbar selectableText wrap",
+   1
+  ],
+  [
+   "fileViewerContent fixedScrollbar selectableText",
+   1
+  ],
+  [
+   "No matches",
+   1
+  ]
+ ],
+ "GraphProxy-D46cnkv7.js": [],
+ "index-BWkVueFs.js": [
+  [
+   "string meta.image.inline.markdown",
+   13
+  ],
+  [
+   "Auto",
+   9
+  ],
+  [
+   "source.css entity.other.attribute-name.class",
+   6
+  ],
+  [
+   "source.css entity.other.attribute-name.pseudo-class",
+   6
+  ],
+  [
+   "source.css.less entity.other.attribute-name.id",
+   6
+  ],
+  [
+   "source.css variable",
+   6
+  ],
+  [
+   "Cancel",
+   5
+  ],
+  [
+   "Dark Modern",
+   5
+  ],
+  [
+   "Light Modern",
+   5
+  ],
+  [
+   "italic underline",
+   4
+  ],
+  [
+   "source.powershell variable.other.member",
+   4
+  ],
+  [
+   "source.cpp keyword.operator.new",
+   4
+  ],
+  [
+   "Supported in all code editors",
+   4
+  ],
+  [
+   "Internal error: the UI layer has not been set up.",
+   3
+  ],
+  [
+   "Enter",
+   3
+  ],
+  [
+   "None",
+   3
+  ],
+  [
+   "Error",
+   3
+  ],
+  [
+   "Warning",
+   3
+  ],
+  [
+   "No",
+   3
+  ],
+  [
+   "Invalid number.",
+   3
+  ],
+  [
+   "Invalid unicode surrogate pair.",
+   3
+  ],
+  [
+   "Down",
+   3
+  ],
+  [
+   "Up",
+   3
+  ],
+  [
+   "Move",
+   3
+  ],
+  [
+   "Type",
+   3
+  ],
+  [
+   "meta.diff, meta.diff.header",
+   3
+  ],
+  [
+   "source.cpp keyword.operator.delete",
+   3
+  ],
+  [
+   "markup.bold, markup.italic",
+   3
+  ],
+  [
+   "(prefers-color-scheme: light)",
+   3
+  ],
+  [
+   "ArrowDown",
+   2
+  ],
+  [
+   "ArrowLeft",
+   2
+  ],
+  [
+   "ArrowRight",
+   2
+  ],
+  [
+   "ArrowUp",
+   2
+  ],
+  [
+   "Escape",
+   2
+  ],
+  [
+   "Unknown",
+   2
+  ],
+  [
+   "Text",
+   2
+  ],
+  [
+   "Json",
+   2
+  ],
+  [
+   "Set",
+   2
+  ],
+  [
+   "Info",
+   2
+  ],
+  [
+   "Confirm",
+   2
+  ],
+  [
+   "JdvObject",
+   2
+  ],
+  [
+   "Leave",
+   2
+  ],
+  [
+   "Close",
+   2
+  ],
+  [
+   "Output",
+   2
+  ],
+  [
+   "Replace",
+   2
+  ],
+  [
+   "DB Notebook",
+   2
+  ],
+  [
+   "Single line comment with char",
+   2
+  ],
+  [
+   "Numeric constant",
+   2
+  ],
+  [
+   "Character constant",
+   2
+  ],
+  [
+   "Escape sequence",
+   2
+  ],
+  [
+   "Language constant",
+   2
+  ],
+  [
+   "Generic entity + others default",
+   2
+  ],
+  [
+   "Generic entity name",
+   2
+  ],
+  [
+   "Function name",
+   2
+  ],
+  [
+   "Type name",
+   2
+  ],
+  [
+   "Tag name",
+   2
+  ],
+  [
+   "Section name",
+   2
+  ],
+  [
+   "Inherited class",
+   2
+  ],
+  [
+   "Attribute name",
+   2
+  ],
+  [
+   "Illegal",
+   2
+  ],
+  [
+   "Deprecated",
+   2
+  ],
+  [
+   "Generic keyword",
+   2
+  ],
+  [
+   "Control keyword",
+   2
+  ],
+  [
+   "Operator keyword + operators",
+   2
+  ],
+  [
+   "Other keywords",
+   2
+  ],
+  [
+   "Generic markup",
+   2
+  ],
+  [
+   "Generic meta",
+   2
+  ],
+  [
+   "Generic storage",
+   2
+  ],
+  [
+   "Storage modifier",
+   2
+  ],
+  [
+   "Generic string",
+   2
+  ],
+  [
+   "Generic quoted string",
+   2
+  ],
+  [
+   "Singly quoted string",
+   2
+  ],
+  [
+   "Doubly quoted string",
+   2
+  ],
+  [
+   "Triply quoted string",
+   2
+  ],
+  [
+   "Other quoted string",
+   2
+  ],
+  [
+   "Unquoted string",
+   2
+  ],
+  [
+   "Interpolated string",
+   2
+  ],
+  [
+   "Regular expression string",
+   2
+  ],
+  [
+   "Other string",
+   2
+  ],
+  [
+   "Generic support",
+   2
+  ],
+  [
+   "Function support",
+   2
+  ],
+  [
+   "Class support",
+   2
+  ],
+  [
+   "Type support",
+   2
+  ],
+  [
+   "Constant support",
+   2
+  ],
+  [
+   "Variable support",
+   2
+  ],
+  [
+   "Other support",
+   2
+  ],
+  [
+   "Generic variable",
+   2
+  ],
+  [
+   "Parameter variable",
+   2
+  ],
+  [
+   "Language variable",
+   2
+  ],
+  [
+   "Other variable",
+   2
+  ],
+  [
+   "Predicate entity",
+   2
+  ],
+  [
+   "Any other block",
+   2
+  ],
+  [
+   "Token support",
+   2
+  ],
+  [
+   "meta.structure.dictionary.json string.quoted.double.json",
+   2
+  ],
+  [
+   "markup.list.unnumbered.markdown, markup.list.numbered.markdown",
+   2
+  ],
+  [
+   "punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html",
+   2
+  ],
+  [
+   "Word Wrap Column",
+   2
+  ],
+  [
+   "Start Language",
+   2
+  ],
+  [
+   "JavaScript",
+   2
+  ],
+  [
+   "Python",
+   2
+  ],
+  [
+   "Supported only in shell session editors",
+   2
+  ],
+  [
+   "Service:",
+   2
+  ],
+  [
+   "User Name:",
+   2
+  ],
+  [
+   "Enter a password.",
+   2
+  ],
+  [
+   "MySQL Workbench",
+   2
+  ],
+  [
+   "MySQL Shell GUI",
+   2
+  ],
+  [
+   "Information",
+   2
+  ],
+  [
+   "A public IP needs to be assigned.",
+   2
+  ],
+  [
+   "Used for bootstrapping.",
+   2
+  ],
+  [
+   "MySQL HeatWave Cluster",
+   2
+  ],
+  [
+   "Failed to fetch data.",
+   2
+  ],
+  [
+   "The sign in failed. Please check your username and password.",
+   2
+  ],
+  [
+   "Feedback Requested",
+   2
+  ],
+  [
+   "LocalAdministrator",
+   2
+  ],
+  [
+   "Cannot ",
+   1
+  ],
+  [
+   "read from private field",
+   1
+  ],
+  [
+   "Cannot add the same private member more than once",
+   1
+  ],
+  [
+   "write to private field",
+   1
+  ],
+  [
+   "invalid time",
+   1
+  ],
+  [
+   "d ",
+   1
+  ],
+  [
+   "Promised timed out",
+   1
+  ],
+  [
+   "'use strict';return (",
+   1
+  ],
+  [
+   "Alt",
+   1
+  ],
+  [
+   "Tab",
+   1
+  ],
+  [
+   "Request",
+   1
+  ],
+  [
+   "ErrorResponse",
+   1
+  ],
+  [
+   "CancelResponse",
+   1
+  ],
+  [
+   "StartResponse",
+   1
+  ],
+  [
+   "DataResponse",
+   1
+  ],
+  [
+   "EndResponse",
+   1
+  ],
+  [
+   "FinalResponse",
+   1
+  ],
+  [
+   "TinyInt",
+   1
+  ],
+  [
+   "SmallInt",
+   1
+  ],
+  [
+   "MediumInt",
+   1
+  ],
+  [
+   "Int",
+   1
+  ],
+  [
+   "Bigint",
+   1
+  ],
+  [
+   "UInteger",
+   1
+  ],
+  [
+   "Float",
+   1
+  ],
+  [
+   "Real",
+   1
+  ],
+  [
+   "Double",
+   1
+  ],
+  [
+   "Decimal",
+   1
+  ],
+  [
+   "Binary",
+   1
+  ],
+  [
+   "Varbinary",
+   1
+  ],
+  [
+   "Char",
+   1
+  ],
+  [
+   "Nchar",
+   1
+  ],
+  [
+   "Varchar",
+   1
+  ],
+  [
+   "Nvarchar",
+   1
+  ],
+  [
+   "String",
+   1
+  ],
+  [
+   "TinyText",
+   1
+  ],
+  [
+   "MediumText",
+   1
+  ],
+  [
+   "LongText",
+   1
+  ],
+  [
+   "TinyBlob",
+   1
+  ],
+  [
+   "Blob",
+   1
+  ],
+  [
+   "MediumBlob",
+   1
+  ],
+  [
+   "LongBlob",
+   1
+  ],
+  [
+   "DateTime",
+   1
+  ],
+  [
+   "Date",
+   1
+  ],
+  [
+   "Time",
+   1
+  ],
+  [
+   "Year",
+   1
+  ],
+  [
+   "Timestamp",
+   1
+  ],
+  [
+   "Geometry",
+   1
+  ],
+  [
+   "Point",
+   1
+  ],
+  [
+   "LineString",
+   1
+  ],
+  [
+   "Polygon",
+   1
+  ],
+  [
+   "GeometryCollection",
+   1
+  ],
+  [
+   "MultiPoint",
+   1
+  ],
+  [
+   "MultiLineString",
+   1
+  ],
+  [
+   "MultiPolygon",
+   1
+  ],
+  [
+   "Numeric",
+   1
+  ],
+  [
+   "Bit",
+   1
+  ],
+  [
+   "Boolean",
+   1
+  ],
+  [
+   "Enum",
+   1
+  ],
+  [
+   "Vector",
+   1
+  ],
+  [
+   "One",
+   1
+  ],
+  [
+   "OneOrZero",
+   1
+  ],
+  [
+   "Two",
+   1
+  ],
+  [
+   "TwoOrOne",
+   1
+  ],
+  [
+   "TwoOrZero",
+   1
+  ],
+  [
+   "TwoOrOneOrZero",
+   1
+  ],
+  [
+   "List",
+   1
+  ],
+  [
+   "Response",
+   1
+  ],
+  [
+   "Success",
+   1
+  ],
+  [
+   "Log",
+   1
+  ],
+  [
+   "Prompt",
+   1
+  ],
+  [
+   "Select",
+   1
+  ],
+  [
+   "MrsService",
+   1
+  ],
+  [
+   "MrsAuthenticationApp",
+   1
+  ],
+  [
+   "MrsUser",
+   1
+  ],
+  [
+   "MrsSchema",
+   1
+  ],
+  [
+   "MrsDbObject",
+   1
+  ],
+  [
+   "MrsContentSet",
+   1
+  ],
+  [
+   "MrsSdkExport",
+   1
+  ],
+  [
+   "MrsConfiguration",
+   1
+  ],
+  [
+   "MdsHeatWaveCluster",
+   1
+  ],
+  [
+   "MdsHeatWaveLoadData",
+   1
+  ],
+  [
+   "MdsEndpoint",
+   1
+  ],
+  [
+   "CreateLibraryFrom",
+   1
+  ],
+  [
+   "Accept",
+   1
+  ],
+  [
+   "Decline",
+   1
+  ],
+  [
+   "Alternative",
+   1
+  ],
+  [
+   "Save password",
+   1
+  ],
+  [
+   "Yes",
+   1
+  ],
+  [
+   "Open MySQL Connection",
+   1
+  ],
+  [
+   "Open SSH tunnel in Shell Session",
+   1
+  ],
+  [
+   "Normal",
+   1
+  ],
+  [
+   "LocalUser",
+   1
+  ],
+  [
+   "SessionId",
+   1
+  ],
+  [
+   "SameSite",
+   1
+  ],
+  [
+   "Secure",
+   1
+  ],
+  [
+   "Profile updated successfully.",
+   1
+  ],
+  [
+   "Extraneous content.",
+   1
+  ],
+  [
+   "Invalid unicode escape.",
+   1
+  ],
+  [
+   "Invalid escape sequence.",
+   1
+  ],
+  [
+   "Invalid control character in string.",
+   1
+  ],
+  [
+   "Unterminated string.",
+   1
+  ],
+  [
+   "Expected a string key.",
+   1
+  ],
+  [
+   "Expected a colon.",
+   1
+  ],
+  [
+   "Missing value.",
+   1
+  ],
+  [
+   "Missing next pair.",
+   1
+  ],
+  [
+   "Expected a comma or closing brace.",
+   1
+  ],
+  [
+   "Unexpected token.",
+   1
+  ],
+  [
+   "Unexpected closing bracket.",
+   1
+  ],
+  [
+   "Expected a comma or closing bracket.",
+   1
+  ],
+  [
+   "Electron desktop backend is not available.",
+   1
+  ],
+  [
+   "Execution started...",
+   1
+  ],
+  [
+   "Internal error while closing websocket: ",
+   1
+  ],
+  [
+   "Click",
+   1
+  ],
+  [
+   "DoubleClick",
+   1
+  ],
+  [
+   "Press",
+   1
+  ],
+  [
+   "Start",
+   1
+  ],
+  [
+   "Over",
+   1
+  ],
+  [
+   "Drop",
+   1
+  ],
+  [
+   "Focus",
+   1
+  ],
+  [
+   "Blur",
+   1
+  ],
+  [
+   "Highlight",
+   1
+  ],
+  [
+   "Single",
+   1
+  ],
+  [
+   "Multi",
+   1
+  ],
+  [
+   "msg ",
+   1
+  ],
+  [
+   "Undefined",
+   1
+  ],
+  [
+   "Account",
+   1
+  ],
+  [
+   "ActivateBreakpoints",
+   1
+  ],
+  [
+   "Alert",
+   1
+  ],
+  [
+   "Archive",
+   1
+  ],
+  [
+   "Array",
+   1
+  ],
+  [
+   "ArrowBoth",
+   1
+  ],
+  [
+   "ArrowSmallDown",
+   1
+  ],
+  [
+   "ArrowSmallLeft",
+   1
+  ],
+  [
+   "ArrowSmallRight",
+   1
+  ],
+  [
+   "ArrowSmallUp",
+   1
+  ],
+  [
+   "Beaker",
+   1
+  ],
+  [
+   "Bell",
+   1
+  ],
+  [
+   "BellDot",
+   1
+  ],
+  [
+   "BellSlash",
+   1
+  ],
+  [
+   "BellSlashDot",
+   1
+  ],
+  [
+   "Bold",
+   1
+  ],
+  [
+   "Book",
+   1
+  ],
+  [
+   "Bookmark",
+   1
+  ],
+  [
+   "Briefcase",
+   1
+  ],
+  [
+   "Broadcast",
+   1
+  ],
+  [
+   "Browser",
+   1
+  ],
+  [
+   "Bug",
+   1
+  ],
+  [
+   "Calendar",
+   1
+  ],
+  [
+   "CallIncoming",
+   1
+  ],
+  [
+   "CaseSensitive",
+   1
+  ],
+  [
+   "Check",
+   1
+  ],
+  [
+   "CheckAll",
+   1
+  ],
+  [
+   "Checklist",
+   1
+  ],
+  [
+   "ChevronDown",
+   1
+  ],
+  [
+   "ChevronLeft",
+   1
+  ],
+  [
+   "ChevronRight",
+   1
+  ],
+  [
+   "ChevronUp",
+   1
+  ],
+  [
+   "ChromeClose",
+   1
+  ],
+  [
+   "ChromeMaximize",
+   1
+  ],
+  [
+   "ChromeMinimize",
+   1
+  ],
+  [
+   "ChromeRestore",
+   1
+  ],
+  [
+   "CircleFilled",
+   1
+  ],
+  [
+   "CircleLargeFilled",
+   1
+  ],
+  [
+   "CircleLargeOutline",
+   1
+  ],
+  [
+   "CircleOutline",
+   1
+  ],
+  [
+   "CircleSlash",
+   1
+  ],
+  [
+   "CircuitBoard",
+   1
+  ],
+  [
+   "ClearAll",
+   1
+  ],
+  [
+   "Clippy",
+   1
+  ],
+  [
+   "Clock",
+   1
+  ],
+  [
+   "Clone",
+   1
+  ],
+  [
+   "CloseAll",
+   1
+  ],
+  [
+   "CloseDirty",
+   1
+  ],
+  [
+   "Cloud",
+   1
+  ],
+  [
+   "CloudDownload",
+   1
+  ],
+  [
+   "CloudUpload",
+   1
+  ],
+  [
+   "Code",
+   1
+  ],
+  [
+   "CollapseAll",
+   1
+  ],
+  [
+   "ColorMode",
+   1
+  ],
+  [
+   "Combine",
+   1
+  ],
+  [
+   "Comment",
+   1
+  ],
+  [
+   "CommentAdd",
+   1
+  ],
+  [
+   "CommentDiscussion",
+   1
+  ],
+  [
+   "CompareChanges",
+   1
+  ],
+  [
+   "Console",
+   1
+  ],
+  [
+   "Copy",
+   1
+  ],
+  [
+   "CreditCard",
+   1
+  ],
+  [
+   "Dash",
+   1
+  ],
+  [
+   "Dashboard",
+   1
+  ],
+  [
+   "Database",
+   1
+  ],
+  [
+   "Debug",
+   1
+  ],
+  [
+   "DebugAlt",
+   1
+  ],
+  [
+   "DebugAltSmall",
+   1
+  ],
+  [
+   "DebugBreakpoint",
+   1
+  ],
+  [
+   "DebugBreakpointConditional",
+   1
+  ],
+  [
+   "DebugBreakpointConditionalDisabled",
+   1
+  ],
+  [
+   "DebugBreakpointConditionalUnverified",
+   1
+  ],
+  [
+   "DebugBreakpointData",
+   1
+  ],
+  [
+   "DebugBreakpointDataDisabled",
+   1
+  ],
+  [
+   "DebugBreakpointDataUnverified",
+   1
+  ],
+  [
+   "DebugBreakpointDisabled",
+   1
+  ],
+  [
+   "DebugBreakpointFunction",
+   1
+  ],
+  [
+   "DebugBreakpointFunctionDisabled",
+   1
+  ],
+  [
+   "DebugBreakpointFunctionUnverified",
+   1
+  ],
+  [
+   "DebugBreakpointLog",
+   1
+  ],
+  [
+   "DebugBreakpointLogDisabled",
+   1
+  ],
+  [
+   "DebugBreakpointLogUnverified",
+   1
+  ],
+  [
+   "DebugBreakpointUnsupported",
+   1
+  ],
+  [
+   "DebugBreakpointUnverified",
+   1
+  ],
+  [
+   "DebugConsole",
+   1
+  ],
+  [
+   "DebugContinue",
+   1
+  ],
+  [
+   "DebugDisconnect",
+   1
+  ],
+  [
+   "DebugHint",
+   1
+  ],
+  [
+   "DebugPause",
+   1
+  ],
+  [
+   "DebugRestart",
+   1
+  ],
+  [
+   "DebugRestartFrame",
+   1
+  ],
+  [
+   "DebugReverseContinue",
+   1
+  ],
+  [
+   "DebugStackframe",
+   1
+  ],
+  [
+   "DebugStackframeActive",
+   1
+  ],
+  [
+   "DebugStackframeDot",
+   1
+  ],
+  [
+   "DebugStackframeFocused",
+   1
+  ],
+  [
+   "DebugStart",
+   1
+  ],
+  [
+   "DebugStepBack",
+   1
+  ],
+  [
+   "DebugStepInto",
+   1
+  ],
+  [
+   "DebugStepOut",
+   1
+  ],
+  [
+   "DebugStepOver",
+   1
+  ],
+  [
+   "DebugStop",
+   1
+  ],
+  [
+   "DesktopDownload",
+   1
+  ],
+  [
+   "DeviceCamera",
+   1
+  ],
+  [
+   "DeviceCameraVideo",
+   1
+  ],
+  [
+   "DeviceDesktop",
+   1
+  ],
+  [
+   "DeviceMobile",
+   1
+  ],
+  [
+   "Diff",
+   1
+  ],
+  [
+   "DiffAdded",
+   1
+  ],
+  [
+   "DiffIgnored",
+   1
+  ],
+  [
+   "DiffModified",
+   1
+  ],
+  [
+   "DiffRemoved",
+   1
+  ],
+  [
+   "DiffRenamed",
+   1
+  ],
+  [
+   "Discard",
+   1
+  ],
+  [
+   "DropDownButton",
+   1
+  ],
+  [
+   "Edit",
+   1
+  ],
+  [
+   "EditorLayout",
+   1
+  ],
+  [
+   "Ellipsis",
+   1
+  ],
+  [
+   "EmptyWindow",
+   1
+  ],
+  [
+   "Exclude",
+   1
+  ],
+  [
+   "ExpandAll",
+   1
+  ],
+  [
+   "Export",
+   1
+  ],
+  [
+   "Extensions",
+   1
+  ],
+  [
+   "Eye",
+   1
+  ],
+  [
+   "EyeClosed",
+   1
+  ],
+  [
+   "EyeUnwatch",
+   1
+  ],
+  [
+   "EyeWatch",
+   1
+  ],
+  [
+   "Feedback",
+   1
+  ],
+  [
+   "File",
+   1
+  ],
+  [
+   "FileAdd",
+   1
+  ],
+  [
+   "FileBinary",
+   1
+  ],
+  [
+   "FileCode",
+   1
+  ],
+  [
+   "FileDirectory",
+   1
+  ],
+  [
+   "FileDirectoryCreate",
+   1
+  ],
+  [
+   "FileMedia",
+   1
+  ],
+  [
+   "FilePdf",
+   1
+  ],
+  [
+   "FileSubmodule",
+   1
+  ],
+  [
+   "FileSymlinkDirectory",
+   1
+  ],
+  [
+   "FileSymlinkFile",
+   1
+  ],
+  [
+   "FileText",
+   1
+  ],
+  [
+   "FileZip",
+   1
+  ],
+  [
+   "Files",
+   1
+  ],
+  [
+   "Filter",
+   1
+  ],
+  [
+   "Flame",
+   1
+  ],
+  [
+   "Fold",
+   1
+  ],
+  [
+   "FoldDown",
+   1
+  ],
+  [
+   "FoldUp",
+   1
+  ],
+  [
+   "Folder",
+   1
+  ],
+  [
+   "FolderActive",
+   1
+  ],
+  [
+   "FolderOpened",
+   1
+  ],
+  [
+   "Gather",
+   1
+  ],
+  [
+   "Gear",
+   1
+  ],
+  [
+   "Gift",
+   1
+  ],
+  [
+   "Gist",
+   1
+  ],
+  [
+   "GistFork",
+   1
+  ],
+  [
+   "GistNew",
+   1
+  ],
+  [
+   "GistPrivate",
+   1
+  ],
+  [
+   "GistSecret",
+   1
+  ],
+  [
+   "GitBranch",
+   1
+  ],
+  [
+   "GitBranchCreate",
+   1
+  ],
+  [
+   "GitBranchDelete",
+   1
+  ],
+  [
+   "GitCommit",
+   1
+  ],
+  [
+   "GitCompare",
+   1
+  ],
+  [
+   "GitForkPrivate",
+   1
+  ],
+  [
+   "GitMerge",
+   1
+  ],
+  [
+   "GitPullRequest",
+   1
+  ],
+  [
+   "GitPullRequestAbandoned",
+   1
+  ],
+  [
+   "Github",
+   1
+  ],
+  [
+   "GithubAction",
+   1
+  ],
+  [
+   "GithubAlt",
+   1
+  ],
+  [
+   "GithubInverted",
+   1
+  ],
+  [
+   "Globe",
+   1
+  ],
+  [
+   "GoToFile",
+   1
+  ],
+  [
+   "Grabber",
+   1
+  ],
+  [
+   "Graph",
+   1
+  ],
+  [
+   "GraphLeft",
+   1
+  ],
+  [
+   "Gripper",
+   1
+  ],
+  [
+   "GroupByRefType",
+   1
+  ],
+  [
+   "Heart",
+   1
+  ],
+  [
+   "History",
+   1
+  ],
+  [
+   "Home",
+   1
+  ],
+  [
+   "HorizontalRule",
+   1
+  ],
+  [
+   "Hubot",
+   1
+  ],
+  [
+   "Inbox",
+   1
+  ],
+  [
+   "IssueClosed",
+   1
+  ],
+  [
+   "IssueOpened",
+   1
+  ],
+  [
+   "IssueReopened",
+   1
+  ],
+  [
+   "Issues",
+   1
+  ],
+  [
+   "Italic",
+   1
+  ],
+  [
+   "Jersey",
+   1
+  ],
+  [
+   "KebabHorizontal",
+   1
+  ],
+  [
+   "KebabVertical",
+   1
+  ],
+  [
+   "Key",
+   1
+  ],
+  [
+   "Keyboard",
+   1
+  ],
+  [
+   "Law",
+   1
+  ],
+  [
+   "Library",
+   1
+  ],
+  [
+   "LightBulb",
+   1
+  ],
+  [
+   "Lightbulb",
+   1
+  ],
+  [
+   "LightbulbAutofix",
+   1
+  ],
+  [
+   "Link",
+   1
+  ],
+  [
+   "LinkExternal",
+   1
+  ],
+  [
+   "ListFilter",
+   1
+  ],
+  [
+   "ListFlat",
+   1
+  ],
+  [
+   "ListOrdered",
+   1
+  ],
+  [
+   "ListSelection",
+   1
+  ],
+  [
+   "ListTree",
+   1
+  ],
+  [
+   "ListUnordered",
+   1
+  ],
+  [
+   "LiveShare",
+   1
+  ],
+  [
+   "Loading",
+   1
+  ],
+  [
+   "Location",
+   1
+  ],
+  [
+   "Lock",
+   1
+  ],
+  [
+   "LogIn",
+   1
+  ],
+  [
+   "LogOut",
+   1
+  ],
+  [
+   "LogoGithub",
+   1
+  ],
+  [
+   "Magnet",
+   1
+  ],
+  [
+   "Mail",
+   1
+  ],
+  [
+   "MailRead",
+   1
+  ],
+  [
+   "MailReply",
+   1
+  ],
+  [
+   "MarkGithub",
+   1
+  ],
+  [
+   "Markdown",
+   1
+  ],
+  [
+   "Megaphone",
+   1
+  ],
+  [
+   "Mention",
+   1
+  ],
+  [
+   "Menu",
+   1
+  ],
+  [
+   "Merge",
+   1
+  ],
+  [
+   "Microscope",
+   1
+  ],
+  [
+   "Milestone",
+   1
+  ],
+  [
+   "Mirror",
+   1
+  ],
+  [
+   "MirrorPrivate",
+   1
+  ],
+  [
+   "MirrorPublic",
+   1
+  ],
+  [
+   "More",
+   1
+  ],
+  [
+   "MortarBoard",
+   1
+  ],
+  [
+   "MultipleWindows",
+   1
+  ],
+  [
+   "Mute",
+   1
+  ],
+  [
+   "NewFile",
+   1
+  ],
+  [
+   "NewFolder",
+   1
+  ],
+  [
+   "NoNewline",
+   1
+  ],
+  [
+   "Note",
+   1
+  ],
+  [
+   "Notebook",
+   1
+  ],
+  [
+   "Octoface",
+   1
+  ],
+  [
+   "OpenPreview",
+   1
+  ],
+  [
+   "Organization",
+   1
+  ],
+  [
+   "OrganizationFilled",
+   1
+  ],
+  [
+   "OrganizationOutline",
+   1
+  ],
+  [
+   "Package",
+   1
+  ],
+  [
+   "Paintcan",
+   1
+  ],
+  [
+   "Pass",
+   1
+  ],
+  [
+   "PassFilled",
+   1
+  ],
+  [
+   "Pencil",
+   1
+  ],
+  [
+   "Person",
+   1
+  ],
+  [
+   "PersonAdd",
+   1
+  ],
+  [
+   "PersonFilled",
+   1
+  ],
+  [
+   "PersonFollow",
+   1
+  ],
+  [
+   "PersonOutline",
+   1
+  ],
+  [
+   "Pin",
+   1
+  ],
+  [
+   "Pinned",
+   1
+  ],
+  [
+   "PinnedDirty",
+   1
+  ],
+  [
+   "Play",
+   1
+  ],
+  [
+   "PlayCircle",
+   1
+  ],
+  [
+   "Plug",
+   1
+  ],
+  [
+   "Plus",
+   1
+  ],
+  [
+   "PreserveCase",
+   1
+  ],
+  [
+   "Preview",
+   1
+  ],
+  [
+   "PrimitiveDot",
+   1
+  ],
+  [
+   "PrimitiveSquare",
+   1
+  ],
+  [
+   "Project",
+   1
+  ],
+  [
+   "Pulse",
+   1
+  ],
+  [
+   "Question",
+   1
+  ],
+  [
+   "Quote",
+   1
+  ],
+  [
+   "RadioTower",
+   1
+  ],
+  [
+   "Reactions",
+   1
+  ],
+  [
+   "Record",
+   1
+  ],
+  [
+   "RecordKeys",
+   1
+  ],
+  [
+   "Redo",
+   1
+  ],
+  [
+   "References",
+   1
+  ],
+  [
+   "Refresh",
+   1
+  ],
+  [
+   "Regex",
+   1
+  ],
+  [
+   "Remote",
+   1
+  ],
+  [
+   "RemoteExplorer",
+   1
+  ],
+  [
+   "Remove",
+   1
+  ],
+  [
+   "RemoveClose",
+   1
+  ],
+  [
+   "Repl",
+   1
+  ],
+  [
+   "ReplaceAll",
+   1
+  ],
+  [
+   "Reply",
+   1
+  ],
+  [
+   "Repo",
+   1
+  ],
+  [
+   "RepoClone",
+   1
+  ],
+  [
+   "RepoCreate",
+   1
+  ],
+  [
+   "RepoDelete",
+   1
+  ],
+  [
+   "RepoForcePush",
+   1
+  ],
+  [
+   "RepoForked",
+   1
+  ],
+  [
+   "RepoPull",
+   1
+  ],
+  [
+   "RepoPush",
+   1
+  ],
+  [
+   "RepoSync",
+   1
+  ],
+  [
+   "Report",
+   1
+  ],
+  [
+   "RequestChanges",
+   1
+  ],
+  [
+   "Rocket",
+   1
+  ],
+  [
+   "RootFolder",
+   1
+  ],
+  [
+   "RootFolderOpened",
+   1
+  ],
+  [
+   "Rss",
+   1
+  ],
+  [
+   "Ruby",
+   1
+  ],
+  [
+   "Run",
+   1
+  ],
+  [
+   "RunAll",
+   1
+  ],
+  [
+   "Save",
+   1
+  ],
+  [
+   "SaveAll",
+   1
+  ],
+  [
+   "SaveAs",
+   1
+  ],
+  [
+   "ScreenFull",
+   1
+  ],
+  [
+   "ScreenNormal",
+   1
+  ],
+  [
+   "Search",
+   1
+  ],
+  [
+   "SearchSave",
+   1
+  ],
+  [
+   "SearchStop",
+   1
+  ],
+  [
+   "Selection",
+   1
+  ],
+  [
+   "Server",
+   1
+  ],
+  [
+   "ServerEnvironment",
+   1
+  ],
+  [
+   "ServerProcess",
+   1
+  ],
+  [
+   "Settings",
+   1
+  ],
+  [
+   "SettingsGear",
+   1
+  ],
+  [
+   "Shield",
+   1
+  ],
+  [
+   "SignIn",
+   1
+  ],
+  [
+   "SignOut",
+   1
+  ],
+  [
+   "Smiley",
+   1
+  ],
+  [
+   "SortPrecedence",
+   1
+  ],
+  [
+   "SourceControl",
+   1
+  ],
+  [
+   "SplitHorizontal",
+   1
+  ],
+  [
+   "SplitVertical",
+   1
+  ],
+  [
+   "Squirrel",
+   1
+  ],
+  [
+   "Star",
+   1
+  ],
+  [
+   "StarAdd",
+   1
+  ],
+  [
+   "StarDelete",
+   1
+  ],
+  [
+   "StarEmpty",
+   1
+  ],
+  [
+   "StarFull",
+   1
+  ],
+  [
+   "StarHalf",
+   1
+  ],
+  [
+   "Stop",
+   1
+  ],
+  [
+   "StopCircle",
+   1
+  ],
+  [
+   "SymbolArray",
+   1
+  ],
+  [
+   "SymbolBoolean",
+   1
+  ],
+  [
+   "SymbolClass",
+   1
+  ],
+  [
+   "SymbolColor",
+   1
+  ],
+  [
+   "SymbolConstant",
+   1
+  ],
+  [
+   "SymbolConstructor",
+   1
+  ],
+  [
+   "SymbolEnum",
+   1
+  ],
+  [
+   "SymbolEnumMember",
+   1
+  ],
+  [
+   "SymbolEvent",
+   1
+  ],
+  [
+   "SymbolField",
+   1
+  ],
+  [
+   "SymbolFile",
+   1
+  ],
+  [
+   "SymbolFolder",
+   1
+  ],
+  [
+   "SymbolFunction",
+   1
+  ],
+  [
+   "SymbolInterface",
+   1
+  ],
+  [
+   "SymbolKey",
+   1
+  ],
+  [
+   "SymbolKeyword",
+   1
+  ],
+  [
+   "SymbolMethod",
+   1
+  ],
+  [
+   "SymbolMisc",
+   1
+  ],
+  [
+   "SymbolModule",
+   1
+  ],
+  [
+   "SymbolNamespace",
+   1
+  ],
+  [
+   "SymbolNull",
+   1
+  ],
+  [
+   "SymbolNumber",
+   1
+  ],
+  [
+   "SymbolNumeric",
+   1
+  ],
+  [
+   "SymbolObject",
+   1
+  ],
+  [
+   "SymbolOperator",
+   1
+  ],
+  [
+   "SymbolPackage",
+   1
+  ],
+  [
+   "SymbolParameter",
+   1
+  ],
+  [
+   "SymbolProperty",
+   1
+  ],
+  [
+   "SymbolReference",
+   1
+  ],
+  [
+   "SymbolRuler",
+   1
+  ],
+  [
+   "SymbolSnippet",
+   1
+  ],
+  [
+   "SymbolString",
+   1
+  ],
+  [
+   "SymbolStruct",
+   1
+  ],
+  [
+   "SymbolStructure",
+   1
+  ],
+  [
+   "SymbolText",
+   1
+  ],
+  [
+   "SymbolTypeParameter",
+   1
+  ],
+  [
+   "SymbolUnit",
+   1
+  ],
+  [
+   "SymbolValue",
+   1
+  ],
+  [
+   "SymbolVariable",
+   1
+  ],
+  [
+   "Sync",
+   1
+  ],
+  [
+   "SyncIgnored",
+   1
+  ],
+  [
+   "Tag",
+   1
+  ],
+  [
+   "TagAdd",
+   1
+  ],
+  [
+   "TagRemove",
+   1
+  ],
+  [
+   "Tasklist",
+   1
+  ],
+  [
+   "Telescope",
+   1
+  ],
+  [
+   "Terminal",
+   1
+  ],
+  [
+   "TextSize",
+   1
+  ],
+  [
+   "ThreeBars",
+   1
+  ],
+  [
+   "Thumbsdown",
+   1
+  ],
+  [
+   "Thumbsup",
+   1
+  ],
+  [
+   "Tools",
+   1
+  ],
+  [
+   "Trash",
+   1
+  ],
+  [
+   "Trashcan",
+   1
+  ],
+  [
+   "TriangleDown",
+   1
+  ],
+  [
+   "TriangleLeft",
+   1
+  ],
+  [
+   "TriangleRight",
+   1
+  ],
+  [
+   "TriangleUp",
+   1
+  ],
+  [
+   "Twitter",
+   1
+  ],
+  [
+   "TypeHierarchySub",
+   1
+  ],
+  [
+   "Unfold",
+   1
+  ],
+  [
+   "UngroupByRefType",
+   1
+  ],
+  [
+   "Unlock",
+   1
+  ],
+  [
+   "Unmute",
+   1
+  ],
+  [
+   "Unverified",
+   1
+  ],
+  [
+   "Variable",
+   1
+  ],
+  [
+   "Verified",
+   1
+  ],
+  [
+   "Versions",
+   1
+  ],
+  [
+   "Vm",
+   1
+  ],
+  [
+   "VmActive",
+   1
+  ],
+  [
+   "VmConnect",
+   1
+  ],
+  [
+   "VmOutline",
+   1
+  ],
+  [
+   "VmRunning",
+   1
+  ],
+  [
+   "Watch",
+   1
+  ],
+  [
+   "Whitespace",
+   1
+  ],
+  [
+   "WholeWord",
+   1
+  ],
+  [
+   "Window",
+   1
+  ],
+  [
+   "WordWrap",
+   1
+  ],
+  [
+   "Wrench",
+   1
+  ],
+  [
+   "WrenchSubaction",
+   1
+  ],
+  [
+   "Zap",
+   1
+  ],
+  [
+   "ZoomIn",
+   1
+  ],
+  [
+   "ZoomOut",
+   1
+  ],
+  [
+   "WorkspaceTrusted",
+   1
+  ],
+  [
+   "GitPullRequestLabel",
+   1
+  ],
+  [
+   "TerminalDecorationSuccess",
+   1
+  ],
+  [
+   "Circle",
+   1
+  ],
+  [
+   "TerminalDecorationIncomplete",
+   1
+  ],
+  [
+   "DiffSidebyside",
+   1
+  ],
+  [
+   "GitPullRequestMilestone",
+   1
+  ],
+  [
+   "CircleSmallFilled",
+   1
+  ],
+  [
+   "TerminalDecorationMark",
+   1
+  ],
+  [
+   "CallOutgoing",
+   1
+  ],
+  [
+   "GitPullRequestReviewer",
+   1
+  ],
+  [
+   "GitPullRequestAssignee",
+   1
+  ],
+  [
+   "CircleLarge",
+   1
+  ],
+  [
+   "Table",
+   1
+  ],
+  [
+   "VariableGroup",
+   1
+  ],
+  [
+   "TypeHierarchy",
+   1
+  ],
+  [
+   "TypeHierarchySuper",
+   1
+  ],
+  [
+   "GitPullRequestCreate",
+   1
+  ],
+  [
+   "RunAbove",
+   1
+  ],
+  [
+   "RunBelow",
+   1
+  ],
+  [
+   "NotebookTemplate",
+   1
+  ],
+  [
+   "DebugRerun",
+   1
+  ],
+  [
+   "WorkspaceUntrusted",
+   1
+  ],
+  [
+   "WorkspaceUnknown",
+   1
+  ],
+  [
+   "TerminalCmd",
+   1
+  ],
+  [
+   "TerminalDebian",
+   1
+  ],
+  [
+   "TerminalLinux",
+   1
+  ],
+  [
+   "TerminalPowershell",
+   1
+  ],
+  [
+   "TerminalTmux",
+   1
+  ],
+  [
+   "TerminalUbuntu",
+   1
+  ],
+  [
+   "TerminalBash",
+   1
+  ],
+  [
+   "ArrowSwap",
+   1
+  ],
+  [
+   "FilterFilled",
+   1
+  ],
+  [
+   "Wand",
+   1
+  ],
+  [
+   "DebugLineByLine",
+   1
+  ],
+  [
+   "Inspect",
+   1
+  ],
+  [
+   "Layers",
+   1
+  ],
+  [
+   "LayersDot",
+   1
+  ],
+  [
+   "LayersActive",
+   1
+  ],
+  [
+   "Compass",
+   1
+  ],
+  [
+   "CompassDot",
+   1
+  ],
+  [
+   "CompassActive",
+   1
+  ],
+  [
+   "Azure",
+   1
+  ],
+  [
+   "IssueDraft",
+   1
+  ],
+  [
+   "GitPullRequestClosed",
+   1
+  ],
+  [
+   "GitPullRequestDraft",
+   1
+  ],
+  [
+   "DebugAll",
+   1
+  ],
+  [
+   "DebugCoverage",
+   1
+  ],
+  [
+   "RunErrors",
+   1
+  ],
+  [
+   "FolderLibrary",
+   1
+  ],
+  [
+   "DebugContinueSmall",
+   1
+  ],
+  [
+   "BeakerStop",
+   1
+  ],
+  [
+   "GraphLine",
+   1
+  ],
+  [
+   "GraphScatter",
+   1
+  ],
+  [
+   "PieChart",
+   1
+  ],
+  [
+   "Bracket",
+   1
+  ],
+  [
+   "BracketDot",
+   1
+  ],
+  [
+   "BracketError",
+   1
+  ],
+  [
+   "LockSmall",
+   1
+  ],
+  [
+   "AzureDevops",
+   1
+  ],
+  [
+   "VerifiedFilled",
+   1
+  ],
+  [
+   "Newline",
+   1
+  ],
+  [
+   "Layout",
+   1
+  ],
+  [
+   "LayoutActivitybarLeft",
+   1
+  ],
+  [
+   "LayoutActivitybarRight",
+   1
+  ],
+  [
+   "LayoutPanelLeft",
+   1
+  ],
+  [
+   "LayoutPanelCenter",
+   1
+  ],
+  [
+   "LayoutPanelJustify",
+   1
+  ],
+  [
+   "LayoutPanelRight",
+   1
+  ],
+  [
+   "LayoutPanel",
+   1
+  ],
+  [
+   "LayoutSidebarLeft",
+   1
+  ],
+  [
+   "LayoutSidebarRight",
+   1
+  ],
+  [
+   "LayoutStatusbar",
+   1
+  ],
+  [
+   "LayoutMenubar",
+   1
+  ],
+  [
+   "LayoutCentered",
+   1
+  ],
+  [
+   "Target",
+   1
+  ],
+  [
+   "Indent",
+   1
+  ],
+  [
+   "RecordSmall",
+   1
+  ],
+  [
+   "ErrorSmall",
+   1
+  ],
+  [
+   "TerminalDecorationError",
+   1
+  ],
+  [
+   "ArrowCircleDown",
+   1
+  ],
+  [
+   "ArrowCircleLeft",
+   1
+  ],
+  [
+   "ArrowCircleRight",
+   1
+  ],
+  [
+   "ArrowCircleUp",
+   1
+  ],
+  [
+   "LayoutSidebarRightOff",
+   1
+  ],
+  [
+   "LayoutPanelOff",
+   1
+  ],
+  [
+   "LayoutSidebarLeftOff",
+   1
+  ],
+  [
+   "Blank",
+   1
+  ],
+  [
+   "HeartFilled",
+   1
+  ],
+  [
+   "Map",
+   1
+  ],
+  [
+   "MapHorizontal",
+   1
+  ],
+  [
+   "FoldHorizontal",
+   1
+  ],
+  [
+   "MapFilled",
+   1
+  ],
+  [
+   "MapHorizontalFilled",
+   1
+  ],
+  [
+   "FoldHorizontalFilled",
+   1
+  ],
+  [
+   "CircleSmall",
+   1
+  ],
+  [
+   "CommentUnresolved",
+   1
+  ],
+  [
+   "GitPullRequestGoToChanges",
+   1
+  ],
+  [
+   "GitPullRequestNewChanges",
+   1
+  ],
+  [
+   "SearchFuzzy",
+   1
+  ],
+  [
+   "CommentDraft",
+   1
+  ],
+  [
+   "Send",
+   1
+  ],
+  [
+   "Sparkle",
+   1
+  ],
+  [
+   "Insert",
+   1
+  ],
+  [
+   "Mic",
+   1
+  ],
+  [
+   "ThumbsdownFilled",
+   1
+  ],
+  [
+   "ThumbsupFilled",
+   1
+  ],
+  [
+   "Coffee",
+   1
+  ],
+  [
+   "Snake",
+   1
+  ],
+  [
+   "Game",
+   1
+  ],
+  [
+   "Vr",
+   1
+  ],
+  [
+   "Chip",
+   1
+  ],
+  [
+   "Piano",
+   1
+  ],
+  [
+   "Music",
+   1
+  ],
+  [
+   "MicFilled",
+   1
+  ],
+  [
+   "RepoFetch",
+   1
+  ],
+  [
+   "Copilot",
+   1
+  ],
+  [
+   "LightbulbSparkle",
+   1
+  ],
+  [
+   "Robot",
+   1
+  ],
+  [
+   "SparkleFilled",
+   1
+  ],
+  [
+   "DiffSingle",
+   1
+  ],
+  [
+   "DiffMultiple",
+   1
+  ],
+  [
+   "SurroundWith",
+   1
+  ],
+  [
+   "Share",
+   1
+  ],
+  [
+   "GitStash",
+   1
+  ],
+  [
+   "GitStashApply",
+   1
+  ],
+  [
+   "GitStashPop",
+   1
+  ],
+  [
+   "Vscode",
+   1
+  ],
+  [
+   "VscodeInsiders",
+   1
+  ],
+  [
+   "CodeOss",
+   1
+  ],
+  [
+   "RunCoverage",
+   1
+  ],
+  [
+   "RunAllCoverage",
+   1
+  ],
+  [
+   "Coverage",
+   1
+  ],
+  [
+   "GithubProject",
+   1
+  ],
+  [
+   "MapVertical",
+   1
+  ],
+  [
+   "FoldVertical",
+   1
+  ],
+  [
+   "MapVerticalFilled",
+   1
+  ],
+  [
+   "FoldVerticalFilled",
+   1
+  ],
+  [
+   "GoToSearch",
+   1
+  ],
+  [
+   "Percentage",
+   1
+  ],
+  [
+   "SortPercentage",
+   1
+  ],
+  [
+   "Attach",
+   1
+  ],
+  [
+   "DialogError",
+   1
+  ],
+  [
+   "DialogWarning",
+   1
+  ],
+  [
+   "DialogInfo",
+   1
+  ],
+  [
+   "DialogClose",
+   1
+  ],
+  [
+   "TreeItemExpanded",
+   1
+  ],
+  [
+   "TreeFilterOnTypeOn",
+   1
+  ],
+  [
+   "TreeFilterOnTypeOff",
+   1
+  ],
+  [
+   "TreeFilterClear",
+   1
+  ],
+  [
+   "TreeItemLoading",
+   1
+  ],
+  [
+   "MenuSelection",
+   1
+  ],
+  [
+   "MenuSubmenu",
+   1
+  ],
+  [
+   "MenubarMore",
+   1
+  ],
+  [
+   "ScrollbarButtonLeft",
+   1
+  ],
+  [
+   "ScrollbarButtonRight",
+   1
+  ],
+  [
+   "ScrollbarButtonUp",
+   1
+  ],
+  [
+   "ScrollbarButtonDown",
+   1
+  ],
+  [
+   "ToolbarMore",
+   1
+  ],
+  [
+   "QuickInputBack",
+   1
+  ],
+  [
+   "SymbolCustomcolor",
+   1
+  ],
+  [
+   "WorkspaceUnspecified",
+   1
+  ],
+  [
+   "GitFetch",
+   1
+  ],
+  [
+   "LightbulbSparkleAutofix",
+   1
+  ],
+  [
+   "DebugBreakpointPending",
+   1
+  ],
+  [
+   "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/",
+   1
+  ],
+  [
+   "MySQL",
+   1
+  ],
+  [
+   "Sqlite",
+   1
+  ],
+  [
+   "DB Script",
+   1
+  ],
+  [
+   "Release Notes",
+   1
+  ],
+  [
+   " withOverlay",
+   1
+  ],
+  [
+   ", auto auto",
+   1
+  ],
+  [
+   ", add",
+   1
+  ],
+  [
+   " codicon codicon-",
+   1
+  ],
+  [
+   "title verticalCenterContent",
+   1
+  ],
+  [
+   "content fixedScrollbar",
+   1
+  ],
+  [
+   "footer verticalCenterContent",
+   1
+  ],
+  [
+   "Emphasis",
+   1
+  ],
+  [
+   "Strong",
+   1
+  ],
+  [
+   "Line + Block Comment",
+   1
+  ],
+  [
+   "Special line comment",
+   1
+  ],
+  [
+   "Doc Comment",
+   1
+  ],
+  [
+   "Generic constant",
+   1
+  ],
+  [
+   "bold underline",
+   1
+  ],
+  [
+   "Delimiter",
+   1
+  ],
+  [
+   "Generic Identifier",
+   1
+  ],
+  [
+   "Generic invalid",
+   1
+  ],
+  [
+   " bold",
+   1
+  ],
+  [
+   "Meta Tag",
+   1
+  ],
+  [
+   "Number",
+   1
+  ],
+  [
+   "Other",
+   1
+  ],
+  [
+   "JSON Value String",
+   1
+  ],
+  [
+   "Generic comment + line/block defaults",
+   1
+  ],
+  [
+   "comment, comment.line, comment.block",
+   1
+  ],
+  [
+   "Single line comment (//, --, #)",
+   1
+  ],
+  [
+   "comment.line.double-slash, comment.line.double-dash, comment.line.number-sign",
+   1
+  ],
+  [
+   "Multi line comment (doc type)",
+   1
+  ],
+  [
+   "Generic constant + others default",
+   1
+  ],
+  [
+   "entity, entity.other",
+   1
+  ],
+  [
+   "JSON String",
+   1
+  ],
+  [
+   "Abyss",
+   1
+  ],
+  [
+   "Dark High Contrast",
+   1
+  ],
+  [
+   "Kimbie Dark",
+   1
+  ],
+  [
+   "Monokai",
+   1
+  ],
+  [
+   "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
+   1
+  ],
+  [
+   "support.type, support.class",
+   1
+  ],
+  [
+   "Monokai Dimmed",
+   1
+  ],
+  [
+   "string source",
+   1
+  ],
+  [
+   "entity.name.class, entity.name.type, entity.name.namespace, entity.name.scope-resolution",
+   1
+  ],
+  [
+   "meta.doctype, meta.tag.sgml-declaration.doctype, meta.tag.sgml.doctype",
+   1
+  ],
+  [
+   "meta.tag.inline source, text.html.php.source",
+   1
+  ],
+  [
+   "meta.tag.other, entity.name.tag.style, entity.name.tag.script, meta.tag.block.script, source.js.embedded punctuation.definition.tag.html, source.css.embedded punctuation.definition.tag.html",
+   1
+  ],
+  [
+   "entity.other.attribute-name, meta.tag punctuation.definition.string",
+   1
+  ],
+  [
+   "meta.tag string -source -punctuation, text source text meta.tag string -punctuation",
+   1
+  ],
+  [
+   "string.quoted.double.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html, punctuation.definition.string.end.html source, string.quoted.double.html source",
+   1
+  ],
+  [
+   "punctuation.definition.tag.html, punctuation.definition.tag.begin, punctuation.definition.tag.end",
+   1
+  ],
+  [
+   "meta.selector entity.other.attribute-name.id",
+   1
+  ],
+  [
+   "source.css support.type.property-name",
+   1
+  ],
+  [
+   "meta.property-group support.constant.property-value, meta.property-value support.constant.property-value",
+   1
+  ],
+  [
+   "punctuation.definition.string.end.php, punctuation.definition.string.begin.php",
+   1
+  ],
+  [
+   "punctuation.section.embedded.begin.php, punctuation.section.embedded.end.php",
+   1
+  ],
+  [
+   "Dark+",
+   1
+  ],
+  [
+   "Red",
+   1
+  ],
+  [
+   "string constant",
+   1
+  ],
+  [
+   "string variable",
+   1
+  ],
+  [
+   "declaration.sgml.html declaration.doctype",
+   1
+  ],
+  [
+   "declaration.sgml.html declaration.doctype entity",
+   1
+  ],
+  [
+   "declaration.sgml.html declaration.doctype string",
+   1
+  ],
+  [
+   "declaration.xml-processing entity",
+   1
+  ],
+  [
+   "declaration.xml-processing string",
+   1
+  ],
+  [
+   "declaration.tag entity",
+   1
+  ],
+  [
+   "meta.tag entity",
+   1
+  ],
+  [
+   "meta.selector.css entity.name.tag",
+   1
+  ],
+  [
+   "meta.selector.css entity.other.attribute-name.id",
+   1
+  ],
+  [
+   "meta.selector.css entity.other.attribute-name.class",
+   1
+  ],
+  [
+   "meta.property-group support.constant.property-value.css",
+   1
+  ],
+  [
+   "meta.property-value support.constant.property-value.css",
+   1
+  ],
+  [
+   "meta.property-value support.constant.named-color.css",
+   1
+  ],
+  [
+   "meta.property-value constant",
+   1
+  ],
+  [
+   "meta.preprocessor.at-rule keyword.control.at-rule",
+   1
+  ],
+  [
+   "Solarized Dark",
+   1
+  ],
+  [
+   "Tomorrow Night Blue",
+   1
+  ],
+  [
+   "keyword.operator.class, keyword.operator, constant.other, source.php.embedded.line",
+   1
+  ],
+  [
+   "entity.name.class, entity.name.type, entity.name.namespace, entity.name.scope-resolution, support.type, support.class",
+   1
+  ],
+  [
+   "string, constant.other.symbol, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter",
+   1
+  ],
+  [
+   "keyword.operator, constant.other.color",
+   1
+  ],
+  [
+   "entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level, markup.changed.git_gutter",
+   1
+  ],
+  [
+   "keyword, storage, storage.type, entity.name.tag.css, entity.name.tag.less",
+   1
+  ],
+  [
+   "markup.inserted.diff, markup.deleted.diff, meta.diff.header.to-file, meta.diff.header.from-file",
+   1
+  ],
+  [
+   "markup.inserted.diff, meta.diff.header.to-file",
+   1
+  ],
+  [
+   "markup.deleted.diff, meta.diff.header.from-file",
+   1
+  ],
+  [
+   "meta.diff.header.from-file, meta.diff.header.to-file",
+   1
+  ],
+  [
+   "Dark (Visual Studio)",
+   1
+  ],
+  [
+   "Light High Contrast",
+   1
+  ],
+  [
+   "Light+",
+   1
+  ],
+  [
+   "Quiet Light",
+   1
+  ],
+  [
+   "comment.block.documentation punctuation.definition.comment ",
+   1
+  ],
+  [
+   "meta.tag.sgml.doctype string",
+   1
+  ],
+  [
+   "meta.tag.sgml.doctype entity.name.tag",
+   1
+  ],
+  [
+   "meta.tag.sgml punctuation.definition.tag.html",
+   1
+  ],
+  [
+   "meta.tag entity.other.attribute-name",
+   1
+  ],
+  [
+   "meta.selector entity",
+   1
+  ],
+  [
+   "meta.selector entity punctuation",
+   1
+  ],
+  [
+   "meta.property-value constant.other",
+   1
+  ],
+  [
+   "Solarized Light",
+   1
+  ],
+  [
+   "Light (Visual Studio)",
+   1
+  ],
+  [
+   "General",
+   1
+  ],
+  [
+   "Settings related to the general behavior of the application.",
+   1
+  ],
+  [
+   "Auto Logout Timeout",
+   1
+  ],
+  [
+   "The number of hours after which the user is automatically logged out. Set to 0 to disable auto logout.",
+   1
+  ],
+  [
+   "Background Workers",
+   1
+  ],
+  [
+   "Settings related to background workers",
+   1
+  ],
+  [
+   "Minimum Background Worker Count",
+   1
+  ],
+  [
+   "The number of workers that are always available.",
+   1
+  ],
+  [
+   "Maximum Background Worker Count",
+   1
+  ],
+  [
+   "The maximum number of workers that are active at the same time.",
+   1
+  ],
+  [
+   "Maximum Number of Waiting Tasks",
+   1
+  ],
+  [
+   "Delay to Remove Inactive Workers",
+   1
+  ],
+  [
+   "Specifies the number of seconds that pass until the oldest inactive worker is removed. Has no effect if the current number of active workers fall below the minimal worker count.",
+   1
+  ],
+  [
+   "Theme Settings",
+   1
+  ],
+  [
+   "Values used to theme the application. There is a dedicated editor to change these values.",
+   1
+  ],
+  [
+   "Current Theme",
+   1
+  ],
+  [
+   "Select the active theme for the current profile.",
+   1
+  ],
+  [
+   "Registered Themes",
+   1
+  ],
+  [
+   "Theme can be selected or edited directly in User Settings JSON -> workbench.colorCustomizations",
+   1
+  ],
+  [
+   "Code Editor",
+   1
+  ],
+  [
+   "Settings related to all code editors.",
+   1
+  ],
+  [
+   "Theming",
+   1
+  ],
+  [
+   "Settings related to theming.",
+   1
+  ],
+  [
+   "Decoration Set for Code Editor Gutters",
+   1
+  ],
+  [
+   "Select one of the sets for code-block decoration that results in mixed language code editors.",
+   1
+  ],
+  [
+   "Standard",
+   1
+  ],
+  [
+   "No special decoration for editor rows",
+   1
+  ],
+  [
+   "Solid Lines",
+   1
+  ],
+  [
+   "Shows a solid marker for editor rows",
+   1
+  ],
+  [
+   "Hatched Lines",
+   1
+  ],
+  [
+   "Uses a hatch pattern with different colors to separate editor content and result areas",
+   1
+  ],
+  [
+   "Word Wrapping",
+   1
+  ],
+  [
+   "Determines how long lines should be wrapped automatically by the editor.",
+   1
+  ],
+  [
+   "Off",
+   1
+  ],
+  [
+   "Lines never wrap",
+   1
+  ],
+  [
+   "On",
+   1
+  ],
+  [
+   "Lines wrap at the viewport width",
+   1
+  ],
+  [
+   "Lines wrap at \"Code Editor: Word Wrap Column\"",
+   1
+  ],
+  [
+   "Bounded",
+   1
+  ],
+  [
+   "Lines wrap at the minimum of viewport width or \"Code Editor: Word Wrap Column\"",
+   1
+  ],
+  [
+   "Controls the column of the editor to wrap long lines when Code Editor: Word Wrap is `wordWrapColumn` or `bounded`.",
+   1
+  ],
+  [
+   "Fixed Width for Wide Columns",
+   1
+  ],
+  [
+   "Fixed width (in pixels) applied to wide columns containing long unbroken text, preventing excessive stretching. Requires reopening the view to take effect.",
+   1
+  ],
+  [
+   "Invisible Characters",
+   1
+  ],
+  [
+   "When set to true, normally invisible characters (like space or tabulator) are displayed too.",
+   1
+  ],
+  [
+   "Connection Information",
+   1
+  ],
+  [
+   "Shows the active workspace's user and service connection IDs in the status area.",
+   1
+  ],
+  [
+   "MySQL DB Version",
+   1
+  ],
+  [
+   "The default version to be used for MySQL language support, if no version is available.",
+   1
+  ],
+  [
+   "MySQL SQL Mode",
+   1
+  ],
+  [
+   "The default SQL mode to be used for MySQL language support, if mode information is not available.",
+   1
+  ],
+  [
+   "Stop on Errors",
+   1
+  ],
+  [
+   "If this option is set, execution of scripts will be stopped if an error occurs. Otherwise, the script execution continues with the next statement.",
+   1
+  ],
+  [
+   "Show the Minimap",
+   1
+  ],
+  [
+   "Determines if code editors should show a minimap, instead of the plain scrollbar, for better navigation.",
+   1
+  ],
+  [
+   "Start Editing on Double Click",
+   1
+  ],
+  [
+   "When set, a double click on a result cell starts editing the cell, otherwise editing a cell is only possible if the edit mode is activated.",
+   1
+  ],
+  [
+   "Fixed Width Result Text",
+   1
+  ],
+  [
+   "When set, result grids use a fixed-width font.",
+   1
+  ],
+  [
+   "DB Editor",
+   1
+  ],
+  [
+   "Settings related to a DB editor",
+   1
+  ],
+  [
+   "Select the initial language for new DB editors.",
+   1
+  ],
+  [
+   "TypeScript",
+   1
+  ],
+  [
+   "Supported only in DB editors",
+   1
+  ],
+  [
+   "Default Editor",
+   1
+  ],
+  [
+   "Select the type of the first editor when opening a DB connection.",
+   1
+  ],
+  [
+   "A multi-language editor with embedded results",
+   1
+  ],
+  [
+   "MySQL Script",
+   1
+  ],
+  [
+   "A single-language script editor (MySQL)",
+   1
+  ],
+  [
+   "Connection Tags",
+   1
+  ],
+  [
+   "Stores the connection tag definitions.",
+   1
+  ],
+  [
+   "Use the minimap if globally enabled",
+   1
+  ],
+  [
+   "Determines if notebooks in the DB editor show a minimap. Only has an effect when mini maps are globally enabled",
+   1
+  ],
+  [
+   "Use UPPER case keywords in code completion",
+   1
+  ],
+  [
+   "When set, keywords shown in code-completion popups appear in all uppercase letters and are inserted as such in the SQL code editors.",
+   1
+  ],
+  [
+   "Connection Browser",
+   1
+  ],
+  [
+   "Settings related to the connection overview page",
+   1
+  ],
+  [
+   "Sort Folders First",
+   1
+  ],
+  [
+   "If set, folders are sorted before connections in the connection overview.",
+   1
+  ],
+  [
+   "SQL Execution",
+   1
+  ],
+  [
+   "Settings related to how SQL queries are handled",
+   1
+  ],
+  [
+   "Result Set Page Size",
+   1
+  ],
+  [
+   "Row Packet Size",
+   1
+  ],
+  [
+   "Determines the number of result records that are sent in a single response from the backend.",
+   1
+  ],
+  [
+   "SQL Reformatter",
+   1
+  ],
+  [
+   "Settings related to SQL code reformatting.",
+   1
+  ],
+  [
+   "Indent Width",
+   1
+  ],
+  [
+   "The number of spaces to use for each indentation level.",
+   1
+  ],
+  [
+   "Keyword Case",
+   1
+  ],
+  [
+   "Select how SQL keywords are written when formatting.",
+   1
+  ],
+  [
+   "Uppercase",
+   1
+  ],
+  [
+   "Write SQL keywords in uppercase",
+   1
+  ],
+  [
+   "Lowercase",
+   1
+  ],
+  [
+   "Write SQL keywords in lowercase",
+   1
+  ],
+  [
+   "Preserve",
+   1
+  ],
+  [
+   "Keep existing SQL keyword casing",
+   1
+  ],
+  [
+   "Quote Identifiers",
+   1
+  ],
+  [
+   "Quote bare identifiers with backticks when formatting.",
+   1
+  ],
+  [
+   "Maximum Inline Length",
+   1
+  ],
+  [
+   "The inline length threshold before the formatter wraps expressions.",
+   1
+  ],
+  [
+   "Break SELECT Items",
+   1
+  ],
+  [
+   "Always place SELECT item lists on separate lines.",
+   1
+  ],
+  [
+   "Break Function Arguments",
+   1
+  ],
+  [
+   "Always place function arguments on separate lines.",
+   1
+  ],
+  [
+   "Table Options Per Line",
+   1
+  ],
+  [
+   "Keep CREATE TABLE options on separate lines.",
+   1
+  ],
+  [
+   "Shell Session",
+   1
+  ],
+  [
+   "Settings related to a shell session",
+   1
+  ],
+  [
+   "Select the initial language for a new shell session.",
+   1
+  ],
+  [
+   "'Helvetica Neue', Helvetica, Arial, sans-serif",
+   1
+  ],
+  [
+   "'SourceCodePro+Powerline+Awesome+MySQL', monospace",
+   1
+  ],
+  [
+   "This theme contains references to local files, which cannot be loaded automatically.",
+   1
+  ],
+  [
+   "Enter Password",
+   1
+  ],
+  [
+   "Confirm the password.",
+   1
+  ],
+  [
+   "Passwords do not match.",
+   1
+  ],
+  [
+   "noopener noreferrer",
+   1
+  ],
+  [
+   "MySQL Shell",
+   1
+  ],
+  [
+   "Welcome to the ",
+   1
+  ],
+  [
+   "Please provide your ",
+   1
+  ],
+  [
+   " credentials to log into the shell interface.",
+   1
+  ],
+  [
+   "Username",
+   1
+  ],
+  [
+   "Password",
+   1
+  ],
+  [
+   "If you do not have a ",
+   1
+  ],
+  [
+   " account yet, please",
+   1
+  ],
+  [
+   "ask your administrator to have one created for you.",
+   1
+  ],
+  [
+   "Left",
+   1
+  ],
+  [
+   "Right",
+   1
+  ],
+  [
+   "codicon-modifier-spin ",
+   1
+  ],
+  [
+   "Show Notifications",
+   1
+  ],
+  [
+   "NO NOTIFICATIONS",
+   1
+  ],
+  [
+   "NO NEW NOTIFICATIONS",
+   1
+  ],
+  [
+   "Clear All Notifications",
+   1
+  ],
+  [
+   "Switch Do Not Disturb Mode",
+   1
+  ],
+  [
+   "Hide Notifications (Escape)",
+   1
+  ],
+  [
+   "Hide Notifications",
+   1
+  ],
+  [
+   " New Notifications",
+   1
+  ],
+  [
+   " Notifications",
+   1
+  ],
+  [
+   " New Notification",
+   1
+  ],
+  [
+   "Unchecked",
+   1
+  ],
+  [
+   "Checked",
+   1
+  ],
+  [
+   "Indeterminate",
+   1
+  ],
+  [
+   "msg icon",
+   1
+  ],
+  [
+   "Default",
+   1
+  ],
+  [
+   "AiryDropdown",
+   1
+  ],
+  [
+   " default",
+   1
+  ],
+  [
+   " separator",
+   1
+  ],
+  [
+   " submenu",
+   1
+  ],
+  [
+   "linear animated",
+   1
+  ],
+  [
+   "circleBackground animated",
+   1
+  ],
+  [
+   " hasAuxillary",
+   1
+  ],
+  [
+   " selected",
+   1
+  ],
+  [
+   " stretched",
+   1
+  ],
+  [
+   "Close Others",
+   1
+  ],
+  [
+   "Close to the Right",
+   1
+  ],
+  [
+   "Close All",
+   1
+  ],
+  [
+   "Update",
+   1
+  ],
+  [
+   "button, input, textarea, select, [contenteditable='true'], .tabulator-row-resize-handle, .tabulator-data-tree-control",
+   1
+  ],
+  [
+   "input, textarea, select, [contenteditable='true']",
+   1
+  ],
+  [
+   "<span class='treeToggle codicon codicon-chevron-right' />",
+   1
+  ],
+  [
+   "<span class='treeToggle expanded codicon codicon-chevron-down' />",
+   1
+  ],
+  [
+   "Name:",
+   1
+  ],
+  [
+   "Value:",
+   1
+  ],
+  [
+   "ReadOnly",
+   1
+  ],
+  [
+   "Disabled",
+   1
+  ],
+  [
+   "AutoFocus",
+   1
+  ],
+  [
+   "Grouped",
+   1
+  ],
+  [
+   "NewGroup",
+   1
+  ],
+  [
+   "Hidden",
+   1
+  ],
+  [
+   "No Title",
+   1
+  ],
+  [
+   "Option",
+   1
+  ],
+  [
+   "Value",
+   1
+  ],
+  [
+   "Add new property entry",
+   1
+  ],
+  [
+   "Remove selected entries",
+   1
+  ],
+  [
+   "CellDescription",
+   1
+  ],
+  [
+   "New Item ",
+   1
+  ],
+  [
+   "Remove Selected Entry",
+   1
+  ],
+  [
+   "Add New Parameter",
+   1
+  ],
+  [
+   "The instance name must be specified.",
+   1
+  ],
+  [
+   "The number of CPUs must be between 1 and 512.",
+   1
+  ],
+  [
+   "The memory size must be between 1 and 1024 GB.",
+   1
+  ],
+  [
+   "The MySQL user name must be specified.",
+   1
+  ],
+  [
+   "The MySQL password must be specified.",
+   1
+  ],
+  [
+   "At least one feature needs to be selected.",
+   1
+  ],
+  [
+   "The MRS feature needs to be enabled.",
+   1
+  ],
+  [
+   "A valid domain name needs at least one dot.",
+   1
+  ],
+  [
+   "A domain name needs to be assigned.",
+   1
+  ],
+  [
+   "The Port Forwarding feature needs to be enabled.",
+   1
+  ],
+  [
+   "Compute Instance Name:",
+   1
+  ],
+  [
+   "The name of the compute instance.",
+   1
+  ],
+  [
+   "Compute Shape",
+   1
+  ],
+  [
+   "The shape of the compute instance to use.",
+   1
+  ],
+  [
+   "OCPUs ",
+   1
+  ],
+  [
+   "Number of OCPUs.",
+   1
+  ],
+  [
+   "Memory",
+   1
+  ],
+  [
+   "Memory Size (in GB).",
+   1
+  ],
+  [
+   "MySQL User Name",
+   1
+  ],
+  [
+   "MySQL Password",
+   1
+  ],
+  [
+   "Create DB Connection",
+   1
+  ],
+  [
+   "Create a DB Connection using this endpoint.",
+   1
+  ],
+  [
+   "Domain Name",
+   1
+  ],
+  [
+   "NOTE: The corresponding DNS A record needs to be created manually.",
+   1
+  ],
+  [
+   "Public IP",
+   1
+  ],
+  [
+   "Assign Public IP",
+   1
+  ],
+  [
+   "Assign a public IP Address.",
+   1
+  ],
+  [
+   "SSL Certificate",
+   1
+  ],
+  [
+   "Create SSL Certificate",
+   1
+  ],
+  [
+   "Create a SSL certificate for this instance. ",
+   1
+  ],
+  [
+   "Features",
+   1
+  ],
+  [
+   "MySQL Port Forwarding",
+   1
+  ],
+  [
+   "Enable MySQL TCP port forwarding on the public endpoint.",
+   1
+  ],
+  [
+   "MySQL REST Service",
+   1
+  ],
+  [
+   "Enable the MySQL REST Service and serve MRS REST endpoints.",
+   1
+  ],
+  [
+   "MySQL REST Service Settings",
+   1
+  ],
+  [
+   "MRS JWT Secret:",
+   1
+  ],
+  [
+   "The same secret needs to be used on all instances.",
+   1
+  ],
+  [
+   "The cluster size must be specified.",
+   1
+  ],
+  [
+   "Cluster Size",
+   1
+  ],
+  [
+   "Shape Name",
+   1
+  ],
+  [
+   "At least one schema needs to be selected.",
+   1
+  ],
+  [
+   "The Exclude List needs to contain a list of quoted object names, e.g.\"mySchema.myTable\", \"myOtherSchema.myOtherTable\"",
+   1
+  ],
+  [
+   "Database Schemas to Load",
+   1
+  ],
+  [
+   "Operational Mode",
+   1
+  ],
+  [
+   "Options",
+   1
+  ],
+  [
+   "Disable unsupported columns",
+   1
+  ],
+  [
+   "Optimize load parallelism",
+   1
+  ],
+  [
+   "Enable memory check",
+   1
+  ],
+  [
+   "SQL Mode",
+   1
+  ],
+  [
+   "Exclude List",
+   1
+  ],
+  [
+   "Bearer ",
+   1
+  ],
+  [
+   "TimeoutError",
+   1
+  ],
+  [
+   "TypeError",
+   1
+  ],
+  [
+   "Failed to fetch",
+   1
+  ],
+  [
+   "Failed to authenticate.",
+   1
+  ],
+  [
+   "Authentication failed. The authentication app is of a different vendor.",
+   1
+  ],
+  [
+   "No password given.",
+   1
+  ],
+  [
+   "Client Key",
+   1
+  ],
+  [
+   "No user is currently authenticated.",
+   1
+  ],
+  [
+   "Authentication failed. The authentication app does not exist.",
+   1
+  ],
+  [
+   "Failed to fetch Authentication Apps.",
+   1
+  ],
+  [
+   "No user name given.",
+   1
+  ],
+  [
+   "No Authentication Apps have been defined for this service. Please add an MRS or MySQL Internal Authentication App to the service first.",
+   1
+  ],
+  [
+   "The embedded MRS SDK only supports MRS or MySQL Internal Authentication Apps. Please add a MRS or MySQL Internal Authentication App to the service first.",
+   1
+  ],
+  [
+   "MySQL REST Service Authentication",
+   1
+  ],
+  [
+   "Sign in with:",
+   1
+  ],
+  [
+   "authApp loginControl",
+   1
+  ],
+  [
+   "Password:",
+   1
+  ],
+  [
+   "Authenticating ...",
+   1
+  ],
+  [
+   "DialogHost instance not initialized.",
+   1
+  ],
+  [
+   "Prompt dialog already active.",
+   1
+  ],
+  [
+   "Confirm dialog already active.",
+   1
+  ],
+  [
+   "Select dialog already active.",
+   1
+  ],
+  [
+   "An unexpected error occurred:",
+   1
+  ],
+  [
+   "If you think this is a bug in the application then please file a bug report at  ",
+   1
+  ],
+  [
+   "Confirmation",
+   1
+  ],
+  [
+   "Session recovered",
+   1
+  ],
+  [
+   "Mac",
+   1
+  ]
+ ],
+ "MigrationSubApp-BAXQcd_q.js": [
+  [
+   "Enter",
+   5
+  ],
+  [
+   "HeatWave.Free",
+   4
+  ],
+  [
+   "Signing in to OCI...",
+   4
+  ],
+  [
+   "Sub Step ",
+   4
+  ],
+  [
+   "HeatWave.32GB",
+   3
+  ],
+  [
+   "VM.Standard.E5.Flex",
+   3
+  ],
+  [
+   "Copy",
+   3
+  ],
+  [
+   "BadUserInput",
+   3
+  ],
+  [
+   "Commit",
+   3
+  ],
+  [
+   "Enabled",
+   3
+  ],
+  [
+   "Disabled",
+   3
+  ],
+  [
+   "progress-wrapper static",
+   3
+  ],
+  [
+   "Clear selection",
+   2
+  ],
+  [
+   "Close",
+   2
+  ],
+  [
+   "Object Storage",
+   2
+  ],
+  [
+   "Progress:",
+   2
+  ],
+  [
+   "status checkmark",
+   2
+  ],
+  [
+   "Select ",
+   2
+  ],
+  [
+   " from schema ",
+   2
+  ],
+  [
+   " to be excluded from the migration.",
+   2
+  ],
+  [
+   "MySQL.Free",
+   2
+  ],
+  [
+   "Loading OCI compartments...",
+   2
+  ],
+  [
+   "Refreshing migration plan...",
+   2
+  ],
+  [
+   "Start Migration Process",
+   2
+  ],
+  [
+   "InvalidParameter",
+   2
+  ],
+  [
+   "Update",
+   2
+  ],
+  [
+   "OCI Sign In",
+   2
+  ],
+  [
+   "Sign Up to OCI",
+   2
+  ],
+  [
+   "Use Existing",
+   2
+  ],
+  [
+   " Free ",
+   2
+  ],
+  [
+   "High Availability",
+   2
+  ],
+  [
+   "Name",
+   2
+  ],
+  [
+   "Shape",
+   2
+  ],
+  [
+   " GB",
+   2
+  ],
+  [
+   "Delete ",
+   2
+  ],
+  [
+   "MySQL",
+   2
+  ],
+  [
+   "Table",
+   2
+  ],
+  [
+   "tds-container tds-collapsed",
+   1
+  ],
+  [
+   " tds-disabled",
+   1
+  ],
+  [
+   "tds-container tds-expanded",
+   1
+  ],
+  [
+   "tds-filter tds-filter-row",
+   1
+  ],
+  [
+   "Filter...",
+   1
+  ],
+  [
+   "Filter items",
+   1
+  ],
+  [
+   "No matching items",
+   1
+  ],
+  [
+   " tds-arrow-expanded",
+   1
+  ],
+  [
+   "Collapse",
+   1
+  ],
+  [
+   "Expand",
+   1
+  ],
+  [
+   " tds-item-selected",
+   1
+  ],
+  [
+   "Not selected",
+   1
+  ],
+  [
+   "planUpdate begin:",
+   1
+  ],
+  [
+   "planUpdate done:",
+   1
+  ],
+  [
+   "Work Start:",
+   1
+  ],
+  [
+   "Work Abort",
+   1
+  ],
+  [
+   " disabled",
+   1
+  ],
+  [
+   "content ",
+   1
+  ],
+  [
+   "Cannot set inclusion for tables or views",
+   1
+  ],
+  [
+   "Invalid object type ",
+   1
+  ],
+  [
+   "options not set",
+   1
+  ],
+  [
+   "Overview",
+   1
+  ],
+  [
+   "SSH tunnel",
+   1
+  ],
+  [
+   "Site-to-Site VPN",
+   1
+  ],
+  [
+   "OCI ",
+   1
+  ],
+  [
+   "Compartment: ",
+   1
+  ],
+  [
+   "Jump Host",
+   1
+  ],
+  [
+   "On Premises",
+   1
+  ],
+  [
+   "Migration Assistant",
+   1
+  ],
+  [
+   "Compatibility and upgrade checks start automatically when this step opens.",
+   1
+  ],
+  [
+   "Running compatibility checks.",
+   1
+  ],
+  [
+   "Running upgrade checks.",
+   1
+  ],
+  [
+   "progress-wrapper animated migration-checks-progress",
+   1
+  ],
+  [
+   "Checks were aborted.",
+   1
+  ],
+  [
+   "Checks failed.",
+   1
+  ],
+  [
+   "Compatibility issues were detected in the source database.",
+   1
+  ],
+  [
+   "Review the detected issues below, then click Next to apply the selected resolutions.",
+   1
+  ],
+  [
+   "No compatibility or upgrade issues were detected.",
+   1
+  ],
+  [
+   "Abort Checks",
+   1
+  ],
+  [
+   "Retry Checks",
+   1
+  ],
+  [
+   "status error",
+   1
+  ],
+  [
+   "Select Objects to Migrate",
+   1
+  ],
+  [
+   "Schema",
+   1
+  ],
+  [
+   "Exclude this schema",
+   1
+  ],
+  [
+   "Click to select ",
+   1
+  ],
+  [
+   " to include or exclude",
+   1
+  ],
+  [
+   " of ",
+   1
+  ],
+  [
+   "Account",
+   1
+  ],
+  [
+   "By default, all schemas and their objects will be migrated to the target MySQL HeatWave DB System, except for system schemas and system user accounts.",
+   1
+  ],
+  [
+   "Migrate All Objects",
+   1
+  ],
+  [
+   "To exclude schemas from being migrated, uncheck them in the grid below. You may also exclude all objects of a type or individual objects.",
+   1
+  ],
+  [
+   "Note: excluding objects that are dependencies of objects being migrated will result in a failed migration.",
+   1
+  ],
+  [
+   "Migrate All User Accounts",
+   1
+  ],
+  [
+   "MySQL.2",
+   1
+  ],
+  [
+   "MySQL.8",
+   1
+  ],
+  [
+   "MySQL.64",
+   1
+  ],
+  [
+   "HeatWave.512GB",
+   1
+  ],
+  [
+   "Standard Development Setup - 8 ECPU, 64GB RAM, 4Gbps NET",
+   1
+  ],
+  [
+   "Custom",
+   1
+  ],
+  [
+   "Always Free - 2 ECPU, 8 GB RAM, 1Gbps NET",
+   1
+  ],
+  [
+   "VM.Standard.A1.Flex",
+   1
+  ],
+  [
+   "Small Development Setup - 2 ECPU, 16GB RAM, 1Gbps NET",
+   1
+  ],
+  [
+   "Large Development Setup - 64 ECPU, 512GB RAM, 32Gbps NET",
+   1
+  ],
+  [
+   "Small Production Workload - 2 ECPU, 16GB RAM, 1Gbps NET",
+   1
+  ],
+  [
+   "Standard Production Workload - 8 ECPUs, 64GB RAM, 4Gbps NET",
+   1
+  ],
+  [
+   "Heavy Production Workload - 64 ECPUs, 512GB RAM, 32Gbps NET",
+   1
+  ],
+  [
+   "Free",
+   1
+  ],
+  [
+   " AMD ",
+   1
+  ],
+  [
+   "HeatWave.",
+   1
+  ],
+  [
+   "Heatwave OFF",
+   1
+  ],
+  [
+   "less than 1 minute left",
+   1
+  ],
+  [
+   "codicon codicon-chevron-",
+   1
+  ],
+  [
+   "Copy log content to clipboard",
+   1
+  ],
+  [
+   "log-box ",
+   1
+  ],
+  [
+   "<span class=\"log-error\">ERROR</span>",
+   1
+  ],
+  [
+   "<span class=\"log-warning\">WARNING</span>",
+   1
+  ],
+  [
+   "<span class=\"log-note\">NOTE</span>",
+   1
+  ],
+  [
+   "Copied",
+   1
+  ],
+  [
+   "Failed to copy",
+   1
+  ],
+  [
+   "progress-wrapper ",
+   1
+  ],
+  [
+   "Task Output",
+   1
+  ],
+  [
+   "Insufficient privileges on the root compartment. Select compartment to create MySQL DB System in.",
+   1
+  ],
+  [
+   "This may take longer than usual because the new OCI API keys need time to propagate.",
+   1
+  ],
+  [
+   "Loading subnets...",
+   1
+  ],
+  [
+   "Loading virtual cloud networks...",
+   1
+  ],
+  [
+   "Loading available shapes...",
+   1
+  ],
+  [
+   "Processing migration plan request...",
+   1
+  ],
+  [
+   "Failed to poll migration checks:",
+   1
+  ],
+  [
+   "Activating OCI profile...",
+   1
+  ],
+  [
+   "Loading OCI profile...",
+   1
+  ],
+  [
+   "Base64-encoded connection details argument not found",
+   1
+  ],
+  [
+   "local connection",
+   1
+  ],
+  [
+   "MySQL HeatWave Migration Assistant",
+   1
+  ],
+  [
+   "Migration Steps",
+   1
+  ],
+  [
+   "tile ",
+   1
+  ],
+  [
+   "Abort",
+   1
+  ],
+  [
+   " with-status",
+   1
+  ],
+  [
+   "Back",
+   1
+  ],
+  [
+   "Next",
+   1
+  ],
+  [
+   "Source Database Check Failed",
+   1
+  ],
+  [
+   "Refreshing from backend state",
+   1
+  ],
+  [
+   "About to call planUpdate with ",
+   1
+  ],
+  [
+   "Updating migration plan...",
+   1
+  ],
+  [
+   "Validating migration plan settings...",
+   1
+  ],
+  [
+   "Update OK",
+   1
+  ],
+  [
+   "About to call planCommit with ",
+   1
+  ],
+  [
+   "Saving migration plan step...",
+   1
+  ],
+  [
+   "An error occurred while monitoring progress:",
+   1
+  ],
+  [
+   "Aborted successfully.",
+   1
+  ],
+  [
+   "Starting migration process...",
+   1
+  ],
+  [
+   "Aborting migration process...",
+   1
+  ],
+  [
+   "Lift and shift your existing MySQL instances to the ",
+   1
+  ],
+  [
+   "MySQL HeatWave service",
+   1
+  ],
+  [
+   "Oracle Cloud Free Tier",
+   1
+  ],
+  [
+   " offering and upgrade to powerful shapes for heavy production loads.",
+   1
+  ],
+  [
+   "Additional resources for MySQL HeatWave migrations",
+   1
+  ],
+  [
+   "Oracle Cloud access is being configured.",
+   1
+  ],
+  [
+   "Access to Oracle Cloud is not configured for this computer.",
+   1
+  ],
+  [
+   "Please wait while the OCI profile is being loaded.",
+   1
+  ],
+  [
+   "Before starting, access to Oracle Cloud needs to be prepared. Click ",
+   1
+  ],
+  [
+   " to securely sign in to your OCI account and automatically set up a configuration profile. If you do not have an OCI account yet, sign up for free by clicking ",
+   1
+  ],
+  [
+   "OCI Region",
+   1
+  ],
+  [
+   "Choose the OCI region to use for resource discovery and provisioning.",
+   1
+  ],
+  [
+   "form-group region",
+   1
+  ],
+  [
+   "Specify the properties of the target MySQL instance. Select a configuration template or specify each setting individually in the following sections.",
+   1
+  ],
+  [
+   "OCI Configuration Profile",
+   1
+  ],
+  [
+   "Choose the OCI configuration profile to use.",
+   1
+  ],
+  [
+   "Create New",
+   1
+  ],
+  [
+   "OCI Network",
+   1
+  ],
+  [
+   "Disk Size (GB)",
+   1
+  ],
+  [
+   "form-group hosting.compartmentId",
+   1
+  ],
+  [
+   "OCI Compartment",
+   1
+  ],
+  [
+   "form-group hosting.networkCompartmentId",
+   1
+  ],
+  [
+   "Network Compartment",
+   1
+  ],
+  [
+   "Choose the compartment where the Virtual Cloud Network (VCN) you would like to use is located.",
+   1
+  ],
+  [
+   "Virtual Cloud Network",
+   1
+  ],
+  [
+   "Choose the Virtual Cloud Network to which you want to attach the new MySQL DB System.",
+   1
+  ],
+  [
+   "Private Subnet",
+   1
+  ],
+  [
+   "Public Subnet",
+   1
+  ],
+  [
+   "A new Virtual Cloud Network called \"",
+   1
+  ],
+  [
+   "\" will be created in a compartment called \"",
+   1
+  ],
+  [
+   "\". It will have a private subnet, where the target DB System will be placed and a public subnet, where a compute instance will be placed to serve as a jump host.",
+   1
+  ],
+  [
+   "If you plan to host your applications outside OCI please configure a suitable network using Site-to-Site VPN or FastConnect from the ",
+   1
+  ],
+  [
+   "Oracle Cloud Console",
+   1
+  ],
+  [
+   " and select it by choosing the \"Use Existing\" option for \"OCI Network\".",
+   1
+  ],
+  [
+   "Source IP Allowed on Jump Host (CIDR)",
+   1
+  ],
+  [
+   "Configuration Template",
+   1
+  ],
+  [
+   "Choose one of the following pre-defined configuration templates for your new DB System.",
+   1
+  ],
+  [
+   "Display Name",
+   1
+  ],
+  [
+   "Display name for the DB System to be provisioned, to be shown in the OCI console.",
+   1
+  ],
+  [
+   "Contact Emails (optional)",
+   1
+  ],
+  [
+   "For receiving admin emails pertaining to the DB System. Separate multiple addresses with a comma (,)",
+   1
+  ],
+  [
+   "MySQL Admin Username",
+   1
+  ],
+  [
+   "MySQL username for the administrator account to be created at the target DB System",
+   1
+  ],
+  [
+   "Password",
+   1
+  ],
+  [
+   "Confirm Password",
+   1
+  ],
+  [
+   "Type the admin password again",
+   1
+  ],
+  [
+   "Shape for MySQL DB System",
+   1
+  ],
+  [
+   "form-group hosting.shapeName",
+   1
+  ],
+  [
+   "Shape for Jump Host Compute",
+   1
+  ],
+  [
+   "Standalone",
+   1
+  ],
+  [
+   "Setup Type",
+   1
+  ],
+  [
+   "HeatWave Shape",
+   1
+  ],
+  [
+   "HeatWave Nodes",
+   1
+  ],
+  [
+   "Select the type of migration to perform, considering whether and how will applications be switched to the newly migrated MySQL HeatWave DB System.",
+   1
+  ],
+  [
+   "Cold Migration",
+   1
+  ],
+  [
+   "Hot Migration",
+   1
+  ],
+  [
+   " Your MySQL credentials will be stored in the MySQL HeatWave service to allow the inbound replication channel to connect to your source database.",
+   1
+  ],
+  [
+   "Create SSH tunnel (manual)",
+   1
+  ],
+  [
+   "Create SSH tunnel (automatic)",
+   1
+  ],
+  [
+   "explanation migration-plan",
+   1
+  ],
+  [
+   "Your MySQL database migration to a new Oracle Cloud MySQL HeatWave instance is ready to be executed. Click ",
+   1
+  ],
+  [
+   " to start.",
+   1
+  ],
+  [
+   "Migration Plan",
+   1
+  ],
+  [
+   "The following steps will be executed when you start. Exact execution order may differ as some steps are executed in parallel.",
+   1
+  ],
+  [
+   "Provision Object Storage bucket",
+   1
+  ],
+  [
+   "Provision a jump host",
+   1
+  ],
+  [
+   "Provision DB System",
+   1
+  ],
+  [
+   "Export Data",
+   1
+  ],
+  [
+   "Import Data (from jump host)",
+   1
+  ],
+  [
+   "Enable High-Availability",
+   1
+  ],
+  [
+   "Create Inbound Replication Channel",
+   1
+  ],
+  [
+   "Add HeatWave Cluster",
+   1
+  ],
+  [
+   "Wait for DB System to catch up to source",
+   1
+  ],
+  [
+   "The following Oracle Cloud resources will be created in region ",
+   1
+  ],
+  [
+   " and compartment ",
+   1
+  ],
+  [
+   "DB System",
+   1
+  ],
+  [
+   "Initial Storage Size",
+   1
+  ],
+  [
+   "Auto-Expand Storage",
+   1
+  ],
+  [
+   "MySQL Version",
+   1
+  ],
+  [
+   "HeatWave",
+   1
+  ],
+  [
+   "HeatWave (with LakeHouse)",
+   1
+  ],
+  [
+   "Shape: ",
+   1
+  ],
+  [
+   ", Nodes: ",
+   1
+  ],
+  [
+   "Inbound Replication Channel",
+   1
+  ],
+  [
+   "Replication User",
+   1
+  ],
+  [
+   "Ignored Schemas",
+   1
+  ],
+  [
+   "Ignored Tables",
+   1
+  ],
+  [
+   "Compute Instance (jump host)",
+   1
+  ],
+  [
+   " (reusing existing compute)",
+   1
+  ],
+  [
+   "CPUs",
+   1
+  ],
+  [
+   "Memory",
+   1
+  ],
+  [
+   "Bucket",
+   1
+  ],
+  [
+   "* Temporary resources necessary for the migration. May be deleted afterwards.",
+   1
+  ],
+  [
+   "Congratulations! 🎉",
+   1
+  ],
+  [
+   "Your MySQL database at ",
+   1
+  ],
+  [
+   " has been migrated to a new MySQL HeatWave DB System in OCI.",
+   1
+  ],
+  [
+   "You may now connect your new DB System to try it out, perform tests and switch over applications.",
+   1
+  ],
+  [
+   "The new MySQL DB System named ",
+   1
+  ],
+  [
+   " in compartment ",
+   1
+  ],
+  [
+   "is located at:",
+   1
+  ],
+  [
+   "Manage DB System in the ",
+   1
+  ],
+  [
+   "OCI Console ",
+   1
+  ],
+  [
+   "If you do not have Site-to-Site VPN, you can use the SSH jump host that was provisioned during migration:",
+   1
+  ],
+  [
+   "And use MySQL Shell from there (password is what you provided earlier and defaults to the same as for your source database):",
+   1
+  ],
+  [
+   "Tip: you can copy the private key for the jump host to your regular SSH configuration directory to keep it for the future.",
+   1
+  ],
+  [
+   "A replication channel is now active between your source database and the new DB System. The replication state and progress can be monitored from the ",
+   1
+  ],
+  [
+   "\"Monitor Replication Progress\"",
+   1
+  ],
+  [
+   " section below.",
+   1
+  ],
+  [
+   "To switch applications over to the new DB System without data loss, perform the following steps at a time of your convenience (i.e. when database update activity is low):",
+   1
+  ],
+  [
+   "Wait until the replication backlog is low enough",
+   1
+  ],
+  [
+   "Enable ",
+   1
+  ],
+  [
+   " mode at the source MySQL instance to stop writes there",
+   1
+  ],
+  [
+   "Switch your applications to the new DB System",
+   1
+  ],
+  [
+   "Stop the replication channel and decommission the source database",
+   1
+  ],
+  [
+   "You may now close this Migration Assistant by closing this window.",
+   1
+  ],
+  [
+   "Select below whether you want to keep or delete any of the temporary resources created during the migration. You may also delete any of these resources from the OCI console.",
+   1
+  ],
+  [
+   "jump host ",
+   1
+  ],
+  [
+   "bucket with exported data ",
+   1
+  ],
+  [
+   "Delete Selected OCI Resources",
+   1
+  ],
+  [
+   "Deleting selected OCI resources...",
+   1
+  ],
+  [
+   "Replication Backlog: ",
+   1
+  ],
+  [
+   "caught up",
+   1
+  ],
+  [
+   "Channel Status: ",
+   1
+  ],
+  [
+   "Please start a SSH tunnel by executing the following command on a host that can connect to both the source MySQL server and the jump host:",
+   1
+  ],
+  [
+   "Waiting for SSH tunnel...",
+   1
+  ],
+  [
+   "Insufficient privileges on the selected compartment. Select a different compartment.",
+   1
+  ],
+  [
+   "Insufficient privileges on the root compartment.",
+   1
+  ],
+  [
+   "NotAuthorizedOrNotFound",
+   1
+  ],
+  [
+   "This tenancy does not seem eligible for an Always Free MySQL DB System (note: there is a limit of one per tenancy).",
+   1
+  ],
+  [
+   "Enable Request Editor",
+   1
+  ],
+  [
+   "Execute",
+   1
+  ],
+  [
+   "New Project",
+   1
+  ],
+  [
+   "List Projects",
+   1
+  ],
+  [
+   "Get Plan Status",
+   1
+  ],
+  [
+   "Get Steps",
+   1
+  ],
+  [
+   "Show About",
+   1
+  ],
+  [
+   "Send web message",
+   1
+  ],
+  [
+   "Update Work Status",
+   1
+  ],
+  [
+   "Update BE State",
+   1
+  ],
+  [
+   "If the Sign In page is not visible, ",
+   1
+  ],
+  [
+   "Copy URL to clipboard",
+   1
+  ],
+  [
+   "click here",
+   1
+  ],
+  [
+   " to copy the URL and paste it into your browser to access it.",
+   1
+  ],
+  [
+   "Affected objects:",
+   1
+  ],
+  [
+   "Resolution:",
+   1
+  ],
+  [
+   "Show details",
+   1
+  ],
+  [
+   "Resolve with ",
+   1
+  ],
+  [
+   "Direct (Site-to-Site VPN)",
+   1
+  ],
+  [
+   "SSH Tunnel",
+   1
+  ],
+  [
+   "SSH Tunnel (automatic)",
+   1
+  ],
+  [
+   "Network Connectivity for Inbound Replication",
+   1
+  ],
+  [
+   "Procedure",
+   1
+  ],
+  [
+   "Function",
+   1
+  ],
+  [
+   "Event",
+   1
+  ],
+  [
+   "Trigger",
+   1
+  ],
+  [
+   "User",
+   1
+  ],
+  [
+   "Exclude Objects",
+   1
+  ],
+  [
+   "Ignore Issue",
+   1
+  ],
+  [
+   "Project:",
+   1
+  ],
+  [
+   "DBSYSTEM, HEATWAVECLUSTER",
+   1
+  ],
+  [
+   "Insufficient privileges on selected compartment",
+   1
+  ],
+  [
+   "Operation has been canceled. You can safely close this window now.",
+   1
+  ],
+  [
+   "Backend State",
+   1
+  ],
+  [
+   "Backend Request",
+   1
+  ],
+  [
+   "About MySQL Heatwave Migration Assistant",
+   1
+  ],
+  [
+   "Projects Path:",
+   1
+  ],
+  [
+   "Log Path:",
+   1
+  ]
+ ],
+ "msg-DmjEzJH-.js": [],
+ "mysql-UAavyquA.js": [],
+ "PieGraphProxy-DPNzpbvA.js": [
+  [
+   "PieGraph: if there are more than 2 fields in a result entry, a field mapping is required ",
+   1
+  ],
+  [
+   "PieGraph.render: Not enough parameters",
+   1
+  ]
+ ],
+ "query-BjFN4jkf.js": [
+  [
+   "The given parameters cannot be used in this function, because they are not cloneable.",
+   2
+  ]
+ ],
+ "rdbms-info-6mOmIqo8.js": [
+  [
+   "UTF-16 Unicode",
+   3
+  ],
+  [
+   "SQLite",
+   1
+  ],
+  [
+   "UTF-8 Unicode",
+   1
+  ]
+ ],
+ "rdbms-info-9Wh0N0RE.js": [
+  [
+   "GRANT OPTION",
+   2
+  ],
+  [
+   "UTF-8 Unicode",
+   2
+  ],
+  [
+   "MySQL",
+   1
+  ],
+  [
+   "LOCK TABLES",
+   1
+  ],
+  [
+   "CREATE VIEW",
+   1
+  ],
+  [
+   "SHOW VIEW",
+   1
+  ],
+  [
+   "ALTER ROUTINE",
+   1
+  ],
+  [
+   "CREATE ROUTINE",
+   1
+  ],
+  [
+   "Big5 Traditional Chinese",
+   1
+  ],
+  [
+   "DEC West European",
+   1
+  ],
+  [
+   "DOS West European",
+   1
+  ],
+  [
+   "HP West European",
+   1
+  ],
+  [
+   "KOI8-R Relcom Russian",
+   1
+  ],
+  [
+   "ISO 8859-1 West European",
+   1
+  ],
+  [
+   "ISO 8859-2 Central European",
+   1
+  ],
+  [
+   "7bit Swedish",
+   1
+  ],
+  [
+   "US ASCII",
+   1
+  ],
+  [
+   "EUC-JP Japanese",
+   1
+  ],
+  [
+   "Shift-JIS Japanese",
+   1
+  ],
+  [
+   "ISO 8859-8 Hebrew",
+   1
+  ],
+  [
+   "TIS620 Thai",
+   1
+  ],
+  [
+   "EUC-KR Korean",
+   1
+  ],
+  [
+   "KOI8-U Ukrainian",
+   1
+  ],
+  [
+   "Chinese National Standard",
+   1
+  ],
+  [
+   "GB2312 Simplified Chinese",
+   1
+  ],
+  [
+   "ISO 8859-7 Greek",
+   1
+  ],
+  [
+   "Windows Central European",
+   1
+  ],
+  [
+   "GBK Simplified Chinese",
+   1
+  ],
+  [
+   "ISO 8859-9 Turkish",
+   1
+  ],
+  [
+   "ARMSCII-8 Armenian",
+   1
+  ],
+  [
+   "UCS-2 Unicode",
+   1
+  ],
+  [
+   "DOS Russian",
+   1
+  ],
+  [
+   "DOS Kamenicky Czech-Slovak",
+   1
+  ],
+  [
+   "Mac Central European",
+   1
+  ],
+  [
+   "Mac West European",
+   1
+  ],
+  [
+   "DOS Central European",
+   1
+  ],
+  [
+   "ISO 8859-13 Baltic",
+   1
+  ],
+  [
+   "Windows Cyrillic",
+   1
+  ],
+  [
+   "Windows Arabic",
+   1
+  ],
+  [
+   "Windows Baltic",
+   1
+  ],
+  [
+   "Binary pseudo charset",
+   1
+  ],
+  [
+   "GEOSTD8 Georgian",
+   1
+  ],
+  [
+   "SJIS for Windows Japanese",
+   1
+  ],
+  [
+   "UJIS for Windows Japanese",
+   1
+  ],
+  [
+   "UTF-16 Unicode",
+   1
+  ],
+  [
+   "UTF-32 Unicode",
+   1
+  ],
+  [
+   "NATIONAL CHAR",
+   1
+  ],
+  [
+   "NATIONAL CHARACTER",
+   1
+  ],
+  [
+   "CHAR VARYING",
+   1
+  ],
+  [
+   "CHARACTER VARYING",
+   1
+  ],
+  [
+   "NATIONAL VARCHAR",
+   1
+  ],
+  [
+   "NATIONAL VARCHARACTER",
+   1
+  ],
+  [
+   "NCHAR VARCHAR",
+   1
+  ],
+  [
+   "NCHAR VARCHARACTER",
+   1
+  ],
+  [
+   "NATIONAL CHAR VARYING",
+   1
+  ],
+  [
+   "NATIONAL CHARACTER VARYING",
+   1
+  ],
+  [
+   "NCHAR VARYING",
+   1
+  ],
+  [
+   "LONG VARCHAR",
+   1
+  ],
+  [
+   "LONG CHAR VARYING",
+   1
+  ],
+  [
+   "LONG VARBINARY",
+   1
+  ]
+ ],
+ "rdbms-info-BShkiZ55.js": [
+  [
+   "GRANT OPTION",
+   2
+  ],
+  [
+   "UTF-8 Unicode",
+   2
+  ],
+  [
+   "MySQL",
+   1
+  ],
+  [
+   "LOCK TABLES",
+   1
+  ],
+  [
+   "CREATE VIEW",
+   1
+  ],
+  [
+   "SHOW VIEW",
+   1
+  ],
+  [
+   "ALTER ROUTINE",
+   1
+  ],
+  [
+   "CREATE ROUTINE",
+   1
+  ],
+  [
+   "Big5 Traditional Chinese",
+   1
+  ],
+  [
+   "DEC West European",
+   1
+  ],
+  [
+   "DOS West European",
+   1
+  ],
+  [
+   "HP West European",
+   1
+  ],
+  [
+   "KOI8-R Relcom Russian",
+   1
+  ],
+  [
+   "ISO 8859-1 West European",
+   1
+  ],
+  [
+   "ISO 8859-2 Central European",
+   1
+  ],
+  [
+   "7bit Swedish",
+   1
+  ],
+  [
+   "US ASCII",
+   1
+  ],
+  [
+   "EUC-JP Japanese",
+   1
+  ],
+  [
+   "Shift-JIS Japanese",
+   1
+  ],
+  [
+   "ISO 8859-8 Hebrew",
+   1
+  ],
+  [
+   "TIS620 Thai",
+   1
+  ],
+  [
+   "EUC-KR Korean",
+   1
+  ],
+  [
+   "KOI8-U Ukrainian",
+   1
+  ],
+  [
+   "Chinese National Standard",
+   1
+  ],
+  [
+   "GB2312 Simplified Chinese",
+   1
+  ],
+  [
+   "ISO 8859-7 Greek",
+   1
+  ],
+  [
+   "Windows Central European",
+   1
+  ],
+  [
+   "GBK Simplified Chinese",
+   1
+  ],
+  [
+   "ISO 8859-9 Turkish",
+   1
+  ],
+  [
+   "ARMSCII-8 Armenian",
+   1
+  ],
+  [
+   "UCS-2 Unicode",
+   1
+  ],
+  [
+   "DOS Russian",
+   1
+  ],
+  [
+   "DOS Kamenicky Czech-Slovak",
+   1
+  ],
+  [
+   "Mac Central European",
+   1
+  ],
+  [
+   "Mac West European",
+   1
+  ],
+  [
+   "DOS Central European",
+   1
+  ],
+  [
+   "ISO 8859-13 Baltic",
+   1
+  ],
+  [
+   "Windows Cyrillic",
+   1
+  ],
+  [
+   "Windows Arabic",
+   1
+  ],
+  [
+   "Windows Baltic",
+   1
+  ],
+  [
+   "Binary pseudo charset",
+   1
+  ],
+  [
+   "GEOSTD8 Georgian",
+   1
+  ],
+  [
+   "SJIS for Windows Japanese",
+   1
+  ],
+  [
+   "UJIS for Windows Japanese",
+   1
+  ],
+  [
+   "UTF-16 Unicode",
+   1
+  ],
+  [
+   "UTF-32 Unicode",
+   1
+  ],
+  [
+   "NATIONAL CHAR",
+   1
+  ],
+  [
+   "NATIONAL CHARACTER",
+   1
+  ],
+  [
+   "CHAR VARYING",
+   1
+  ],
+  [
+   "CHARACTER VARYING",
+   1
+  ],
+  [
+   "NATIONAL VARCHAR",
+   1
+  ],
+  [
+   "NATIONAL VARCHARACTER",
+   1
+  ],
+  [
+   "NCHAR VARCHAR",
+   1
+  ],
+  [
+   "NCHAR VARCHARACTER",
+   1
+  ],
+  [
+   "NATIONAL CHAR VARYING",
+   1
+  ],
+  [
+   "NATIONAL CHARACTER VARYING",
+   1
+  ],
+  [
+   "NCHAR VARYING",
+   1
+  ],
+  [
+   "LONG VARCHAR",
+   1
+  ],
+  [
+   "LONG CHAR VARYING",
+   1
+  ],
+  [
+   "LONG VARBINARY",
+   1
+  ]
+ ],
+ "Search-DjmAYbzW.js": [
+  [
+   "Search",
+   1
+  ],
+  [
+   "Search Result",
+   1
+  ],
+  [
+   "Match Case",
+   1
+  ],
+  [
+   "Match Whole Word",
+   1
+  ],
+  [
+   "Use Regular Expression",
+   1
+  ],
+  [
+   "Clear Search Input",
+   1
+  ]
+ ],
+ "simple-functions-DZvxI304.js": [],
+ "web-functions-CHsqd1HD.js": [
+  [
+   "Starting MRS authentication ...",
+   1
+  ]
+ ]
+}

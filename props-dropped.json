@@ -1,0 +1,202 @@
+[
+ [
+  "UTF-16 Unicode",
+  "charset"
+ ],
+ [
+  "UTF-8 Unicode",
+  "charset"
+ ],
+ [
+  "```ts\n",
+  "code"
+ ],
+ [
+  "7bit Swedish",
+  "charset"
+ ],
+ [
+  "ARMSCII-8 Armenian",
+  "charset"
+ ],
+ [
+  "Big5 Traditional Chinese",
+  "charset"
+ ],
+ [
+  "Binary log position",
+  "charset"
+ ],
+ [
+  "DEC West European",
+  "charset"
+ ],
+ [
+  "DOS Central European",
+  "charset"
+ ],
+ [
+  "DOS Kamenicky Czech-Slovak",
+  "charset"
+ ],
+ [
+  "DOS Russian",
+  "charset"
+ ],
+ [
+  "DOS West European",
+  "charset"
+ ],
+ [
+  "EUC-JP Japanese",
+  "charset"
+ ],
+ [
+  "EUC-KR Korean",
+  "charset"
+ ],
+ [
+  "GB2312 Simplified Chinese",
+  "charset"
+ ],
+ [
+  "GBK Simplified Chinese",
+  "charset"
+ ],
+ [
+  "GEOSTD8 Georgian",
+  "charset"
+ ],
+ [
+  "HP West European",
+  "charset"
+ ],
+ [
+  "ISO 8859-1 West European",
+  "charset"
+ ],
+ [
+  "ISO 8859-13 Baltic",
+  "charset"
+ ],
+ [
+  "ISO 8859-2 Central European",
+  "charset"
+ ],
+ [
+  "ISO 8859-7 Greek",
+  "charset"
+ ],
+ [
+  "ISO 8859-8 Hebrew",
+  "charset"
+ ],
+ [
+  "ISO 8859-9 Turkish",
+  "charset"
+ ],
+ [
+  "KOI8-R Relcom Russian",
+  "charset"
+ ],
+ [
+  "KOI8-U Ukrainian",
+  "charset"
+ ],
+ [
+  "SJIS for Windows Japanese",
+  "charset"
+ ],
+ [
+  "TIS620 Thai",
+  "charset"
+ ],
+ [
+  "UCS-2 Unicode",
+  "charset"
+ ],
+ [
+  "UJIS for Windows Japanese",
+  "charset"
+ ],
+ [
+  "US ASCII",
+  "charset"
+ ],
+ [
+  "UTF-32 Unicode",
+  "charset"
+ ],
+ [
+  "Windows Arabic",
+  "charset"
+ ],
+ [
+  "Windows Baltic",
+  "charset"
+ ],
+ [
+  "Windows Central European",
+  "charset"
+ ],
+ [
+  "Windows Cyrillic",
+  "charset"
+ ],
+ [
+  " (ba08183)",
+  "code"
+ ],
+ [
+  "<cipher list>",
+  "code"
+ ],
+ [
+  "<comment string>",
+  "code"
+ ],
+ [
+  "<confirm password>",
+  "code"
+ ],
+ [
+  "<enter password>",
+  "code"
+ ],
+ [
+  "<enter user name>",
+  "code"
+ ],
+ [
+  "<host or %>",
+  "code"
+ ],
+ [
+  "<no administration pages>",
+  "code"
+ ],
+ [
+  "<no documents>",
+  "code"
+ ],
+ [
+  "<no matching schemas>",
+  "code"
+ ],
+ [
+  "<no profiles found>",
+  "code"
+ ],
+ [
+  "<Select local JavaScript file>",
+  "code"
+ ],
+ [
+  "Partial backups include only matching objects. They are useful for focused data protection, but they are not a complete instance backup. System tables are not added automatically; include them only when the selected restore workflow requires them.",
+  "too-long"
+ ],
+ [
+  "Select below whether you want to keep or delete any of the temporary resources created during the migration. You may also delete any of these resources from the OCI console.",
+  "code"
+ ]
+]

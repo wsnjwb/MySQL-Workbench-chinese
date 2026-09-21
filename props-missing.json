@@ -1,0 +1,3218 @@
+[
+ [
+  "Additional options in JSON format",
+  8
+ ],
+ [
+  "Comments",
+  6
+ ],
+ [
+  "UTF-16 Unicode",
+  5
+ ],
+ [
+  "UTF-8 Unicode",
+  5
+ ],
+ [
+  "Access",
+  4
+ ],
+ [
+  "Add Database Object to REST Service...",
+  4
+ ],
+ [
+  "CREATE Statement",
+  4
+ ],
+ [
+  "Dump to Disk",
+  4
+ ],
+ [
+  "MySQL REST Service",
+  4
+ ],
+ [
+  "REST Service Path",
+  4
+ ],
+ [
+  "Select Rows",
+  4
+ ],
+ [
+  "Backup type",
+  3
+ ],
+ [
+  "Check Again",
+  3
+ ],
+ [
+  "Endpoint Response Cache",
+  3
+ ],
+ [
+  "Metadata settings in JSON format",
+  3
+ ],
+ [
+  "Send to SQL Editor",
+  3
+ ],
+ [
+  "```ts\n",
+  2
+ ],
+ [
+  "7bit Swedish",
+  2
+ ],
+ [
+  "Access Control",
+  2
+ ],
+ [
+  "Add new console",
+  2
+ ],
+ [
+  "ARMSCII-8 Armenian",
+  2
+ ],
+ [
+  "Assigned privileges",
+  2
+ ],
+ [
+  "Auth. Required",
+  2
+ ],
+ [
+  "Authentication",
+  2
+ ],
+ [
+  "Available privileges",
+  2
+ ],
+ [
+  "Backup home directory",
+  2
+ ],
+ [
+  "Big5 Traditional Chinese",
+  2
+ ],
+ [
+  "Binary log position",
+  2
+ ],
+ [
+  "Browse the MySQL REST Service Documentation",
+  2
+ ],
+ [
+  "Comment",
+  2
+ ],
+ [
+  "Communication Debugger",
+  2
+ ],
+ [
+  "Configure",
+  2
+ ],
+ [
+  "Configure MySQL REST Service",
+  2
+ ],
+ [
+  "Configure the OCI Profile list",
+  2
+ ],
+ [
+  "Create New DB Connection",
+  2
+ ],
+ [
+  "CREATE Statement With DELIMITERs",
+  2
+ ],
+ [
+  "Currently granted but not reported by SHOW PRIVILEGES.",
+  2
+ ],
+ [
+  "Data directory",
+  2
+ ],
+ [
+  "DEC West European",
+  2
+ ],
+ [
+  "DOS Central European",
+  2
+ ],
+ [
+  "DOS Kamenicky Czech-Slovak",
+  2
+ ],
+ [
+  "DOS Russian",
+  2
+ ],
+ [
+  "DOS West European",
+  2
+ ],
+ [
+  "DROP & CREATE Statement With DELIMITERs",
+  2
+ ],
+ [
+  "Drop Stored Routine ...",
+  2
+ ],
+ [
+  "Edit Stored Routine...",
+  2
+ ],
+ [
+  "EUC-JP Japanese",
+  2
+ ],
+ [
+  "EUC-KR Korean",
+  2
+ ],
+ [
+  "Filter privileges",
+  2
+ ],
+ [
+  "Focus Execution Block Result Above",
+  2
+ ],
+ [
+  "GB2312 Simplified Chinese",
+  2
+ ],
+ [
+  "GBK Simplified Chinese",
+  2
+ ],
+ [
+  "GEOSTD8 Georgian",
+  2
+ ],
+ [
+  "GTID executed",
+  2
+ ],
+ [
+  "HP West European",
+  2
+ ],
+ [
+  "Insert Statement",
+  2
+ ],
+ [
+  "ISO 8859-1 West European",
+  2
+ ],
+ [
+  "ISO 8859-13 Baltic",
+  2
+ ],
+ [
+  "ISO 8859-2 Central European",
+  2
+ ],
+ [
+  "ISO 8859-7 Greek",
+  2
+ ],
+ [
+  "ISO 8859-8 Hebrew",
+  2
+ ],
+ [
+  "ISO 8859-9 Turkish",
+  2
+ ],
+ [
+  "Items per Page",
+  2
+ ],
+ [
+  "Json Duality View Builder",
+  2
+ ],
+ [
+  "KOI8-R Relcom Russian",
+  2
+ ],
+ [
+  "KOI8-U Ukrainian",
+  2
+ ],
+ [
+  "Lakehouse Tables",
+  2
+ ],
+ [
+  "Load from Disk",
+  2
+ ],
+ [
+  "Load REST Project from Disk ...",
+  2
+ ],
+ [
+  "Load REST Project from Github ...",
+  2
+ ],
+ [
+  "Load REST Project from URL ...",
+  2
+ ],
+ [
+  "Lock Account",
+  2
+ ],
+ [
+  "Maximum Attempts Per Minute",
+  2
+ ],
+ [
+  "Metadata",
+  2
+ ],
+ [
+  "Minimum Time Between Requests",
+  2
+ ],
+ [
+  "MRS Scripts",
+  2
+ ],
+ [
+  "No matching privileges",
+  2
+ ],
+ [
+  "No privileges assigned",
+  2
+ ],
+ [
+  "Note: MEB support is currently a preview feature.",
+  2
+ ],
+ [
+  "Password not set.",
+  2
+ ],
+ [
+  "Percentiles",
+  2
+ ],
+ [
+  "Persian",
+  2
+ ],
+ [
+  "Refresh Schemas",
+  2
+ ],
+ [
+  "Refresh the Connection List",
+  2
+ ],
+ [
+  "Relational",
+  2
+ ],
+ [
+  "Reload the OCI Profile list",
+  2
+ ],
+ [
+  "Reset Password",
+  2
+ ],
+ [
+  "REST Schema Path",
+  2
+ ],
+ [
+  "Select an object",
+  2
+ ],
+ [
+  "Shape",
+  2
+ ],
+ [
+  "Shift-JIS Japanese",
+  2
+ ],
+ [
+  "SJIS for Windows Japanese",
+  2
+ ],
+ [
+  "Start Backup",
+  2
+ ],
+ [
+  "Start Incremental Backup",
+  2
+ ],
+ [
+  "Storage",
+  2
+ ],
+ [
+  "TIS620 Thai",
+  2
+ ],
+ [
+  "UCS-2 Unicode",
+  2
+ ],
+ [
+  "UJIS for Windows Japanese",
+  2
+ ],
+ [
+  "Update Statement",
+  2
+ ],
+ [
+  "US ASCII",
+  2
+ ],
+ [
+  "UTF-32 Unicode",
+  2
+ ],
+ [
+  "View Logs",
+  2
+ ],
+ [
+  "Windows Arabic",
+  2
+ ],
+ [
+  "Windows Baltic",
+  2
+ ],
+ [
+  "Windows Central European",
+  2
+ ],
+ [
+  "Windows Cyrillic",
+  2
+ ],
+ [
+  " (ba08183)",
+  1
+ ],
+ [
+  "*node_modules/*, */.*",
+  1
+ ],
+ [
+  "• Add files for upload",
+  1
+ ],
+ [
+  "• Click the Start File Upload button",
+  1
+ ],
+ [
+  "• Select a target in the Object Storage Browser",
+  1
+ ],
+ [
+  "<cipher list>",
+  1
+ ],
+ [
+  "<comment string>",
+  1
+ ],
+ [
+  "<confirm password>",
+  1
+ ],
+ [
+  "<enter password>",
+  1
+ ],
+ [
+  "<enter user name>",
+  1
+ ],
+ [
+  "<host or %>",
+  1
+ ],
+ [
+  "<no administration pages>",
+  1
+ ],
+ [
+  "<no documents>",
+  1
+ ],
+ [
+  "<no matching schemas>",
+  1
+ ],
+ [
+  "<no profiles found>",
+  1
+ ],
+ [
+  "<Select local JavaScript file>",
+  1
+ ],
+ [
+  "1–2 ms",
+  1
+ ],
+ [
+  "10 min",
+  1
+ ],
+ [
+  "10–20 ms",
+  1
+ ],
+ [
+  "100–250 ms",
+  1
+ ],
+ [
+  "150 sec",
+  1
+ ],
+ [
+  "2–5 ms",
+  1
+ ],
+ [
+  "20–50 ms",
+  1
+ ],
+ [
+  "250–500 ms",
+  1
+ ],
+ [
+  "5 min",
+  1
+ ],
+ [
+  "5–10 ms",
+  1
+ ],
+ [
+  "50–100 ms",
+  1
+ ],
+ [
+  "500 ms–1 s",
+  1
+ ],
+ [
+  "500 µs–1 ms",
+  1
+ ],
+ [
+  "95% of this statement's executions completed within this MySQL estimate.",
+  1
+ ],
+ [
+  "99.9% of this statement's executions completed within this MySQL estimate.",
+  1
+ ],
+ [
+  "99% of this statement's executions completed within this MySQL estimate.",
+  1
+ ],
+ [
+  "A container grouping two tables.",
+  1
+ ],
+ [
+  "A custom OAuth2 service URL",
+  1
+ ],
+ [
+  "A custom URL for exchanging the Access Token",
+  1
+ ],
+ [
+  "A group for audit related tables.",
+  1
+ ],
+ [
+  "A list of all actors in the database.",
+  1
+ ],
+ [
+  "A list of files to ignore, use * and ? as wildcards",
+  1
+ ],
+ [
+  "A listing of the interface definitions",
+  1
+ ],
+ [
+  "A listing of the module and script definitions",
+  1
+ ],
+ [
+  "A regular expression to validate the /login?onCompletionRedirect parameter set by the app.",
+  1
+ ],
+ [
+  "A short description of the app",
+  1
+ ],
+ [
+  "Accept Selected Suggestion",
+  1
+ ],
+ [
+  "Access & Sort",
+  1
+ ],
+ [
+  "Account Lock Interval",
+  1
+ ],
+ [
+  "Activity",
+  1
+ ],
+ [
+  "Actor",
+  1
+ ],
+ [
+  "Add an application BaseClass with core MRS functionality.",
+  1
+ ],
+ [
+  "Add and Link REST Authentication App...",
+  1
+ ],
+ [
+  "Add Child Table",
+  1
+ ],
+ [
+  "Add Files",
+  1
+ ],
+ [
+  "Add files for upload",
+  1
+ ],
+ [
+  "Add MySQL Database Schema",
+  1
+ ],
+ [
+  "Add New Authentication App",
+  1
+ ],
+ [
+  "Add REST Service...",
+  1
+ ],
+ [
+  "Add REST User...",
+  1
+ ],
+ [
+  "Add Result",
+  1
+ ],
+ [
+  "Add Schema to REST Service...",
+  1
+ ],
+ [
+  "After a backup is done, an apply-log operation is needed before it can be recovered. That may be done right after backup, before recovery, or at any other time.",
+  1
+ ],
+ [
+  "Alias",
+  1
+ ],
+ [
+  "All Events",
+  1
+ ],
+ [
+  "All Supported Formats",
+  1
+ ],
+ [
+  "Allow user to log in",
+  1
+ ],
+ [
+  "Allows the definition of static content for the root path / that will be returned for file paths matching the given JSON keys. A JSON key index.html will be served as /index.html by the MySQL Router.",
+  1
+ ],
+ [
+  "App ID",
+  1
+ ],
+ [
+  "App Secret",
+  1
+ ],
+ [
+  "Append Codeblock from Template",
+  1
+ ],
+ [
+  "Application Options",
+  1
+ ],
+ [
+  "Apply log after backup (backup-and-apply-log)",
+  1
+ ],
+ [
+  "Apply Logs",
+  1
+ ],
+ [
+  "Assigned roles",
+  1
+ ],
+ [
+  "Assigned Roles",
+  1
+ ],
+ [
+  "at minute",
+  1
+ ],
+ [
+  "Audit Log",
+  1
+ ],
+ [
+  "Auth App Settings",
+  1
+ ],
+ [
+  "Authentication App",
+  1
+ ],
+ [
+  "Authentication Completed Page Content:",
+  1
+ ],
+ [
+  "Authentication Details",
+  1
+ ],
+ [
+  "Authentication Path:",
+  1
+ ],
+ [
+  "Authentication Plugin",
+  1
+ ],
+ [
+  "Authentication Throttling",
+  1
+ ],
+ [
+  "Authorization",
+  1
+ ],
+ [
+  "Automatically Detect Media Type",
+  1
+ ],
+ [
+  "Available roles",
+  1
+ ],
+ [
+  "Backup account is missing required grants.",
+  1
+ ],
+ [
+  "Backup all contents of this MySQL instance",
+  1
+ ],
+ [
+  "Backup destination",
+  1
+ ],
+ [
+  "Backup directory",
+  1
+ ],
+ [
+  "Backup folder name",
+  1
+ ],
+ [
+  "Backup Jobs",
+  1
+ ],
+ [
+  "Backup Profile Name",
+  1
+ ],
+ [
+  "Backup Storage Directory (in backup home)",
+  1
+ ],
+ [
+  "Backup storage directory must be inside the backup home.",
+  1
+ ],
+ [
+  "Backup timestamp",
+  1
+ ],
+ [
+  "Backups are written in the specified backup storage directory. A timestamped subdirectory is created for each backup.",
+  1
+ ],
+ [
+  "Backups Only",
+  1
+ ],
+ [
+  "Block Timeout",
+  1
+ ],
+ [
+  "Bootstrap Local MySQL Router Instance",
+  1
+ ],
+ [
+  "Brewing",
+  1
+ ],
+ [
+  "Browse MRS Docs",
+  1
+ ],
+ [
+  "Browse MySQL REST Service Documentation",
+  1
+ ],
+ [
+  "Build Folder",
+  1
+ ],
+ [
+  "By Average Latency",
+  1
+ ],
+ [
+  "By Executions",
+  1
+ ],
+ [
+  "By Host",
+  1
+ ],
+ [
+  "By Maximum Latency",
+  1
+ ],
+ [
+  "By Total Latency",
+  1
+ ],
+ [
+  "By User",
+  1
+ ],
+ [
+  "Caches",
+  1
+ ],
+ [
+  "Cancel Tasks",
+  1
+ ],
+ [
+  "Cannot use duplicate json keys in the same table.",
+  1
+ ],
+ [
+  "Changing the password should require the password itself",
+  1
+ ],
+ [
+  "Chatbot",
+  1
+ ],
+ [
+  "Checking backup home directory.",
+  1
+ ],
+ [
+  "Checking current-user access to the MySQL data directory.",
+  1
+ ],
+ [
+  "Checking for mysqlbackup at @@basedir/bin.",
+  1
+ ],
+ [
+  "Checkpoint Age",
+  1
+ ],
+ [
+  "Choose a backup home directory.",
+  1
+ ],
+ [
+  "Cipher",
+  1
+ ],
+ [
+  "Classic",
+  1
+ ],
+ [
+  "Click Use Account to check this backup account.",
+  1
+ ],
+ [
+  "Clone Account...",
+  1
+ ],
+ [
+  "Clone User Account",
+  1
+ ],
+ [
+  "Comments to describe this REST Schema.",
+  1
+ ],
+ [
+  "Comments to describe this REST Service.",
+  1
+ ],
+ [
+  "Compress backup",
+  1
+ ],
+ [
+  "Compression applies to full and regular incremental backups. Redo-log-only incremental backups run without compression.",
+  1
+ ],
+ [
+  "Configure Instance for MySQL REST Service Support",
+  1
+ ],
+ [
+  "Configure Job...",
+  1
+ ],
+ [
+  "Configure MRS",
+  1
+ ],
+ [
+  "Configure MySQL Enterprise Backup",
+  1
+ ],
+ [
+  "Confirm Password:",
+  1
+ ],
+ [
+  "Contents",
+  1
+ ],
+ [
+  "Copy Backup Path",
+  1
+ ],
+ [
+  "Copy CREATE REST Object Statement",
+  1
+ ],
+ [
+  "Copy CREATE REST SCHEMA Statement",
+  1
+ ],
+ [
+  "Copy CREATE REST SCHEMA Statement Including Database Objects",
+  1
+ ],
+ [
+  "Copy CREATE REST SERVICE Statement",
+  1
+ ],
+ [
+  "Copy CREATE REST SERVICE Statement Including Database Objects",
+  1
+ ],
+ [
+  "Copy REST Object Request Path",
+  1
+ ],
+ [
+  "crash recovery is disabled",
+  1
+ ],
+ [
+  "Create a JSON Duality View...",
+  1
+ ],
+ [
+  "Create Connection with Bastion Service",
+  1
+ ],
+ [
+  "Create default REST authentication app",
+  1
+ ],
+ [
+  "Create JavaScript Library From...",
+  1
+ ],
+ [
+  "Create JavaScript Library...",
+  1
+ ],
+ [
+  "Create Library From",
+  1
+ ],
+ [
+  "Create MySQL Router Endpoint on new Compute Instance",
+  1
+ ],
+ [
+  "Create Stored Function...",
+  1
+ ],
+ [
+  "Create Stored JavaScript Function...",
+  1
+ ],
+ [
+  "Create Stored JavaScript Procedure...",
+  1
+ ],
+ [
+  "Create Stored Procedure...",
+  1
+ ],
+ [
+  "Create User Account",
+  1
+ ],
+ [
+  "Creating backup home directory.",
+  1
+ ],
+ [
+  "Current Count",
+  1
+ ],
+ [
+  "Current Password:",
+  1
+ ],
+ [
+  "Current Task List",
+  1
+ ],
+ [
+  "Currently granted, unavailable",
+  1
+ ],
+ [
+  "Currently inherited but not reported by SHOW PRIVILEGES.",
+  1
+ ],
+ [
+  "Custom Stored Procedure used for Authorization",
+  1
+ ],
+ [
+  "Custom URL",
+  1
+ ],
+ [
+  "Custom URL for Access Token",
+  1
+ ],
+ [
+  "DATABASE CONNECTIONS",
+  1
+ ],
+ [
+  "Database Schema Dump",
+  1
+ ],
+ [
+  "Database Schema Dump for MySQL Service",
+  1
+ ],
+ [
+  "Database Schema Name",
+  1
+ ],
+ [
+  "Database Schemas",
+  1
+ ],
+ [
+  "DB Object:",
+  1
+ ],
+ [
+  "Default Redirects",
+  1
+ ],
+ [
+  "Default Role",
+  1
+ ],
+ [
+  "Defines how often the GTID cache will be refreshed on MySQL Router instances. The value has to be set in seconds, e.g. 5.",
+  1
+ ],
+ [
+  "Delectable",
+  1
+ ],
+ [
+  "Delete Account...",
+  1
+ ],
+ [
+  "Delete Backup...",
+  1
+ ],
+ [
+  "Delete Backwards",
+  1
+ ],
+ [
+  "Delete Bastion",
+  1
+ ],
+ [
+  "Delete Compute Instance",
+  1
+ ],
+ [
+  "Delete Entry...",
+  1
+ ],
+ [
+  "Delete Forward",
+  1
+ ],
+ [
+  "Delete Job...",
+  1
+ ],
+ [
+  "Delete REST Authentication App...",
+  1
+ ],
+ [
+  "Delete REST Object...",
+  1
+ ],
+ [
+  "Delete REST Schema...",
+  1
+ ],
+ [
+  "Delete REST Service...",
+  1
+ ],
+ [
+  "Delete Router...",
+  1
+ ],
+ [
+  "Delete the DB System",
+  1
+ ],
+ [
+  "Delete the HeatWave Cluster",
+  1
+ ],
+ [
+  "Delete User...",
+  1
+ ],
+ [
+  "Detail",
+  1
+ ],
+ [
+  "Direct (Site-to-Site VPN)",
+  1
+ ],
+ [
+  "Directory",
+  1
+ ],
+ [
+  "Disable MySQL REST Service",
+  1
+ ],
+ [
+  "Disk Read Ratio",
+  1
+ ],
+ [
+  "DOC (MS Work Documents)",
+  1
+ ],
+ [
+  "Download From URL",
+  1
+ ],
+ [
+  "Drop Event ...",
+  1
+ ],
+ [
+  "Drop JSON Duality View ...",
+  1
+ ],
+ [
+  "Drop Library ...",
+  1
+ ],
+ [
+  "Drop Schema...",
+  1
+ ],
+ [
+  "Drop Table...",
+  1
+ ],
+ [
+  "Drop View ...",
+  1
+ ],
+ [
+  "Dump CREATE REST SCHEMA Statement Including Database Objects...",
+  1
+ ],
+ [
+  "Dump CREATE REST SCHEMA Statement...",
+  1
+ ],
+ [
+  "Dump REST Schema To JSON File...",
+  1
+ ],
+ [
+  "Dump REST Service as REST Project ...",
+  1
+ ],
+ [
+  "Dump REST SERVICE SQL Script...",
+  1
+ ],
+ [
+  "Edit Account...",
+  1
+ ],
+ [
+  "Edit JSON Duality View ...",
+  1
+ ],
+ [
+  "Edit Library...",
+  1
+ ],
+ [
+  "Edit REST Authentication App...",
+  1
+ ],
+ [
+  "Edit REST Object...",
+  1
+ ],
+ [
+  "Edit REST Schema...",
+  1
+ ],
+ [
+  "Edit REST Service...",
+  1
+ ],
+ [
+  "Edit User Account",
+  1
+ ],
+ [
+  "Edit User...",
+  1
+ ],
+ [
+  "Edition",
+  1
+ ],
+ [
+  "Email",
+  1
+ ],
+ [
+  "Enable MRS Scripts",
+  1
+ ],
+ [
+  "Enable MySQL REST Service",
+  1
+ ],
+ [
+  "Enables the Global Transaction Id (GTID) cache. GTIDs are used to ensure a given commit can be read on secondary instances.",
+  1
+ ],
+ [
+  "End time",
+  1
+ ],
+ [
+  "End Time",
+  1
+ ],
+ [
+  "Ensure MySQL User Privileges",
+  1
+ ],
+ [
+  "Enter a backup storage directory.",
+  1
+ ],
+ [
+  "Enter New Password:",
+  1
+ ],
+ [
+  "Enter the backup MySQL username.",
+  1
+ ],
+ [
+  "Errors that occurred while parsing the MRS Scripts",
+  1
+ ],
+ [
+  "Execute \\chat for natural language chat mode.\nExecute \\sql to switch to SQL, \\js to JS and \\ts to TypeScript.\nExecute \\help or \\? for help; ",
+  1
+ ],
+ [
+  "Execute and Print as Text",
+  1
+ ],
+ [
+  "Execute Current Statement",
+  1
+ ],
+ [
+  "Execute One",
+  1
+ ],
+ [
+  "Execute Statement",
+  1
+ ],
+ [
+  "Execute statement at current position on HeatWave",
+  1
+ ],
+ [
+  "Execute the selected script",
+  1
+ ],
+ [
+  "Execute the selection or current statement with explain",
+  1
+ ],
+ [
+  "Execute the selection or current statement with explain analyze",
+  1
+ ],
+ [
+  "Execute the selection or current statement with visual explain analyze",
+  1
+ ],
+ [
+  "Execute the statement at the caret position",
+  1
+ ],
+ [
+  "Execute with Results as Text",
+  1
+ ],
+ [
+  "Execution-time distribution",
+  1
+ ],
+ [
+  "Executions",
+  1
+ ],
+ [
+  "Explain Analyze Statement",
+  1
+ ],
+ [
+  "Explain Statement",
+  1
+ ],
+ [
+  "Export CREATE REST OBJECT Statement...",
+  1
+ ],
+ [
+  "Export REST Object To JSON File...",
+  1
+ ],
+ [
+  "Failed Attempts",
+  1
+ ],
+ [
+  "File Bug Report",
+  1
+ ],
+ [
+  "Files for Upload",
+  1
+ ],
+ [
+  "Files to ignore",
+  1
+ ],
+ [
+  "Film",
+  1
+ ],
+ [
+  "Filter roles",
+  1
+ ],
+ [
+  "First Seen",
+  1
+ ],
+ [
+  "Flags",
+  1
+ ],
+ [
+  "Folder to upload",
+  1
+ ],
+ [
+  "Force restore on retry (may overwrite the target data directory)",
+  1
+ ],
+ [
+  "Full backup schedule",
+  1
+ ],
+ [
+  "Full backups include the whole MySQL instance and are the safest base for restore, point-in-time recovery, and later incremental backups. Server metadata and system tables are included as part of the instance backup.",
+  1
+ ],
+ [
+  "Full Scan",
+  1
+ ],
+ [
+  "Generate a visual explain plan for the selection or current statement",
+  1
+ ],
+ [
+  "Generated columns are not supported.",
+  1
+ ],
+ [
+  "Generated Password",
+  1
+ ],
+ [
+  "Get Bastion Information",
+  1
+ ],
+ [
+  "Global options for the static file data cache, which keeps an in-memory cache of responses to GET requests on content set files. Maximum size of the cache. Default is 1M.",
+  1
+ ],
+ [
+  "Global Privileges",
+  1
+ ],
+ [
+  "Graph Colors",
+  1
+ ],
+ [
+  "Gray Tones",
+  1
+ ],
+ [
+  "GTID Cache",
+  1
+ ],
+ [
+  "Heap Usage vs Unused heap",
+  1
+ ],
+ [
+  "HeatWave (with LakeHouse)",
+  1
+ ],
+ [
+  "HeatWave Lakehouse Navigator",
+  1
+ ],
+ [
+  "HeatWave Memory:",
+  1
+ ],
+ [
+  "Holds an ordered list of files that should be returned when a directory path has been requested. The first matching file that is available will be returned.",
+  1
+ ],
+ [
+  "HTML (HyperText Markup Language Files)",
+  1
+ ],
+ [
+  "If set to disabled, all MySQL REST Service endpoints will be disabled.",
+  1
+ ],
+ [
+  "If this field is set its content will replace the page content of the /completed page.",
+  1
+ ],
+ [
+  "If your files have been uploaded to the OCI Object Storage select this option to load the data into Lakehouse.",
+  1
+ ],
+ [
+  "Import MySQL Workbench Connections",
+  1
+ ],
+ [
+  "In addition to the time based refresh, the GTID cache can also be refreshed based on the number of transactions that happened since the last refresh. Set in number of transactions, e.g. 500.",
+  1
+ ],
+ [
+  "Include AppBaseClass",
+  1
+ ],
+ [
+  "Incoming Network Traffic",
+  1
+ ],
+ [
+  "Incremental Backup Base",
+  1
+ ],
+ [
+  "Incremental backup schedule",
+  1
+ ],
+ [
+  "Incremental Backups Using Only the Redo Log",
+  1
+ ],
+ [
+  "Inherited global privileges can be partially revoked.",
+  1
+ ],
+ [
+  "InnoDB Buffer Pool",
+  1
+ ],
+ [
+  "InnoDB Disk Reads",
+  1
+ ],
+ [
+  "InnoDB Disk Writes",
+  1
+ ],
+ [
+  "Input Password",
+  1
+ ],
+ [
+  "Interface Definitions",
+  1
+ ],
+ [
+  "JSON Duality View Name",
+  1
+ ],
+ [
+  "JSON Duality View Schema Name",
+  1
+ ],
+ [
+  "Kill Local MySQL Router Instances",
+  1
+ ],
+ [
+  "Kill Session",
+  1
+ ],
+ [
+  "Kill the current database session",
+  1
+ ],
+ [
+  "Kill the currently running query",
+  1
+ ],
+ [
+  "Lakehouse",
+  1
+ ],
+ [
+  "Lakehouse Navigator Overview",
+  1
+ ],
+ [
+  "Lakehouse Table",
+  1
+ ],
+ [
+  "Lakehouse Tables and Loading Tasks",
+  1
+ ],
+ [
+  "Last backup",
+  1
+ ],
+ [
+  "Last full backup",
+  1
+ ],
+ [
+  "Last Seen",
+  1
+ ],
+ [
+  "Last successful backup",
+  1
+ ],
+ [
+  "Latency",
+  1
+ ],
+ [
+  "Latency percentiles",
+  1
+ ],
+ [
+  "Latest",
+  1
+ ],
+ [
+  "Library Name",
+  1
+ ],
+ [
+  "Light",
+  1
+ ],
+ [
+  "Limit to registered users",
+  1
+ ],
+ [
+  "Link REST Authentication App to REST Service...",
+  1
+ ],
+ [
+  "Link REST Authentication App...",
+  1
+ ],
+ [
+  "Linked REST Authentication Apps",
+  1
+ ],
+ [
+  "Lively",
+  1
+ ],
+ [
+  "Load and enabled the MRS scripts and triggers from this content set and create the corresponding endpoints",
+  1
+ ],
+ [
+  "Load Chat Profile",
+  1
+ ],
+ [
+  "Load Data into Lakehouse",
+  1
+ ],
+ [
+  "Load Data to HeatWave Cluster...",
+  1
+ ],
+ [
+  "Load From",
+  1
+ ],
+ [
+  "Load From File",
+  1
+ ],
+ [
+  "Load from Object Storage into Lakehouse",
+  1
+ ],
+ [
+  "Load into Lakehouse",
+  1
+ ],
+ [
+  "Load MySQL Notebook",
+  1
+ ],
+ [
+  "Load REST Service",
+  1
+ ],
+ [
+  "Load Script From File",
+  1
+ ],
+ [
+  "Load SQL Script from Disk",
+  1
+ ],
+ [
+  "Loaded",
+  1
+ ],
+ [
+  "Loading details...",
+  1
+ ],
+ [
+  "Lock account after N incorrect password entries",
+  1
+ ],
+ [
+  "Lock account for N days after too many failed password entries",
+  1
+ ],
+ [
+  "Logical - All Components",
+  1
+ ],
+ [
+  "Manage Global Privileges...",
+  1
+ ],
+ [
+  "Manage Lakehouse",
+  1
+ ],
+ [
+  "Manage Lakehouse Tables",
+  1
+ ],
+ [
+  "Manage local MySQL Enterprise Backup jobs and schedules",
+  1
+ ],
+ [
+  "Manage local MySQL Enterprise Backup jobs and schedules.",
+  1
+ ],
+ [
+  "Manage Object Privileges...",
+  1
+ ],
+ [
+  "Manage Roles...",
+  1
+ ],
+ [
+  "Mapped User Id",
+  1
+ ],
+ [
+  "Max Connections/Hour",
+  1
+ ],
+ [
+  "Max Queries/Hour",
+  1
+ ],
+ [
+  "Max Updates/Hour",
+  1
+ ],
+ [
+  "Max User Connections",
+  1
+ ],
+ [
+  "Maximum concurrent connections for this account (0 - no limitation).",
+  1
+ ],
+ [
+  "Maximum connections allowed per hour (0 - no limitation).",
+  1
+ ],
+ [
+  "Maximum queries allowed per hour (0 - no limitation).",
+  1
+ ],
+ [
+  "Maximum updates allowed per hour (0 - no limitation).",
+  1
+ ],
+ [
+  "MEB support is available only for MySQL servers running on localhost.",
+  1
+ ],
+ [
+  "Media Type",
+  1
+ ],
+ [
+  "meta.llama-3.1-405b-instruct (added cost)",
+  1
+ ],
+ [
+  "meta.llama-3.2-90b-vision-instruct (added cost)",
+  1
+ ],
+ [
+  "meta.llama-3.3-70b-instruct (added cost)",
+  1
+ ],
+ [
+  "Mistral",
+  1
+ ],
+ [
+  "MLE Heap utilization",
+  1
+ ],
+ [
+  "MLE Status",
+  1
+ ],
+ [
+  "Module Definitions",
+  1
+ ],
+ [
+  "Move Cursor to the End of the Current Statement Block",
+  1
+ ],
+ [
+  "Move Cursor to the Start of the Current Statement Block",
+  1
+ ],
+ [
+  "MRS Auth App",
+  1
+ ],
+ [
+  "MRS Content Set",
+  1
+ ],
+ [
+  "MRS Script Errors",
+  1
+ ],
+ [
+  "MRS Script Interfaces",
+  1
+ ],
+ [
+  "MRS Script language",
+  1
+ ],
+ [
+  "MRS Scripts Errors",
+  1
+ ],
+ [
+  "MRS Service Documentation",
+  1
+ ],
+ [
+  "MySQL must be manually stopped and the target data directory must be empty.",
+  1
+ ],
+ [
+  "MySQL REST Authentication App",
+  1
+ ],
+ [
+  "MySQL REST Object",
+  1
+ ],
+ [
+  "MySQL REST Schema",
+  1
+ ],
+ [
+  "MySQL REST Service Status",
+  1
+ ],
+ [
+  "MySQL REST User",
+  1
+ ],
+ [
+  "MySQL Shell for VS Code",
+  1
+ ],
+ [
+  "MySQL username for backups",
+  1
+ ],
+ [
+  "MySQL version",
+  1
+ ],
+ [
+  "MySQL Workbench 8",
+  1
+ ],
+ [
+  "mysqlbackup was found at the expected path",
+  1
+ ],
+ [
+  "New DB Notebook",
+  1
+ ],
+ [
+  "New JavaScript Script",
+  1
+ ],
+ [
+  "New Job",
+  1
+ ],
+ [
+  "New JS Script",
+  1
+ ],
+ [
+  "New Loading Task",
+  1
+ ],
+ [
+  "New TS Script",
+  1
+ ],
+ [
+  "New TypeScript Script",
+  1
+ ],
+ [
+  "Next full",
+  1
+ ],
+ [
+  "Next incremental",
+  1
+ ],
+ [
+  "No backup content loaded.",
+  1
+ ],
+ [
+  "No backup profiles found.",
+  1
+ ],
+ [
+  "No details found for the selected statement.",
+  1
+ ],
+ [
+  "No file summary was found for this backup.",
+  1
+ ],
+ [
+  "No limit",
+  1
+ ],
+ [
+  "No loading tasks scheduled at this time.",
+  1
+ ],
+ [
+  "No matching roles",
+  1
+ ],
+ [
+  "No memory usage rows found.",
+  1
+ ],
+ [
+  "No recent activity.",
+  1
+ ],
+ [
+  "No roles assigned",
+  1
+ ],
+ [
+  "no schemas available",
+  1
+ ],
+ [
+  "No schemas available",
+  1
+ ],
+ [
+  "No statement analysis rows found.",
+  1
+ ],
+ [
+  "No statement histogram buckets found.",
+  1
+ ],
+ [
+  "No timed wait data found. Relevant Performance Schema instrumentation may be disabled.",
+  1
+ ],
+ [
+  "No user tables found.",
+  1
+ ],
+ [
+  "not connected",
+  1
+ ],
+ [
+  "not installed",
+  1
+ ],
+ [
+  "Note: excluding objects that are dependencies of objects being migrated will result in a failed migration.",
+  1
+ ],
+ [
+  "Note: passwords will not be imported.",
+  1
+ ],
+ [
+  "Note: Scheduled backup requires the user to be logged in.",
+  1
+ ],
+ [
+  "NOTE: The corresponding DNS A record needs to be created manually.",
+  1
+ ],
+ [
+  "OAuth2 Settings",
+  1
+ ],
+ [
+  "Object Privileges",
+  1
+ ],
+ [
+  "Object Storage Browser",
+  1
+ ],
+ [
+  "Object Storage Item",
+  1
+ ],
+ [
+  "Occurrences",
+  1
+ ],
+ [
+  "OCI Profile:",
+  1
+ ],
+ [
+  "on days",
+  1
+ ],
+ [
+  "Open a MySQL connection before checking local access.",
+  1
+ ],
+ [
+  "Open a MySQL connection before checking the backup account.",
+  1
+ ],
+ [
+  "Open a MySQL connection before checking the backup home.",
+  1
+ ],
+ [
+  "OPEN EDITORS",
+  1
+ ],
+ [
+  "Open File",
+  1
+ ],
+ [
+  "Open New Connection using Notebook",
+  1
+ ],
+ [
+  "Open New Connection using SQL Script",
+  1
+ ],
+ [
+  "Open Notebook...",
+  1
+ ],
+ [
+  "Open Objects",
+  1
+ ],
+ [
+  "Open REST Object Request Path in Web Browser",
+  1
+ ],
+ [
+  "Open Script...",
+  1
+ ],
+ [
+  "Open SSH Bastion Session",
+  1
+ ],
+ [
+  "Opening password prompt.",
+  1
+ ],
+ [
+  "Optional id for sync-ing",
+  1
+ ],
+ [
+  "ORACLE CLOUD INFRASTRUCTURE",
+  1
+ ],
+ [
+  "Outgoing Network Traffic",
+  1
+ ],
+ [
+  "Parent and child columns must be selected.",
+  1
+ ],
+ [
+  "Partial backups include only matching objects. They are useful for focused data protection, but they are not a complete instance backup. System tables are not added automatically; include them only when the selected restore workflow requires them.",
+  1
+ ],
+ [
+  "Password Change requires Password",
+  1
+ ],
+ [
+  "Password Confirmation",
+  1
+ ],
+ [
+  "Password Expiration",
+  1
+ ],
+ [
+  "Password History",
+  1
+ ],
+ [
+  "Password invalid.",
+  1
+ ],
+ [
+  "Password Management",
+  1
+ ],
+ [
+  "Password Policy",
+  1
+ ],
+ [
+  "Password Re-use Interval",
+  1
+ ],
+ [
+  "Password status not checked.",
+  1
+ ],
+ [
+  "Password storage was cancelled or the password prompt could not be opened.",
+  1
+ ],
+ [
+  "Password valid for N days (0 - forever)",
+  1
+ ],
+ [
+  "Password valid.",
+  1
+ ],
+ [
+  "Path of the build folder, for compiled languages",
+  1
+ ],
+ [
+  "Path to mysqlbackup binary:",
+  1
+ ],
+ [
+  "PDF (Portable Document Format Files)",
+  1
+ ],
+ [
+  "Per-Account Throttling",
+  1
+ ],
+ [
+  "Per-Host Throttling",
+  1
+ ],
+ [
+  "Perform full backups",
+  1
+ ],
+ [
+  "Perform incremental backups",
+  1
+ ],
+ [
+  "Permit Login",
+  1
+ ],
+ [
+  "Physical",
+  1
+ ],
+ [
+  "Please select items from the Object Storage Browser.",
+  1
+ ],
+ [
+  "PPT (MS PowerPoint Documents)",
+  1
+ ],
+ [
+  "Prevent re-use of last N passwords (0 - always allow)",
+  1
+ ],
+ [
+  "Prevent re-use of password for N days (0 - always allow)",
+  1
+ ],
+ [
+  "Primary key should always be selected.",
+  1
+ ],
+ [
+  "Privileges",
+  1
+ ],
+ [
+  "Radiobutton",
+  1
+ ],
+ [
+  "Random Password",
+  1
+ ],
+ [
+  "Read more",
+  1
+ ],
+ [
+  "Recent Activity",
+  1
+ ],
+ [
+  "Redirection URL Validation:",
+  1
+ ],
+ [
+  "Redirection URL:",
+  1
+ ],
+ [
+  "Redirects & Static Content",
+  1
+ ],
+ [
+  "Redo logs applied",
+  1
+ ],
+ [
+  "Reformat",
+  1
+ ],
+ [
+  "Refresh Rate",
+  1
+ ],
+ [
+  "Refresh When Bastion Reaches Active State",
+  1
+ ],
+ [
+  "Refresh When Increased",
+  1
+ ],
+ [
+  "Reload Tables",
+  1
+ ],
+ [
+  "Remove All Results",
+  1
+ ],
+ [
+  "Remove Folder",
+  1
+ ],
+ [
+  "Request Path",
+  1
+ ],
+ [
+  "Require Reset",
+  1
+ ],
+ [
+  "required grants",
+  1
+ ],
+ [
+  "Rescale the HeatWave Cluster",
+  1
+ ],
+ [
+  "Reset Backup User Password",
+  1
+ ],
+ [
+  "Reset Password...",
+  1
+ ],
+ [
+  "Reset to Random Password",
+  1
+ ],
+ [
+  "Resource Limits",
+  1
+ ],
+ [
+  "Resources",
+  1
+ ],
+ [
+  "REST Client SDK Files...",
+  1
+ ],
+ [
+  "REST Object From JSON File...",
+  1
+ ],
+ [
+  "REST Object Path",
+  1
+ ],
+ [
+  "REST Schema Flags",
+  1
+ ],
+ [
+  "REST Schema From JSON File...",
+  1
+ ],
+ [
+  "REST Service Flags",
+  1
+ ],
+ [
+  "REST Service Name",
+  1
+ ],
+ [
+  "REST Service URL",
+  1
+ ],
+ [
+  "REST User Name",
+  1
+ ],
+ [
+  "REST User Password",
+  1
+ ],
+ [
+  "Restart the DB System",
+  1
+ ],
+ [
+  "Restart the HeatWave Cluster",
+  1
+ ],
+ [
+  "Restore Backup...",
+  1
+ ],
+ [
+  "Result Format",
+  1
+ ],
+ [
+  "Roles assign DB Object privileges to the user.",
+  1
+ ],
+ [
+  "Root Table Name:",
+  1
+ ],
+ [
+  "Root Table Schema Name:",
+  1
+ ],
+ [
+  "Rows Examined",
+  1
+ ],
+ [
+  "Rows Sent",
+  1
+ ],
+ [
+  "Run Current on HeatWave",
+  1
+ ],
+ [
+  "Run on HeatWave",
+  1
+ ],
+ [
+  "Save As",
+  1
+ ],
+ [
+  "Save Chat Profile",
+  1
+ ],
+ [
+  "Save this password now. It will not be shown again.",
+  1
+ ],
+ [
+  "Schedule",
+  1
+ ],
+ [
+  "Scheduling",
+  1
+ ],
+ [
+  "Schema Name",
+  1
+ ],
+ [
+  "SDK Client API Language",
+  1
+ ],
+ [
+  "SDK File Header",
+  1
+ ],
+ [
+  "SDK Language",
+  1
+ ],
+ [
+  "Search DB objects",
+  1
+ ],
+ [
+  "Search users, hosts, auth, roles, privileges",
+  1
+ ],
+ [
+  "Seen in the last 12h",
+  1
+ ],
+ [
+  "Seen in the last 15min",
+  1
+ ],
+ [
+  "Seen in the last 1h",
+  1
+ ],
+ [
+  "Seen in the last 24h",
+  1
+ ],
+ [
+  "Seen in the last 2h",
+  1
+ ],
+ [
+  "Seen in the last 30min",
+  1
+ ],
+ [
+  "Seen in the last 3h",
+  1
+ ],
+ [
+  "Seen in the last 48h",
+  1
+ ],
+ [
+  "Seen in the last 4h",
+  1
+ ],
+ [
+  "Seen in the last 8h",
+  1
+ ],
+ [
+  "Seen in the last month",
+  1
+ ],
+ [
+  "Seen in the last week",
+  1
+ ],
+ [
+  "Select assigned roles to set them as default roles for this account.",
+  1
+ ],
+ [
+  "Select backup home",
+  1
+ ],
+ [
+  "Select below whether you want to keep or delete any of the temporary resources created during the migration. You may also delete any of these resources from the OCI console.",
+  1
+ ],
+ [
+  "Select objects to be included/excluded",
+  1
+ ],
+ [
+  "Select one or more REST authentication app. This allows REST users of those applications to authenticate.",
+  1
+ ],
+ [
+  "Select or create a backup profile.",
+  1
+ ],
+ [
+  "Select this option to create a REST authentication app using the built-in MRS vendor. REST authentication apps are required to allow end users to login into the MySQL REST Service and access REST endpoints that require authentication.",
+  1
+ ],
+ [
+  "Select this option to upload files from your local file system or local company network to the Object Storage.",
+  1
+ ],
+ [
+  "Select View Mapping",
+  1
+ ],
+ [
+  "Select whether incremental backups are based on the latest backup, full or incremental, or always on the latest full backup.",
+  1
+ ],
+ [
+  "Selected Job",
+  1
+ ],
+ [
+  "Selected Profile Only",
+  1
+ ],
+ [
+  "Selected query details",
+  1
+ ],
+ [
+  "Selected Slow Query",
+  1
+ ],
+ [
+  "Selected Statement Details",
+  1
+ ],
+ [
+  "Server version at backup",
+  1
+ ],
+ [
+  "Set as Current Bastion",
+  1
+ ],
+ [
+  "Set as Current Compartment",
+  1
+ ],
+ [
+  "Set As Current Database Schema",
+  1
+ ],
+ [
+  "Set as Current REST Service",
+  1
+ ],
+ [
+  "Set as New Default Config Profile",
+  1
+ ],
+ [
+  "Set by OAuth2 vendors",
+  1
+ ],
+ [
+  "Sets the amount of time the account or client host will be blocked from authentication. The value is given in seconds.",
+  1
+ ],
+ [
+  "Sets the maximum amount of attempts per minute for a given host.",
+  1
+ ],
+ [
+  "Sets the maximum amount of attempts per minute per client. Further attempts will be blocked.",
+  1
+ ],
+ [
+  "Sets the minimum time between connection attempts for a give host. The value is given in ms.",
+  1
+ ],
+ [
+  "Sets the minimum time between connection attempts. The value is given in milliseconds.",
+  1
+ ],
+ [
+  "Share of total wait latency by class*",
+  1
+ ],
+ [
+  "Shell Tab DB Session",
+  1
+ ],
+ [
+  "Show MySQL System Schemas",
+  1
+ ],
+ [
+  "Show Private Items",
+  1
+ ],
+ [
+  "Skip Unused Pages",
+  1
+ ],
+ [
+  "Slow Queries",
+  1
+ ],
+ [
+  "Specifies that an incremental backup is created using only the redo log.",
+  1
+ ],
+ [
+  "SQL Script",
+  1
+ ],
+ [
+  "SQL Statements Executed",
+  1
+ ],
+ [
+  "SSH URI",
+  1
+ ],
+ [
+  "Start File Upload",
+  1
+ ],
+ [
+  "Start Load >>",
+  1
+ ],
+ [
+  "Start Loading Task",
+  1
+ ],
+ [
+  "Start Local MySQL Router Instance",
+  1
+ ],
+ [
+  "Start the DB System",
+  1
+ ],
+ [
+  "Start the HeatWave Cluster",
+  1
+ ],
+ [
+  "Start time",
+  1
+ ],
+ [
+  "Statement Histogram",
+  1
+ ],
+ [
+  "Statement metrics",
+  1
+ ],
+ [
+  "Static Content Folder",
+  1
+ ],
+ [
+  "Static File Cache",
+  1
+ ],
+ [
+  "Stop Local MySQL Router Instance",
+  1
+ ],
+ [
+  "Stop the DB System",
+  1
+ ],
+ [
+  "Stop the HeatWave Cluster",
+  1
+ ],
+ [
+  "Store Backup User Password",
+  1
+ ],
+ [
+  "Supported Protocols",
+  1
+ ],
+ [
+  "Switch Language of Current Block to JavaScript",
+  1
+ ],
+ [
+  "Switch Language of Current Block to SQL",
+  1
+ ],
+ [
+  "Switch Language of Current Block to TypeScript",
+  1
+ ],
+ [
+  "Table Cache",
+  1
+ ],
+ [
+  "Table Description",
+  1
+ ],
+ [
+  "Table Name:",
+  1
+ ],
+ [
+  "Table Schema:",
+  1
+ ],
+ [
+  "Table Sizes",
+  1
+ ],
+ [
+  "Tables to Exclude",
+  1
+ ],
+ [
+  "Tables to Include",
+  1
+ ],
+ [
+  "Target Database Schema",
+  1
+ ],
+ [
+  "Task",
+  1
+ ],
+ [
+  "Temp & Sort",
+  1
+ ],
+ [
+  "Temp Tables",
+  1
+ ],
+ [
+  "The authentication app",
+  1
+ ],
+ [
+  "The authentication vendor",
+  1
+ ],
+ [
+  "The authentication workflow will redirect to this URL after login.",
+  1
+ ],
+ [
+  "The backup home stores backup files, backup profiles, configuration and other files for this MySQL instance.",
+  1
+ ],
+ [
+  "The current MySQL REST Service update is being skipped.",
+  1
+ ],
+ [
+  "The current OS user can access the MySQL data directory.",
+  1
+ ],
+ [
+  "The default role for users",
+  1
+ ],
+ [
+  "The descriptive name of the REST service.",
+  1
+ ],
+ [
+  "The development language that should be used for generation",
+  1
+ ],
+ [
+  "The directory must be owned by the current OS user, allow only owner access, and be readable and writable by MySQL Workbench. It must not already be configured for another MySQL data directory.",
+  1
+ ],
+ [
+  "The directory where the SDK files should be written",
+  1
+ ],
+ [
+  "The email of the user",
+  1
+ ],
+ [
+  "The folder that should be uploaded, including all its files and sub-folders",
+  1
+ ],
+ [
+  "The following backup will be restored and replace the data directory shown below.",
+  1
+ ],
+ [
+  "The header that should be applied to the generated SDK files.",
+  1
+ ],
+ [
+  "The HTML MIME Type of the result",
+  1
+ ],
+ [
+  "The MRS Service to hold the content",
+  1
+ ],
+ [
+  "The MySQL account exists, please provide its password. If you don't know it, you may reset it.",
+  1
+ ],
+ [
+  "The MySQL REST Service metadata schema is up to date.",
+  1
+ ],
+ [
+  "The MySQL REST Service will be configured using the selected version.",
+  1
+ ],
+ [
+  "The name of the authentication app",
+  1
+ ],
+ [
+  "The name of the corresponding database schema.",
+  1
+ ],
+ [
+  "The name of the user",
+  1
+ ],
+ [
+  "The New MySQL Workbench obsoletes MySQL Workbench 8 and the MySQL Shell for Visual Studio Code extension. You may import MySQL connections and some other configuration data from these applications.",
+  1
+ ],
+ [
+  "The OAuth2 App ID/Client ID for this app as defined by the vendor",
+  1
+ ],
+ [
+  "The OAuth2 App Secret/Client Secret for this app as defined by the vendor",
+  1
+ ],
+ [
+  "The password of the REST user account.",
+  1
+ ],
+ [
+  "The password of the user",
+  1
+ ],
+ [
+  "The path of the REST Schema",
+  1
+ ],
+ [
+  "The path of the REST Service",
+  1
+ ],
+ [
+  "The path of the REST Service this REST Schema belongs to.",
+  1
+ ],
+ [
+  "The path of the static files that should be served",
+  1
+ ],
+ [
+  "The path used for authentication.",
+  1
+ ],
+ [
+  "The path, has to starts with /",
+  1
+ ],
+ [
+  "The primary key for at least one of the two tables must be selected.",
+  1
+ ],
+ [
+  "The protocol the REST service is accessed on. HTTPS is preferred.",
+  1
+ ],
+ [
+  "The request path to access the content, has to start with /",
+  1
+ ],
+ [
+  "The request path to access the schema, has to start with / and needs to be unique.",
+  1
+ ],
+ [
+  "The schema where the duality view is created",
+  1
+ ],
+ [
+  "The URL context root of this service, has to start with / and needs to be unique.",
+  1
+ ],
+ [
+  "The URL to access the REST Service",
+  1
+ ],
+ [
+  "The user name of the REST user account. This account will be enabled to login into the MySQL REST Service and access all REST endpoints of the linked REST services.",
+  1
+ ],
+ [
+  "The version of the MySQL REST Service metadata schema.",
+  1
+ ],
+ [
+  "The version to update to MySQL REST Service metadata schema to.",
+  1
+ ],
+ [
+  "The wizard automatically checks that the current OS user can read and traverse the MySQL data directory.",
+  1
+ ],
+ [
+  "This option allows you to monitor running your data loading task and manage your data inside Lakehouse.",
+  1
+ ],
+ [
+  "This wizard checks pre-requisites and configures MySQL Workbench for securely creating and scheduling backups using MEB.",
+  1
+ ],
+ [
+  "Threads",
+  1
+ ],
+ [
+  "Throttling General",
+  1
+ ],
+ [
+  "Time Range",
+  1
+ ],
+ [
+  "Tip: you can copy the private key for the jump host to your regular SSH configuration directory to keep it for the future.",
+  1
+ ],
+ [
+  "To switch applications over to the new DB System without data loss, perform the following steps at a time of your convenience (i.e. when database update activity is low):",
+  1
+ ],
+ [
+  "Toggle Logging",
+  1
+ ],
+ [
+  "Toggle Page Borders",
+  1
+ ],
+ [
+  "Toggle Page Margins",
+  1
+ ],
+ [
+  "Top queries",
+  1
+ ],
+ [
+  "Total Allocated Memory",
+  1
+ ],
+ [
+  "Transactions",
+  1
+ ],
+ [
+  "Trello",
+  1
+ ],
+ [
+  "TXT (Plain Text Files)",
+  1
+ ],
+ [
+  "Unlink REST Authentication App...",
+  1
+ ],
+ [
+  "Unload Tables",
+  1
+ ],
+ [
+  "Unnest",
+  1
+ ],
+ [
+  "Unnest field ...",
+  1
+ ],
+ [
+  "Update to Version",
+  1
+ ],
+ [
+  "Upload Data to Object Storage",
+  1
+ ],
+ [
+  "Upload Files >>",
+  1
+ ],
+ [
+  "Upload local files to Object Storage",
+  1
+ ],
+ [
+  "Upload to Object Storage",
+  1
+ ],
+ [
+  "Usage by Host",
+  1
+ ],
+ [
+  "Usage by Thread",
+  1
+ ],
+ [
+  "Usage by User",
+  1
+ ],
+ [
+  "Use Account",
+  1
+ ],
+ [
+  "Use Notebook as Template",
+  1
+ ],
+ [
+  "Use this option to reduce backup size by removing unused pages usually generated by bulk deletes. It can increase restore time because removed unused pages must be added back.",
+  1
+ ],
+ [
+  "Use Transportable Tablespaces",
+  1
+ ],
+ [
+  "User Account SQL",
+  1
+ ],
+ [
+  "User Options",
+  1
+ ],
+ [
+  "User Password",
+  1
+ ],
+ [
+  "User Tables",
+  1
+ ],
+ [
+  "Vector Store Table Name",
+  1
+ ],
+ [
+  "Vendor",
+  1
+ ],
+ [
+  "Vendor User Id",
+  1
+ ],
+ [
+  "Verify Backup",
+  1
+ ],
+ [
+  "Version upgrades for this instance are managed by the cloud vendor.",
+  1
+ ],
+ [
+  "View as SQL...",
+  1
+ ],
+ [
+  "View Backup Contents",
+  1
+ ],
+ [
+  "View Compartment Information",
+  1
+ ],
+ [
+  "View Compute Instance Information",
+  1
+ ],
+ [
+  "View Config Profile Information",
+  1
+ ],
+ [
+  "View DB System Information",
+  1
+ ],
+ [
+  "Visual Explain Analyze Statement",
+  1
+ ],
+ [
+  "Visual Explain Statement",
+  1
+ ],
+ [
+  "Wait Classes",
+  1
+ ],
+ [
+  "Waiting for a valid backup home.",
+  1
+ ],
+ [
+  "Waiting for backup home validation.",
+  1
+ ],
+ [
+  "Waiting to check the backup account.",
+  1
+ ],
+ [
+  "Waiting: InnoDB Row Lock",
+  1
+ ],
+ [
+  "Waiting: Metadata Lock",
+  1
+ ],
+ [
+  "Waits",
+  1
+ ],
+ [
+  "Workbench OS user",
+  1
+ ],
+ [
+  "X.509 Issuer",
+  1
+ ],
+ [
+  "X.509 Subject",
+  1
+ ],
+ [
+  "Yes, with full locking",
+  1
+ ],
+ [
+  "Yes, with minimal locking",
+  1
+ ]
+]

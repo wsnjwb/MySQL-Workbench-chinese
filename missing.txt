@@ -1,0 +1,1024 @@
+  13 MySQL
+  13 string meta.image.inline.markdown
+   3 Blob
+   3 Shell GUI
+   2 Jdv
+   2 Other keywords
+   2 Other quoted string
+   2 Other string
+   2 Other support
+   2 Other variable
+   2 Parameter variable
+   2 Predicate entity
+   2 Python
+   2 Regular expression string
+   2 Sash
+   2 Section name
+   2 Shape
+   2 Single line comment with char
+   2 Singly quoted string
+   2 Storage modifier
+   2 String
+   2 Tag name
+   2 Token support
+   2 Triply quoted string
+   2 Type name
+   2 Type support
+   2 Udf
+   2 Unquoted string
+   2 User Variable
+   2 Variable support
+   2 Windows Arabic
+   2 Windows Baltic
+   2 Windows Central European
+   2 Windows Cyrillic
+   1 Abyss
+   1 Alt
+   1 Arguments must be Buffers
+   1 Azure
+   1 Beaker
+   1 Bell
+   1 Bigint
+   1 Bit
+   1 Blur
+   1 Book
+   1 Boolean
+   1 Bracket
+   1 Briefcase
+   1 Broadcast
+   1 Browser
+   1 Bug
+   1 Calendar
+   1 Call
+   1 Char
+   1 Chatbot
+   1 Check
+   1 Checklist
+   1 Chip
+   1 Circle
+   1 Clippy
+   1 Clock
+   1 Cloud
+   1 Code
+   1 Coffee
+   1 Combine
+   1 Comment
+   1 Compass
+   1 Copilot
+   1 Dash
+   1 Do
+   1 Donut
+   1 Ellipsis
+   1 Emphasis
+   1 Eye
+   1 Flame
+   1 Focus
+   1 Game
+   1 Gear
+   1 Generic constant
+   1 Generic Identifier
+   1 Generic invalid
+   1 Gift
+   1 Gist
+   1 Github
+   1 Globe
+   1 Grabber
+   1 Gripper
+   1 Heart
+   1 Hubot
+   1 Id
+   1 Int
+   1 Invalid code point
+   1 Invalid hex string
+   1 Invalid typed array length
+   1 Jersey
+   1 Kimbie Dark
+   1 Law
+   1 Linear
+   1 Mac
+   1 Markdown
+   1 Mistral
+   1 Monokai
+   1 Monokai Dimmed
+   1 Natural
+   1 Nchar
+   1 Nvarchar
+   1 Octoface
+   1 Parent Thread Id
+   1 Persian
+   1 Pragma
+   1 Promised timed out
+   1 Radiobutton
+   1 Refreshing from backend state
+   1 Rest
+   1 Rss
+   1 Ruby
+   1 Sentinel
+   1 Shield
+   1 Show Details
+   1 Special line comment
+   1 Tomorrow Night Blue
+   1 Twitter
+   1 Varbinary
+   1 Varchar
+   5 UTF-16 Unicode
+   5 UTF-8 Unicode
+   4 GRANT OPTION
+   4 HeatWave.Free
+   4 italic underline
+   4 left title shellBuildInfo
+   4 right shellBuildInfo
+   3 (prefers-color-scheme: light)
+   3 ===await ji.confirm(
+   3 ArrowDown
+   3 ArrowLeft
+   3 ArrowRight
+   3 ArrowUp
+   3 BadUserInput
+   3 Cannot 
+   3 detailValue connectionSqlValue
+   3 HeatWave.32GB
+   3 MySQL Shell for VS Code
+   3 progress-wrapper static
+   3 read from private field
+   3 VM.Standard.E5.Flex
+   3 write to private field
+   1 ,null==p?void 0:p.profiles.find(e=>e.uuid===n)):
+   1 ,selection:(null==t?void 0:t.activeFormat)??
+   1 ,selection:(null==t?void 0:t.languageId)??
+   1 ,value:(null==e?void 0:e.time)??
+   1 :void 0===n.estimatedCompletionTime?(null==(i=n.logTime)?void 0:i.slice(void 0,-3))??
+   1 !=typeof t&&(i=(t.getData.schemaName??
+   1 ),d=void 0!==n.startingTime?n.startingTime.slice(void 0,-3):
+   1 ===(null==e?void 0:e.phase)&&er(e,t.moduleSessionId,t.backupHomePath,t.username)?
+   1 ===(null==S?void 0:S.phase);let H=A;t&&i?s?
+   1 ===e.command.command?Fe||!0!==(null==t?void 0:t.canRestore):
+   1 HeatWave.
+   1 planUpdate begin:
+   1 planUpdate done:
+   1 Prompt dialog already active.
+   1 Select dialog already active.
+   2  GB
+   2 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+   2 Aborted_clients
+   2 Aborted_connects
+   2 access private method
+   2 AdminPage
+   2 ALTER ROUTINE
+   2 ARMSCII-8 Armenian
+   2 Big5 Traditional Chinese
+   2 CHAR VARYING
+   2 CHARACTER VARYING
+   2 Connection_errors_accept
+   2 Connection_errors_internal
+   2 Connection_errors_max_connections
+   2 Connection_errors_peer_address
+   2 Connection_errors_select
+   2 Connection_errors_tcpwrap
+   2 CREATE ROUTINE
+   2 CREATE VIEW
+   2 DEC West European
+   2 detailLabel stacked connectionSqlLabel
+   2 DOS Central European
+   2 DOS Kamenicky Czech-Slovak
+   2 DOS Russian
+   2 DOS West European
+   2 EUC-JP Japanese
+   2 EUC-KR Korean
+   2 ForeignKey
+   2 GB2312 Simplified Chinese
+   2 GBK Simplified Chinese
+   2 Generic entity + others default
+   2 GEOSTD8 Georgian
+   2 HP West European
+   2 InvalidParameter
+   2 ISO 8859-1 West European
+   2 ISO 8859-13 Baltic
+   2 ISO 8859-2 Central European
+   2 ISO 8859-7 Greek
+   2 ISO 8859-8 Hebrew
+   2 ISO 8859-9 Turkish
+   2 JavaScript
+   2 JdvObject
+   2 KOI8-R Relcom Russian
+   2 KOI8-U Ukrainian
+   2 LocalAdministrator
+   2 LOCK TABLES
+   2 LogfileGroup
+   2 LONG CHAR VARYING
+   2 LONG VARBINARY
+   2 LONG VARCHAR
+   2 Max_used_connections
+   2 MrsContentSet
+   2 MrsDbObject
+   2 MrsSchema
+   2 MrsService
+   2 MrsUser
+   2 MySQL REST Service
+   2 MySQL Shell GUI
+   2 MySQL Workbench 8
+   2 MySQL.Free
+   2 NATIONAL CHAR
+   2 NATIONAL CHAR VARYING
+   2 NATIONAL CHARACTER
+   2 NATIONAL CHARACTER VARYING
+   2 NATIONAL VARCHAR
+   2 NATIONAL VARCHARACTER
+   2 NCHAR VARCHAR
+   2 NCHAR VARCHARACTER
+   2 NCHAR VARYING
+   2 Operator keyword + operators
+   2 Shift-JIS Japanese
+   2 SHOW VIEW
+   2 SJIS for Windows Japanese
+   2 status checkmark
+   2 SystemFunction
+   2 SystemVariable
+   2 Threads_connected
+   2 Threads_running
+   2 TIS620 Thai
+   2 TypeScript
+   2 UCS-2 Unicode
+   2 UJIS for Windows Japanese
+   2 US ASCII
+   2 UserVariable
+   2 UTF-32 Unicode
+   3 Cannot add the same private member more than once
+   1 First argument must be a string, Buffer, ArrayBuffer, Array, or array-like object.
+   1  (ba08183)
+   1  AMD 
+   1  AND 
+   1  bold
+   1  clickable
+   1  codicon codicon-
+   1  default
+   1  disabled
+   1  hasAuxillary
+   1  not found. */
+   1  selected
+   1  separator
+   1  stretch
+   1  stretched
+   1  submenu
+   1  tds-arrow-expanded
+   1  tds-disabled
+   1  tds-item-selected
+   1  to include or exclude
+   1  with-status
+   1  withOverlay
+   1 , add
+   1 , auto auto
+   1 , Nodes: 
+   1 ,e,async()=>xn.meb.fixBackupMysqlUser(e.moduleSessionId,e.backupHomePath,e.username));0===(null==t?void 0:t.missingGrants.length)&&ji.showInformationMessage(
+   1 ,l=null==(t=n.status)?void 0:t.toLowerCase(),r=n.description;break;case
+   1 ,n=null==p?void 0:p.profiles[t];return We(
+   1 ,t,async()=>xn.meb.validateBackupMysqlUser(t.moduleSessionId,t.backupHomePath,t.username,e));return(null==i?void 0:i.passwordStored)&&ji.showInformationMessage(
+   1 ;break;case 3:r=i.data.bucketName+
+   1 ;break;case 5:c=Mi.Error,h+=
+   1 :n.estimatedCompletionTime.slice(void 0,-3);break;case
+   1 !==await ji.confirm(
+   1 !==R&&!x&&!_,j=(null==D?void 0:D.missingGrants)??[],V=void 0!==D&&(!D.exists||j.length>0||!D.passwordStored),q=t&&x&&!M&&(P||void 0!==D&&!D.valid&&!V),U=!t||n||
+   1 'Helvetica Neue', Helvetica, Arial, sans-serif
+   1 'length' is out of bounds
+   1 'offset' is out of bounds
+   1 'SourceCodePro+Powerline+Awesome+MySQL', monospace
+   1 'use strict';return (
+   1 "size" argument must be a number
+   1 "size" argument must not be negative
+   1 "value" argument is out of bounds
+   1 ('max_connections', 'thread_handling', 'thread_pool_size')
+   1 ('version_comment', 'max_connections', 'thread_handling', 'thread_pool_size')
+   1 );if(void 0===e)return We(
+   1 );let c;l.classList.add(
+   1 ).pop()??u;break;case 0:c=Mi.Loading,d=
+   1 [object Array]
+   1 #homeTourLocalhost, .connectionTile:not(.group):not(.back)
+   1 %b %-d, %Y
+   1 <>|]/.test(t.label))return void ji.showErrorMessage(
+   1 <Buffer 
+   1 <error loading mds database info>
+   1 <span class='treeToggle codicon codicon-chevron-right' />
+   1 <span class='treeToggle expanded codicon codicon-chevron-down' />
+   1 <span class="log-error">ERROR</span>
+   1 <span class="log-note">NOTE</span>
+   1 <span class="log-warning">WARNING</span>
+   1 ===(null==E?void 0:E.phase)?E.operation:void 0,P=
+   1 ===(null==we?void 0:we.schedulerLoginRequirement)&&We(
+   1 ===e?(pe(await xn.meb.deleteBackup(Ae,t)),ji.showInformationMessage(
+   1 ===e.command.command?!(void 0===E&&!De&&void 0!==n)||
+   1 ===t.tone?Mi.Warning:Mi.Info;return We(
+   1 About to call planCommit with 
+   1 About to call planUpdate with 
+   1 ActivateBreakpoints
+   1 AiryDropdown
+   1 AlterDatabase
+   1 AlterEvent
+   1 AlterFunction
+   1 AlterLibrary
+   1 AlterLogFileGroup
+   1 AlterProcedure
+   1 AlterServer
+   1 AlterTable
+   1 AlterTableSpace
+   1 AlterUser
+   1 AlterView
+   1 AnalyzeTable
+   1 AppProvider
+   1 ArrowBoth
+   1 ArrowCircleDown
+   1 ArrowCircleLeft
+   1 ArrowCircleRight
+   1 ArrowCircleUp
+   1 ArrowSmallDown
+   1 ArrowSmallLeft
+   1 ArrowSmallRight
+   1 ArrowSmallUp
+   1 ArrowSwap
+   1 Attempt to write outside buffer bounds
+   1 authApp loginControl
+   1 AutoFocus
+   1 AzureDevops
+   1 BackUpTable
+   1 Base64-encoded connection details argument not found
+   1 BeakerStop
+   1 Bearer 
+   1 BeginWork
+   1 BellDot
+   1 BellSlash
+   1 BellSlashDot
+   1 bold underline
+   1 BracketDot
+   1 BracketError
+   1 bucket with exported data 
+   1 button, [href], input, select, textarea, [tabindex]:not([tabindex='-1'])
+   1 CacheIndex
+   1 CallIncoming
+   1 CallOutgoing
+   1 CancelResponse
+   1 CaseSensitive
+   1 caught up
+   1 CellDescription
+   1 ChangeMaster
+   1 ChatOptionsIcon
+   1 ChatQueryId
+   1 CheckAll
+   1 ChecksumTable
+   1 CheckTable
+   1 ChevronDown
+   1 ChevronLeft
+   1 ChevronRight
+   1 ChevronUp
+   1 ChromeClose
+   1 ChromeMaximize
+   1 ChromeMinimize
+   1 ChromeRestore
+   1 circleBackground animated
+   1 CircleFilled
+   1 CircleLarge
+   1 CircleLargeFilled
+   1 CircleLargeOutline
+   1 CircleOutline
+   1 CircleSlash
+   1 CircleSmall
+   1 CircleSmallFilled
+   1 CircuitBoard
+   1 ClearAll
+   1 CloseAll
+   1 CloseDirty
+   1 CloudDownload
+   1 CloudMigration
+   1 CloudUpload
+   1 CodeOss
+   1 codicon codicon-chevron-
+   1 codicon codicon-close
+   1 CollapseAll
+   1 ColorMode
+   1 ColumnSymbol
+   1 comment, comment.line, comment.block
+   1 CommentAdd
+   1 CommentDiscussion
+   1 CommentDraft
+   1 CommentUnresolved
+   1 CompareChanges
+   1 CompassActive
+   1 CompassDot
+   1 ConnectionGroup
+   1 ConnectionPage
+   1 content 
+   1 content fixedScrollbar
+   1 CreateDatabase
+   1 CreateEvent
+   1 CreateFunction
+   1 CreateIndex
+   1 CreateLibrary
+   1 CreateLibraryFrom
+   1 CreateLogFileGroup
+   1 CreateNew
+   1 CreateProcedure
+   1 CreateRoutine
+   1 CreateServer
+   1 CreateTable
+   1 CreateTableSpace
+   1 CreateTrigger
+   1 CreateUdf
+   1 CreateUser
+   1 CreateView
+   1 CreateVirtualTable
+   1 CreditCard
+   1 d 
+   1 DataResponse
+   1 DateTime
+   1 DBSYSTEM, HEATWAVECLUSTER
+   1 DebugAll
+   1 DebugAlt
+   1 DebugAltSmall
+   1 DebugBreakpoint
+   1 DebugBreakpointConditional
+   1 DebugBreakpointConditionalDisabled
+   1 DebugBreakpointConditionalUnverified
+   1 DebugBreakpointData
+   1 DebugBreakpointDataDisabled
+   1 DebugBreakpointDataUnverified
+   1 DebugBreakpointDisabled
+   1 DebugBreakpointFunction
+   1 DebugBreakpointFunctionDisabled
+   1 DebugBreakpointFunctionUnverified
+   1 DebugBreakpointLog
+   1 DebugBreakpointLogDisabled
+   1 DebugBreakpointLogUnverified
+   1 DebugBreakpointPending
+   1 DebugBreakpointUnsupported
+   1 DebugBreakpointUnverified
+   1 DebugConsole
+   1 DebugContinue
+   1 DebugContinueSmall
+   1 DebugCoverage
+   1 DebugDisconnect
+   1 DebugHint
+   1 DebugLineByLine
+   1 DebugPause
+   1 DebugRerun
+   1 DebugRestart
+   1 DebugRestartFrame
+   1 DebugReverseContinue
+   1 DebugStackframe
+   1 DebugStackframeActive
+   1 DebugStackframeDot
+   1 DebugStackframeFocused
+   1 DebugStart
+   1 DebugStepBack
+   1 DebugStepInto
+   1 DebugStepOut
+   1 DebugStepOver
+   1 DebugStop
+   1 declaration.sgml.html declaration.doctype
+   1 declaration.sgml.html declaration.doctype entity
+   1 declaration.sgml.html declaration.doctype string
+   1 declaration.tag entity
+   1 declaration.xml-processing entity
+   1 declaration.xml-processing string
+   1 delete from
+   1 delimiter 
+   1 DelimiterChange
+   1 DesktopDownload
+   1 detailSection connectionSqlLabel
+   1 DeviceCamera
+   1 DeviceCameraVideo
+   1 DeviceDesktop
+   1 DeviceMobile
+   1 DialogClose
+   1 DialogError
+   1 DialogInfo
+   1 DialogWarning
+   1 DiffAdded
+   1 DiffIgnored
+   1 DiffModified
+   1 DiffMultiple
+   1 DiffRemoved
+   1 DiffRenamed
+   1 DiffSidebyside
+   1 DiffSingle
+   1 DropDatabase
+   1 DropEvent
+   1 DropFunction
+   1 DropIndex
+   1 DropLibrary
+   1 DropLogfileGroup
+   1 DropProcedure
+   1 DropServer
+   1 DropTable
+   1 DropTablespace
+   1 DropTrigger
+   1 DropUser
+   1 DropView
+   1 encoding must be a string
+   1 EndResponse
+   1 Enter the folder or ZIP path
+   1 Enter the name of the project
+   1 entity, entity.other
+   1 ErrorResponse
+   1 ErrorSmall
+   1 EventGroup
+   1 ExplainStatement
+   1 ExplainTable
+   1 explanation migration-plan
+   1 fileViewerContent fixedScrollbar selectableText
+   1 fileViewerContent fixedScrollbar selectableText wrap
+   1 fileViewerIconButton fileViewerIconToggle
+   1 fileViewerIconButton fileViewerIconToggle active
+   1 FinalResponse
+   1 FolderActive
+   1 FolderLibrary
+   1 FolderOpened
+   1 FoldHorizontal
+   1 FoldHorizontalFilled
+   1 FoldUp
+   1 FoldVertical
+   1 FoldVerticalFilled
+   1 footer verticalCenterContent
+   1 form-group hosting.compartmentId
+   1 form-group hosting.networkCompartmentId
+   1 form-group hosting.shapeName
+   1 form-group region
+   1 FunctionGroup
+   1 Generic comment + line/block defaults
+   1 Generic constant + others default
+   1 GeometryCollection
+   1 GistFork
+   1 GistNew
+   1 GistPrivate
+   1 GistSecret
+   1 GitBranch
+   1 GitBranchCreate
+   1 GitBranchDelete
+   1 GitCommit
+   1 GitCompare
+   1 GitFetch
+   1 GitForkPrivate
+   1 GithubAction
+   1 GithubAlt
+   1 GithubInverted
+   1 GithubProject
+   1 GitMerge
+   1 GitPullRequest
+   1 GitPullRequestAbandoned
+   1 GitPullRequestAssignee
+   1 GitPullRequestClosed
+   1 GitPullRequestCreate
+   1 GitPullRequestDraft
+   1 GitPullRequestGoToChanges
+   1 GitPullRequestLabel
+   1 GitPullRequestMilestone
+   1 GitPullRequestNewChanges
+   1 GitPullRequestReviewer
+   1 GitStash
+   1 GitStashApply
+   1 GitStashPop
+   1 GoToFile
+   1 GoToSearch
+   1 GrantProxy
+   1 GraphLeft
+   1 GraphLine
+   1 GraphScatter
+   1 GroupByRefType
+   1 heading shellBuildHeading
+   1 HeartFilled
+   1 HeatWave
+   1 HeatWave.512GB
+   1 HorizontalRule
+   1 iconHost data
+   1 imageResultViewImage imageResultViewSvg
+   1 input, textarea
+   1 input, textarea, select, [contenteditable='true']
+   1 insert into
+   1 INSERT INTO
+   1 InstallPlugin
+   1 Internal error while closing websocket: 
+   1 Invalid object type 
+   1 IssueClosed
+   1 IssueDraft
+   1 IssueOpened
+   1 IssueReopened
+   1 jump host 
+   1 KebabHorizontal
+   1 KebabVertical
+   1 keyword, storage, storage.type, entity.name.tag.css, entity.name.tag.less
+   1 LayersActive
+   1 LayersDot
+   1 LayoutActivitybarLeft
+   1 LayoutActivitybarRight
+   1 LayoutCentered
+   1 LayoutMenubar
+   1 LayoutPanel
+   1 LayoutPanelCenter
+   1 LayoutPanelJustify
+   1 LayoutPanelLeft
+   1 LayoutPanelOff
+   1 LayoutPanelRight
+   1 LayoutSidebarLeft
+   1 LayoutSidebarLeftOff
+   1 LayoutSidebarRight
+   1 LayoutSidebarRightOff
+   1 LayoutStatusbar
+   1 Light+
+   1 LightBulb
+   1 LightbulbAutofix
+   1 LightbulbSparkle
+   1 LightbulbSparkleAutofix
+   1 linear animated
+   1 LineString
+   1 LinkExternal
+   1 ListFlat
+   1 ListOrdered
+   1 ListSelection
+   1 ListTree
+   1 ListUnordered
+   1 LiveShare
+   1 LoadChatOptions
+   1 LoadData
+   1 LoadDataMaster
+   1 LoadIndex
+   1 LoadTableMaster
+   1 LoadXML
+   1 local var
+   1 LocalUser
+   1 LockSmall
+   1 log-box 
+   1 LogIn
+   1 LogoGithub
+   1 LogOut
+   1 LongBlob
+   1 LongText
+   1 MailRead
+   1 MailReply
+   1 MapFilled
+   1 MapHorizontal
+   1 MapHorizontalFilled
+   1 MapVertical
+   1 MapVerticalFilled
+   1 MarkGithub
+   1 MdsEndpoint
+   1 MdsHeatWaveCluster
+   1 MdsHeatWaveLoadData
+   1 MediumBlob
+   1 MediumInt
+   1 MediumText
+   1 MenubarMore
+   1 MenuSelection
+   1 MenuSubmenu
+   1 MicFilled
+   1 MirrorPrivate
+   1 MirrorPublic
+   1 MortarBoard
+   1 MrsAddContentSet
+   1 MrsAuthApp
+   1 MrsAuthAppGroup
+   1 MrsAuthAppService
+   1 MrsAuthAppServiceGroup
+   1 MrsAuthenticate
+   1 MrsAuthenticationApp
+   1 MrsConfiguration
+   1 MrsContentFile
+   1 MrsDbObjectFunction
+   1 MrsDbObjectProcedure
+   1 MrsEditDbObject
+   1 MrsEditSchema
+   1 MrsEditService
+   1 MrsExportServiceSdk
+   1 MrsPrintSdkCode
+   1 MrsRefreshSdkCode
+   1 MrsRoot
+   1 MrsRouter
+   1 MrsRouterGroup
+   1 MrsRouterService
+   1 MrsSdkExport
+   1 MrsServiceAuthApp
+   1 MrsSetCurrentService
+   1 MrsSetServiceUrl
+   1 msg 
+   1 msg embeddedLogViewer
+   1 msg fileViewer
+   1 msg icon
+   1 Multi line comment (doc type)
+   1 MultiLineString
+   1 MultipleWindows
+   1 MultiPoint
+   1 MultiPolygon
+   1 MySQL.2
+   1 MySQL.64
+   1 MySQL.8
+   1 NewFile
+   1 NewFolder
+   1 NewGroup
+   1 no refresh
+   1 NoDelimiter
+   1 NoNewline
+   1 noopener noreferrer
+   1 NotAuthorizedOrNotFound
+   1 NotebookTemplate
+   1 OCI 
+   1 offset is not uint
+   1 OneOrZero
+   1 OpenComment
+   1 OpenPreview
+   1 OpenString
+   1 OptimizeTable
+   1 options not set
+   1 OrganizationFilled
+   1 OrganizationOutline
+   1 out of range index
+   1 PassFilled
+   1 PersonAdd
+   1 PersonFilled
+   1 PersonFollow
+   1 PersonOutline
+   1 PieChart
+   1 PieGraph.render: Not enough parameters
+   1 PinnedDirty
+   1 PlayCircle
+   1 PreserveCase
+   1 PrimaryKey
+   1 primitive type
+   1 PrimitiveDot
+   1 PrimitiveSquare
+   1 PrivateOnly
+   1 ProcedureGroup
+   1 progress-wrapper 
+   1 progress-wrapper animated migration-checks-progress
+   1 QueryStatus
+   1 QueryType
+   1 QuickInputBack
+   1 RadioTower
+   1 ReadOnly
+   1 RecordKeys
+   1 RecordSmall
+   1 ReIndex
+   1 ReleaseSavePoint
+   1 RemoteExplorer
+   1 RemoveClose
+   1 RenameTable
+   1 RenameUser
+   1 RepairTable
+   1 ReplaceAll
+   1 RepoClone
+   1 RepoCreate
+   1 RepoDelete
+   1 RepoFetch
+   1 RepoForcePush
+   1 RepoForked
+   1 RepoPull
+   1 RepoPush
+   1 RepoSync
+   1 RequestChanges
+   1 ResetMaster
+   1 ResetSlave
+   1 RestoreTable
+   1 RestShow
+   1 RestUse
+   1 RevokeProxy
+   1 right selectable small
+   1 right title small
+   1 RollbackSavePoint
+   1 RollbackWork
+   1 RootFolder
+   1 RootFolderOpened
+   1 RunAbove
+   1 RunAll
+   1 RunAllCoverage
+   1 RunBelow
+   1 RunCoverage
+   1 RunErrors
+   1 RunSql
+   1 RunSqlIterative
+   1 SameSite
+   1 SaveAll
+   1 SaveAs
+   1 SaveChatOptions
+   1 SavePoint
+   1 SchemaDiagram
+   1 SchemaGroup
+   1 ScreenFull
+   1 ScreenNormal
+   1 ScrollbarButtonDown
+   1 ScrollbarButtonLeft
+   1 ScrollbarButtonRight
+   1 ScrollbarButtonUp
+   1 SearchFuzzy
+   1 SearchSave
+   1 SearchStop
+   1 Second argument is not a number
+   1 SELECT @@GLOBAL.partial_revokes
+   1 select @@performance_schema
+   1 ServerEnvironment
+   1 ServerProcess
+   1 SessionId
+   1 SetAutoCommit
+   1 SetGlobalObjectProperty
+   1 SetPassword
+   1 SettingsGear
+   1 SetTransaction
+   1 ShellSession
+   1 ShellSessionRoot
+   1 ShowBinaryLogs
+   1 ShowBinLogEvents
+   1 ShowCharset
+   1 ShowCollation
+   1 ShowColumns
+   1 ShowCreateDatabase
+   1 ShowCreateEvent
+   1 ShowCreateFunction
+   1 ShowCreateProcedure
+   1 ShowCreateTable
+   1 ShowCreateTrigger
+   1 ShowCreateView
+   1 ShowDatabases
+   1 ShowEngineStatus
+   1 ShowErrors
+   1 ShowEvents
+   1 ShowFunctionCode
+   1 ShowFunctionStatus
+   1 ShowGrants
+   1 ShowIndexes
+   1 ShowMasterStatus
+   1 ShowOpenTables
+   1 ShowPlugins
+   1 ShowPrivileges
+   1 ShowProcedureCode
+   1 ShowProcedureStatus
+   1 ShowProcessList
+   1 ShowProfile
+   1 ShowProfiles
+   1 ShowRelayLogEvents
+   1 ShowSlaveHosts
+   1 ShowSlaveStatus
+   1 ShowStatus
+   1 ShowStorageEngines
+   1 ShowTables
+   1 ShowTableStatus
+   1 ShowTriggers
+   1 ShowVariables
+   1 ShowWarnings
+   1 SignIn
+   1 SignOut
+   1 Single line comment (//, --, #)
+   1 SmallInt
+   1 SortPercentage
+   1 SortPrecedence
+   1 source item
+   1 SourceControl
+   1 sourceEnd out of bounds
+   1 sourceStart out of bounds
+   1 SparkleFilled
+   1 SplitHorizontal
+   1 SplitVertical
+   1 SQLite 3
+   1 SSH URI
+   1 StandaloneDocument
+   1 StarAdd
+   1 StarDelete
+   1 StarEmpty
+   1 StarFull
+   1 StarHalf
+   1 StartNewChat
+   1 StartResponse
+   1 StartSlave
+   1 StartTransaction
+   1 status error
+   1 StepAfter
+   1 StepBefore
+   1 StopCircle
+   1 StopSlave
+   1 StoredFunction
+   1 StoredProcedure
+   1 string constant
+   1 string source
+   1 string variable
+   1 string, constant.other.symbol, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter
+   1 SurroundWith
+   1 SymbolArray
+   1 SymbolBoolean
+   1 SymbolClass
+   1 SymbolColor
+   1 SymbolConstant
+   1 SymbolConstructor
+   1 SymbolCustomcolor
+   1 SymbolEnum
+   1 SymbolEnumMember
+   1 SymbolEvent
+   1 SymbolField
+   1 SymbolFile
+   1 SymbolFolder
+   1 SymbolFunction
+   1 SymbolInterface
+   1 SymbolKey
+   1 SymbolKeyword
+   1 SymbolMethod
+   1 SymbolMisc
+   1 SymbolModule
+   1 SymbolNamespace
+   1 SymbolNull
+   1 SymbolNumber
+   1 SymbolNumeric
+   1 SymbolObject
+   1 SymbolOperator
+   1 SymbolPackage
+   1 SymbolParameter
+   1 SymbolProperty
+   1 SymbolReference
+   1 SymbolRuler
+   1 SymbolSnippet
+   1 SymbolString
+   1 SymbolStruct
+   1 SymbolStructure
+   1 SymbolText
+   1 SymbolTypeParameter
+   1 SymbolUnit
+   1 SymbolValue
+   1 SymbolVariable
+   1 SyncIgnored
+   1 sys.format_time(t.PROCESSLIST_TIME * 1000000000000)
+   1 sys.format_time(t.PROCESSLIST_TIME * 1000000000000) PROCESSLIST_TIME_FORMATTED
+   1 TableGroup
+   1 TagAdd
+   1 TagRemove
+   1 targetStart out of bounds
+   1 TerminalBash
+   1 TerminalCmd
+   1 TerminalDebian
+   1 TerminalDecorationError
+   1 TerminalDecorationIncomplete
+   1 TerminalDecorationMark
+   1 TerminalDecorationSuccess
+   1 TerminalLinux
+   1 TerminalPowershell
+   1 TerminalTmux
+   1 TerminalUbuntu
+   1 TextSize
+   1 ThickDonut
+   1 ThinDonut
+   1 ThreeBars
+   1 ThumbsdownFilled
+   1 ThumbsupFilled
+   1 tile 
+   1 TimeoutError
+   1 TinyBlob
+   1 TinyInt
+   1 TinyText
+   1 title verticalCenterContent
+   1 TreeItemExpanded
+   1 TriangleDown
+   1 TriangleLeft
+   1 TriangleRight
+   1 TriangleUp
+   1 TwoOrOne
+   1 TwoOrOneOrZero
+   1 TwoOrZero
+   1 TypeError
+   1 TypeHierarchy
+   1 TypeHierarchySub
+   1 TypeHierarchySuper
+   1 UInteger
+   1 UngroupByRefType
+   1 VariableGroup
+   1 ViewGroup
+   1 viewSelector segmentedButton
+   1 visualExplainDetailsButton active
+   1 visualExplainDetailsSelector visualExplainSegmentedSelector
+   1 visualExplainLayoutButton active
+   1 visualExplainLayoutSelector visualExplainSegmentedSelector
+   1 VM.Standard.A1.Flex
+   1 VmActive
+   1 VmConnect
+   1 VmOutline
+   1 VmRunning
+   1 VscodeInsiders
+   1 WHERE 1 = 1
+   1 WholeWord
+   1 WordWrap
+   1 WorkspaceTrusted
+   1 WorkspaceUnknown
+   1 WorkspaceUnspecified
+   1 WorkspaceUntrusted
+   1 WrenchSubaction
+   2 "list" argument must be an Array of Buffers
+   1 "buffer" argument must be a Buffer instance
+   1 "encoding" must be a valid string encoding
+   1 "value" argument must not be a number
+   1 Attempt to allocate Buffer larger than maximum size: 0x
+   1 Buffer size must be a multiple of 16-bits
+   1 Buffer size must be a multiple of 32-bits
+   1 Buffer size must be a multiple of 64-bits
+   1 Buffer.write(string, encoding, offset[, length]) is no longer supported
+   1 button, input, textarea, select, [contenteditable='true'], .tabulator-row-resize-handle, .tabulator-data-tree-control
+   1 CASE WHEN esh.MYSQL_ERRNO = 0 THEN NULL ELSE CONCAT(esh.MYSQL_ERRNO, ': ', esh.MESSAGE_TEXT) END
+   1 CASE WHEN ml.OBJECT_TYPE = 'GLOBAL' THEN '<global>' ELSE CONCAT_WS('.', ml.OBJECT_SCHEMA, ml.OBJECT_NAME) END
+   1 First argument is not an instance of SetIntervalAsyncTimer
+   1 If encoding is specified then the first argument must be a string
+   1 If you think this is a bug in the application then please file a bug report at  
+   1 Invalid string. Length must be a multiple of 4
+   1 Reached maximum number of pending tasks in worker pool
+   1 show global status where VARIABLE_NAME in (
+   1 val must be string, number or Buffer
+   1 Workbench  ── socket ──▻  MySQL
+   1 Workbench  ── tcp ──▻  MySQL
+   1 Workbench  ── tcp/X protocol ──▻  MySQL
