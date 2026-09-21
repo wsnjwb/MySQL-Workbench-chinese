@@ -44,7 +44,104 @@
 
 此外 `--lang=zh-CN` 让 Chromium / Electron 自带的部分（文本框右键菜单、日期格式等）也走中文。
 
-## 二、目录说明
+## 二、使用方法
+
+### 前置条件
+
+| 项目 | 要求 |
+| --- | --- |
+| 操作系统 | Windows（默认路径探测按 Windows 编写；macOS / Linux 需用参数指定安装目录） |
+| MySQL Workbench | **26.7**（已在 26.7.0 上完整测试；其它版本可能因补丁锚点变化而失败） |
+| Node.js | 18 或更高。**只有部署/卸载时需要**，汉化生效后不需要 Node |
+
+### 安装
+
+1. 把本项目下载到本地（`git clone`，或下载 ZIP 后解压）。
+2. **完全退出 MySQL Workbench** —— 包括任务管理器里残留的后台进程，否则文件被占用。
+3. 在项目目录执行：
+
+   ```powershell
+   node tools\deploy.mjs
+   ```
+
+   脚本会自动探测默认安装目录
+   `%LOCALAPPDATA%\Programs\MySQL\MySQL Workbench`。
+   若 Workbench 装在别处，把路径作为参数传入：
+
+   ```powershell
+   node tools\deploy.mjs "D:\Program Files\MySQL\MySQL Workbench"
+   ```
+
+4. 重新启动 MySQL Workbench。菜单栏应显示
+   **文件 / 编辑 / 视图 / 运行 / 数据库 / 窗口 / 帮助**。
+
+部署脚本会自动把原始文件备份到 `backup\<时间戳>\`，而且是**幂等**的 ——
+重复执行只会更新字典文件，不会重复打补丁，也不会把文件改坏。
+
+### 验证是否生效
+
+| 检查点 | 说明 |
+| --- | --- |
+| 菜单栏是中文 | 主进程部分生效 |
+| 打开 **帮助 → 首选项**，"常规 / 后台工作进程 / 主题设置" 为中文 | 渲染层生效 |
+
+也可以直接看文件是否就位：
+
+```powershell
+Test-Path "$env:LOCALAPPDATA\Programs\MySQL\MySQL Workbench\resources\app\frontend\build\i18n-zh\renderer-zh.js"
+```
+
+返回 `True` 表示已部署。
+
+### 临时关闭（不卸载）
+
+在 Workbench 里按 `Ctrl+Shift+I` 打开 DevTools，执行：
+
+```js
+localStorage.setItem("mysqlwb-zh", "off")
+```
+
+然后重启。恢复用 `localStorage.removeItem("mysqlwb-zh")`。
+
+### 卸载 / 还原
+
+```powershell
+node tools\uninstall.mjs
+```
+
+会从 `backup\` 还原原始的 `index.html` 与 `main.cjs`，并删除新增的 `i18n-zh` 文件。
+该还原路径已测试：还原后与原文件**哈希一致**，无残留。
+
+### 升级 Workbench 之后
+
+Workbench 升级会覆盖 `index.html` 和 `main.cjs`，汉化随之失效。
+按上面「安装」的步骤重跑一次 `node tools\deploy.mjs` 即可。
+
+如果新版本改动了补丁锚点，脚本会**报错并中止**，不会写出半成品文件。
+此时请提 issue 并附上 `resources\app\package.json` 里的版本号。
+
+### 常见问题
+
+**Q：报错 `not a MySQL Workbench install`**
+默认路径没找到。在开始菜单快捷方式上右键 → 属性 → 目标，确认真实安装目录，
+再作为参数传给脚本。
+
+**Q：报错 `EPERM: operation not permitted`**
+安装目录里的文件带 Windows 只读属性。`tools\deploy.mjs` 已经会自动清除该属性；
+若仍失败，用**管理员身份**的 PowerShell 重试。
+
+**Q：部署成功，界面却还是英文**
+按顺序排查：
+1. Workbench 是否**完全退出**后重新启动（主进程补丁必须重启才生效）；
+2. 是否还有多个 Workbench 实例在运行；
+3. `resources\app\frontend\build\index.html` 里是否存在这一行：
+   `<script src="i18n-zh/renderer-zh.js"></script>`。
+
+**Q：部分文字仍是英文**
+属于已知现象，见文末「已知限制」。想自己补：把英文原文加到 `dict\core-extra.json`，
+再执行 `node tools\build-dict.mjs` 和 `node tools\deploy.mjs`。
+
+## 三、目录说明
 
 ```
 workbench-zhcn/
@@ -84,7 +181,7 @@ node tools\cdp.mjs "@tools\selftest.js"               # 验证数据表格/Monac
 
 排查完记得正常重启应用（不要长期开着调试端口）。
 
-## 三、常用命令
+## 四、开发者命令
 
 ```powershell
 cd <本目录>
@@ -103,7 +200,7 @@ node tools\uninstall.mjs
 部署脚本是**幂等**的：重复执行只会重新拷贝字典文件，不会重复打补丁。
 升级 Workbench 后重新执行一次 `build-dict.mjs` + `deploy.mjs` 即可（新版本会覆盖 `index.html` 与 `main.cjs`）。
 
-## 四、添加或修改翻译
+## 五、添加或修改翻译
 
 1. 编辑 `dict/core-extra.json`（你自己的词条）或 `dict/core-override.json`（核心词条，优先级最高）；
    格式为 `"英文原文": "中文译文"`，**英文必须与界面完全一致（含大小写与标点）**。
@@ -116,13 +213,6 @@ node tools\uninstall.mjs
 ```js
 ["^New Connection (\\d+)$", "", "新建连接 $1"],
 ```
-
-## 五、临时关闭 / 彻底卸载
-
-- **临时关闭**：在 Workbench 里按 `Ctrl+Shift+I` 打开 DevTools，执行
-  `localStorage.setItem("mysqlwb-zh","off")`，然后重启；恢复用
-  `localStorage.removeItem("mysqlwb-zh")`。
-- **彻底卸载**：`node tools\uninstall.mjs`，会从 `backup/` 还原原始文件并删除新增文件。
 
 ## 六、已知限制
 
@@ -139,7 +229,11 @@ node tools\uninstall.mjs
 - `system-variables-*.js` / `system-functions-*.js` 中的 MySQL 服务器变量与函数说明（约 8000 条）
   属于参考资料，未汉化。
 - AI 助手的提示词模板（发送给模型的英文文本）**刻意不翻译**，以免影响功能。
+- **菜单栏已验证**（文件 / 编辑 / 视图 / 运行 / 数据库 / 窗口 / 帮助 及其子项均为中文）。
+  原生右键菜单与弹出菜单走同一套翻译代码（`src/i18n-zh.cjs` 的 `translateMenuTemplate`），
+  但没有单独截图验证 —— 空连接列表下右键不弹出菜单，且需要真实连接才能覆盖全部场景。
 - 未连接的界面（欢迎页、连接管理、设置、迁移助手）已逐屏核对；
   **需要真实数据库连接的界面**（SQL 结果、模式浏览器、管理页）无法在无连接环境下核查，
-  如发现遗漏可用第四节的 CDP 方法排查，或直接把英文加到 `dict/core-extra.json`。
+  如发现遗漏可用「三、目录说明 → 排查"还有哪里没翻译"的方法」定位，
+  或直接把英文加到 `dict/core-extra.json`。
 
